@@ -2,14 +2,15 @@ project:
   type: website
 
 website:
-  site-url: https://berkeley-scf.github.io/course-site-quarto/
+  google-analytics: G-9Q0VSK0VJF
+  site-url: https://stat131a.berkeley.edu/fall-2024/
   sidebar:
     style: docked
-    title: "Stat 999"
+    title: "Stat 131a"
     logo: assets/stat_bear.png
     tools:
       - icon: github
-        href: https://github.com/berkeley-scf/course-site-quarto
+        href: https://github.com/berkeley-stat131a/fall-2024
     contents:
       - href: index.qmd
         text: Home / Schedule
