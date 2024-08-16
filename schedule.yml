@@ -1,46 +1,537 @@
+# - week: 1
+#   days:
+#     - date: "Aug 24"
+#       items:
+#         - type: "Lecture"
+#           id: "1"
+#           name: Introduction
+#           href: "./units/unit1.html"
+#           auxil:
+#             - id: "Note 1"
+#               href: "#"
+#             - id: "Note 2"
+#               href: "#"
+#         - type: "Participation"
+#           id: "1"
+#           name: Lecture Participation 1
+#           href: "#"
+#     - date: "Aug 25"
+#       items:
+#         - type: "Lab"
+#           id: "1"
+#           name: Prerequisite Coding (due Aug 29)
+#           href: "#"
+#         - type: "Homework"
+#           id: "1A"
+#           name: Plotting and Permutation Test (due Aug 31)
+#           href: "#"
+#         - type: "Homework"
+#           id: "1B"
+#           name: Prerequisite Math (due Aug 31)
+#           href: "#"
+# - week: 2
+#   days:
+#     - date: "Aug 29"
+#       items:
+#         - type: "Lecture"
+#           id: "2"
+#           name: Pandas 1
+#           href: "./units/unit2.html"
+#         - type: "Participation"
+#           id: "2"
+#           name: Lecture Participation 2
+#           href: "./units/unit3.html"
+#           auxil:
+#             id: "Note 2"
+#             href: "#"
+
 - week: 1
   days:
-    - date: "Aug 24"
+    - date: "Wed Aug 28"
       items:
         - type: "Lecture"
           id: "1"
-          name: Introduction
-          href: "./units/unit1.html"
+          name: Welcome!
+          href: "#"
           auxil:
-            - id: "Note 1"
-              href: "https://berkeley.edu"
-            - id: "Note 2"
-              href: "https://berkeley.edu"
-        - type: "Participation"
-          id: "1"
-          name: Lecture Participation 1
-          href: "https://berkeley.edu"
-    - date: "Aug 25"
+            # - id: "Slides (TBD)"
+            #   href: "#"
+            # - id: "Annotated slides (TBD)"
+            #   href: "#"
+            - id: "Worksheet (TBD)"
+              href: "#"
+            - id: "Abridged slides for live notes (TBD)"
+              href: "#"
+            - id: "Demo (TBD)"
+              href: "#"
+            # - id: "Lecture code (TBD)"
+            #   href: "#"
+    - date: "Fri Aug 30"
       items:
-        - type: "Lab"
-          id: "1"
-          name: Prerequisite Coding (due Aug 29)
-          href: "https://berkeley.edu"
-        - type: "Homework"
-          id: "1A"
-          name: Plotting and Permutation Test (due Aug 31)
-          href: "https://berkeley.edu"
-        - type: "Homework"
-          id: "1B"
-          name: Prerequisite Math (due Aug 31)
-          href: "https://berkeley.edu"
+        - type: "Lecture"
+          id: "2"
+          name: Principles of Visualization
+          href: "#"
 - week: 2
   days:
-    - date: "Aug 29"
+    - date: "Mon Sep 2"
+      items:
+        - type: "Holiday"
+          id: ": Labor Day"
+
+    - date: "Tue Sep 3"
+      items:
+        - type: "Section"
+          id: "1"
+          name: Part 1 of R and tidyverse with stop-and-frisk
+          href: "#"
+    - date: "Wed Sep 4"
       items:
         - type: "Lecture"
+          id: "3"
+          name: Boxplots and Histograms
+          href: "#"
+    - date: "Thu Sep 5"
+      items:
+        - type: "Section"
           id: "2"
-          name: Pandas 1
-          href: "./units/unit2.html"
-        - type: "Participation"
-          id: "2"
-          name: Lecture Participation 2
-          href: "./units/unit3.html"
-          auxil:
-            id: "Note 2"
-            href: "https://berkeley.edu"
+          name: Part 2 of R and tidyverse with stop-and-frisk
+          href: "#"
+    - date: "Fri Sep 6"
+      items:
+        - type: "Lecture"
+          id: "4"
+          name: Distributions of Data + Data from Distributions
+          href: "#"
+      
+# - week: 3
+#   days:
+#     - date: "Mon Sep 9"
+#       items:
+#         - type: "Lecture"
+#           id: "6"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Sep 10"
+#       items:
+#         - type: "Section"
+#           id: "3"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Sep 11"
+#       items:
+#         - type: "Lecture"
+#           id: "7"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Sep 12"
+#       items:
+#         - type: "Section"
+#           id: "4"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Sep 13"
+#       items:
+#         - type: "Lecture"
+#           id: "8"
+#           name: TBD
+#           href: "#"
+
+# - week: 4
+#   days:
+#     - date: "Mon Sep 16"
+#       items:
+#         - type: "Lecture"
+#           id: "9"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Sep 17"
+#       items:
+#         - type: "Section"
+#           id: "5"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Sep 18"
+#       items:
+#         - type: "Lecture"
+#           id: "10"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Sep 19"
+#       items:
+#         - type: "Section"
+#           id: "6"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Sep 20"
+#       items:
+#         - type: "Lecture"
+#           id: "11"
+#           name: TBD
+#           href: "#"
+
+# - week: 5
+#   days:
+#     - date: "Mon Sep 23"
+#       items:
+#         - type: "Lecture"
+#           id: "12"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Sep 24"
+#       items:
+#         - type: "Section"
+#           id: "7"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Sep 25"
+#       items:
+#         - type: "Lecture"
+#           id: "13"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Sep 26"
+#       items:
+#         - type: "Section"
+#           id: "8"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Sep 27"
+#       items:
+#         - type: "Lecture"
+#           id: "14"
+#           name: TBD
+#           href: "#"
+
+# - week: 6
+#   days:
+#     - date: "Mon Sep 30"
+#       items:
+#         - type: "Lecture"
+#           id: "15"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Oct 1"
+#       items:
+#         - type: "Section"
+#           id: "9"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Oct 2"
+#       items:
+#         - type: "Lecture"
+#           id: "16"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Oct 3"
+#       items:
+#         - type: "Section"
+#           id: "10"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Oct 4"
+#       items:
+#         - type: "Lecture"
+#           id: "17"
+#           name: TBD
+#           href: "#"
+
+# - week: 7
+#   days:
+#     - date: "Mon Oct 7"
+#       items:
+#         - type: "Lecture"
+#           id: "18"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Oct 8"
+#       items:
+#         - type: "Section"
+#           id: "11"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Oct 9"
+#       items:
+#         - type: "Lecture"
+#           id: "19"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Oct 10"
+#       items:
+#         - type: "Section"
+#           id: "12"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Oct 11"
+#       items:
+#         - type: "Lecture"
+#           id: "20"
+#           name: TBD
+#           href: "#"
+
+# - week: 8
+#   days:
+#     - date: "Mon Oct 14"
+#       items:
+#         - type: "Lecture"
+#           id: "21"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Oct 15"
+#       items:
+#         - type: "Section"
+#           id: "13"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Oct 16"
+#       items:
+#         - type: "Lecture"
+#           id: "22"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Oct 17"
+#       items:
+#         - type: "Section"
+#           id: "14"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Oct 18"
+#       items:
+#         - type: "Lecture"
+#           id: "23"
+#           name: TBD
+#           href: "#"
+
+# - week: 9
+#   days:
+#     - date: "Mon Oct 21"
+#       items:
+#         - type: "Lecture"
+#           id: "24"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Oct 22"
+#       items:
+#         - type: "Section"
+#           id: "15"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Oct 23"
+#       items:
+#         - type: "Lecture"
+#           id: "25"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Oct 24"
+#       items:
+#         - type: "Section"
+#           id: "16"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Oct 25"
+#       items:
+#         - type: "Lecture"
+#           id: "26"
+#           name: TBD
+#           href: "#"
+
+# - week: 10
+#   days:
+#     - date: "Mon Oct 28"
+#       items:
+#         - type: "Lecture"
+#           id: "27"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Oct 29"
+#       items:
+#         - type: "Section"
+#           id: "17"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Oct 30"
+#       items:
+#         - type: "Lecture"
+#           id: "28"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Oct 31"
+#       items:
+#         - type: "Section"
+#           id: "18"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Nov 1"
+#       items:
+#         - type: "Lecture"
+#           id: "29"
+#           name: TBD
+#           href: "#"
+
+# - week: 11
+#   days:
+#     - date: "Mon Nov 4"
+#       items:
+#         - type: "Lecture"
+#           id: "30"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Nov 5"
+#       items:
+#         - type: "Section"
+#           id: "19"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Nov 6"
+#       items:
+#         - type: "Lecture"
+#           id: "31"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Nov 7"
+#       items:
+#         - type: "Section"
+#           id: "20"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Nov 8"
+#       items:
+#         - type: "Lecture"
+#           id: "32"
+#           name: TBD
+#           href: "#"
+
+# - week: 12
+#   days:
+#     - date: "Mon Nov 11"
+#       items:
+#         - type: "Lecture"
+#           id: "33"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Nov 12"
+#       items:
+#         - type: "Section"
+#           id: "21"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Nov 13"
+#       items:
+#         - type: "Lecture"
+#           id: "34"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Nov 14"
+#       items:
+#         - type: "Section"
+#           id: "22"
+#       items:
+#         - type: "Section"
+#           id: "22"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Nov 15"
+#       items:
+#         - type: "Lecture"
+#           id: "35"
+#           name: TBD
+#           href: "#"
+
+# - week: 13
+#   days:
+#     - date: "Mon Nov 18"
+#       items:
+#         - type: "Lecture"
+#           id: "36"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Nov 19"
+#       items:
+#         - type: "Section"
+#           id: "23"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Nov 20"
+#       items:
+#         - type: "Lecture"
+#           id: "37"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Nov 21"
+#       items:
+#         - type: "Section"
+#           id: "24"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Nov 22"
+#       items:
+#         - type: "Lecture"
+#           id: "38"
+#           name: TBD
+#           href: "#"
+
+# - week: 14
+#   days:
+#     - date: "Mon Nov 25"
+#       items:
+#         - type: "Lecture"
+#           id: "39"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Nov 26"
+#       items:
+#         - type: "Section"
+#           id: "25"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Nov 27"
+#       items:
+#         - type: "Lecture"
+#           id: "40"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Nov 28"
+#       items:
+#         - type: "Section"
+#           id: "26"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Nov 29"
+#       items:
+#         - type: "Lecture"
+#           id: "41"
+#           name: TBD
+#           href: "#"
+
+# - week: 15
+#   days:
+#     - date: "Mon Dec 2"
+#       items:
+#         - type: "Lecture"
+#           id: "42"
+#           name: TBD
+#           href: "#"
+#     - date: "Tue Dec 3"
+#       items:
+#         - type: "Section"
+#           id: "27"
+#           name: TBD
+#           href: "#"
+#     - date: "Wed Dec 4"
+#       items:
+#         - type: "Lecture"
+#           id: "43"
+#           name: TBD
+#           href: "#"
+#     - date: "Thu Dec 5"
+#       items:
+#         - type: "Section"
+#           id: "28"
+#           name: TBD
+#           href: "#"
+#     - date: "Fri Dec 6"
+#       items:
+#         - type: "Lecture"
+#           id: "44"
+#           name: TBD
+#           href: "#"

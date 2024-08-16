@@ -13,21 +13,21 @@ listing:
 ::: {#buttons}
 :::
 
-[UNDER CONSTRUCTION]
+[THE COURSE WEBSITE IS UNDER CONSTRUCTION.]
 
 
-::: {.callout-note title="Welcome to Week 1 of Stat 131a"}
-:::
+<!-- ::: {.callout-note title="Welcome to Week 1 of Stat 131a"} -->
+<!-- ::: -->
 
-::: {.callout-note title="Welcome to Week 2"}
-Things are picking up now.
-:::
+<!-- ::: {.callout-note title="Welcome to Week 2"} -->
+<!-- Things are picking up now. -->
+<!-- ::: -->
 
 ## Schedule
 
-Here we use Quarto's EJS templating.
+<!-- Here we use Quarto's EJS templating. -->
 
-For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`.
+<!-- For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
 
 ::: {#schedule}
 :::
