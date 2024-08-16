@@ -11,7 +11,7 @@ Office hours are subject to change.
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
+**Instructor:** <a href="https://statistics.berkeley.edu/people/joshua-grossman" target='_blank'>Josh Grossman</a><br>
 `x@berkeley.edu`<br>
 Office hours: <br>
 - Thursday 3pm-5pm, Evans 309 <br>
