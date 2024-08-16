@@ -228,43 +228,26 @@ window.Quarto = {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./calendar.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Calendar</span></a>
+  <a href="./lectures.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lectures</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Units</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./units/unit1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Unit 1: Intro</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./units/unit2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Unit 2: Next</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./units/unit3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Unit 3: More</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Datasets</span></a>
+  <a href="./labs.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Labs</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./assignments.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignments</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./calendar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calendar</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -312,47 +295,26 @@ window.Quarto = {
 
 <div id="listing-buttons" class="quarto-listing quarto-listing-container-custom">
 
-  <button style="background-color: purple;"><a href="https://ibm.com">Ed</a></button>
+  <button style="background-color: purple;"><a href="https://edstem.org">Ed</a></button>
 
-  <button style="background-color: green;"><a href="https://ibm.com">DataHub</a></button>
+  <button style="background-color: green;"><a href="https://r.datahub.berkeley.edu">DataHub</a></button>
 
-  <button style="background-color: orange;"><a href="https://ibm.com">Gradescope</a></button>
+  <button style="background-color: orange;"><a href="https://www.gradescope.com">Gradescope</a></button>
 
 <div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-<p>[UNDER CONSTRUCTION]</p>
-<div class="callout callout-style-default callout-note callout-titled" title="Welcome to Week 1 of Stat 131a">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Welcome to Week 1 of Stat 131a
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled" title="Welcome to Week 2">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Welcome to Week 2
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Things are picking up now.</p>
-</div>
-</div>
+<p>[THE COURSE WEBSITE IS UNDER CONSTRUCTION.]</p>
+<!-- ::: {.callout-note title="Welcome to Week 1 of Stat 131a"} -->
+<!-- ::: -->
+<!-- ::: {.callout-note title="Welcome to Week 2"} -->
+<!-- Things are picking up now. -->
+<!-- ::: -->
 <section id="schedule" class="level2">
 <h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
-<p>Here we use Quarto’s EJS templating.</p>
-<p>For a style similar to that of <a href="https://stat20.berkeley.edu/fall-2024">Stat 20</a>, modify <code>index.qmd</code> to point to <code>assets/{schedule-alt.ejs,buttons-alt.ejs}</code> and to <code>{schedule-alt.yml,buttons-alt.yml}</code> and <code>_quarto.yml</code> to point to <code>assets/styles-alt.scss</code>.</p>
+<!-- Here we use Quarto's EJS templating. -->
+<!-- For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
 <div id="listing-schedule" class="quarto-listing quarto-listing-container-custom">
 
    <h4 class="anchored">Week 1</h4>
@@ -368,27 +330,30 @@ Welcome to Week 2
 
            <tr>
            
-           <th scope="row" rowspan="2">Aug 24:</th>
+           <th scope="row" rowspan="1">Wed Aug 28:</th>
            
-           <td><strong class="label label-Lecture">Lecture 1</strong> <a href="./units/unit1.html" target="_blank">Introduction</a></td>
+           <td>
+               <strong class="label label-Lecture">Lecture 1</strong>
+               
+                 <span>Welcome!</span>
+               
+          </td>
            
                 <td>
-                
-                  <a href="https://berkeley.edu">Note 1</a>
-                  
-                  <a href="https://berkeley.edu">Note 2</a>
-                  
-                </td>
-           
-                
-           </tr>
-        
-
-           <tr>
-           
-           <td><strong class="label label-Participation">Participation 1</strong> <a href="https://berkeley.edu" target="_blank">Lecture Participation 1</a></td>
-           
-                <td></td>
+                 
+                   
+                     <span>Worksheet (TBD)</span><br>
+                   
+                 
+                   
+                     <span>Abridged slides for live notes (TBD)</span><br>
+                   
+                 
+                   
+                     <span>Demo (TBD)</span><br>
+                   
+                 
+               </td>
            
                 
            </tr>
@@ -399,29 +364,14 @@ Welcome to Week 2
 
            <tr>
            
-           <th scope="row" rowspan="3">Aug 25:</th>
+           <th scope="row" rowspan="1">Fri Aug 30:</th>
            
-           <td><strong class="label label-Lab">Lab 1</strong> <a href="https://berkeley.edu" target="_blank">Prerequisite Coding (due Aug 29)</a></td>
-           
-                <td></td>
-           
-                
-           </tr>
-        
-
-           <tr>
-           
-           <td><strong class="label label-Homework">Homework 1A</strong> <a href="https://berkeley.edu" target="_blank">Plotting and Permutation Test (due Aug 31)</a></td>
-           
-                <td></td>
-           
-                
-           </tr>
-        
-
-           <tr>
-           
-           <td><strong class="label label-Homework">Homework 1B</strong> <a href="https://berkeley.edu" target="_blank">Prerequisite Math (due Aug 31)</a></td>
+           <td>
+               <strong class="label label-Lecture">Lecture 2</strong>
+               
+                 <span>Principles of Visualization</span>
+               
+          </td>
            
                 <td></td>
            
@@ -446,23 +396,96 @@ Welcome to Week 2
 
            <tr>
            
-           <th scope="row" rowspan="2">Aug 29:</th>
+           <th scope="row" rowspan="1">Mon Sep 2:</th>
            
-           <td><strong class="label label-Lecture">Lecture 2</strong> <a href="./units/unit2.html" target="_blank">Pandas 1</a></td>
+           <td>
+               <strong class="label label-Holiday">Holiday : Labor Day</strong>
+               
+                 <a href=""></a>
+               
+          </td>
            
                 <td></td>
            
                 
            </tr>
         
+   
+
+        
 
            <tr>
            
-           <td><strong class="label label-Participation">Participation 2</strong> <a href="./units/unit3.html" target="_blank">Lecture Participation 2</a></td>
+           <th scope="row" rowspan="1">Tue Sep 3:</th>
            
-                <td>
+           <td>
+               <strong class="label label-Section">Section 1</strong>
+               
+                 <span>Part 1 of R and tidyverse with stop-and-frisk</span>
+               
+          </td>
+           
+                <td></td>
+           
                 
-                </td>
+           </tr>
+        
+   
+
+        
+
+           <tr>
+           
+           <th scope="row" rowspan="1">Wed Sep 4:</th>
+           
+           <td>
+               <strong class="label label-Lecture">Lecture 3</strong>
+               
+                 <span>Boxplots and Histograms</span>
+               
+          </td>
+           
+                <td></td>
+           
+                
+           </tr>
+        
+   
+
+        
+
+           <tr>
+           
+           <th scope="row" rowspan="1">Thu Sep 5:</th>
+           
+           <td>
+               <strong class="label label-Section">Section 2</strong>
+               
+                 <span>Part 2 of R and tidyverse with stop-and-frisk</span>
+               
+          </td>
+           
+                <td></td>
+           
+                
+           </tr>
+        
+   
+
+        
+
+           <tr>
+           
+           <th scope="row" rowspan="1">Fri Sep 6:</th>
+           
+           <td>
+               <strong class="label label-Lecture">Lecture 4</strong>
+               
+                 <span>Distributions of Data + Data from Distributions</span>
+               
+          </td>
+           
+                <td></td>
            
                 
            </tr>
