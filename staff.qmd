@@ -1,11 +1,9 @@
 ---
-title: "Staff"
+title: "🍎 Staff"
 ---
 
-[UNDER CONSTRUCTION]
-
-Office hours are subject to change.
-
+The teaching staff is excited to have you in 131A!
+ 
 -----
 
 ::: {.grid}
@@ -13,7 +11,8 @@ Office hours are subject to change.
 ::: {.g-col-4}
 <img src="assets/josh-headshot.jpg" width="200"><br>
 **Instructor:** <a href="https://jdgrossman.com" target='_blank'>Josh Grossman</a><br>
-`jdgg@berkeley.edu`<br>
+*Please call me "Josh"! No need for "Professor", "Dr.", "Sir", etc.* <br>
+`jdgg at berkeley dot edu`<br>
 Office hours: <br>
 TBD
 <!-- - Thursday 3pm-5pm, Evans 309 <br> -->
@@ -23,7 +22,7 @@ TBD
 ::: {.g-col-4}
 <img src="assets/van-headshot.jpg" width="200"><br>
 **GSI**: <a href="https://statistics.berkeley.edu/people/van-hovenga" target="_blank">Van Hovenga</a><br>
-`vhovenga@berkeley.edu`<br>
+`vhovenga at berkeley dot edu`<br>
 Office hours:<br>
 TBD
 <!-- - Monday 11am-12pm, Evans 432<br> -->
@@ -50,3 +49,6 @@ TBD
 
 :::
 
+**In general, please use [Ed](https://estem.org) to communicate with the course staff.** 
+
+Unless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff. 

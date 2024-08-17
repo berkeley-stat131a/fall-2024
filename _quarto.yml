@@ -25,12 +25,12 @@ website:
       #     - units/unit3.qmd
       # - href: data.qmd
       #   text: Datasets
-      - href: lectures.qmd
-        text: Lectures
-      - href: labs.qmd
-        text: Labs
-      - href: assignments.qmd
-        text: Assignments
+      # - href: lectures.qmd
+      #   text: Lectures
+      # - href: labs.qmd
+      #   text: Labs
+      # - href: assignments.qmd
+      #   text: Assignments
       - href: calendar.qmd
         text: Calendar
       - href: license.qmd

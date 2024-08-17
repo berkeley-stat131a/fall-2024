@@ -13,7 +13,7 @@ listing:
 ::: {#buttons}
 :::
 
-[THE COURSE WEBSITE IS UNDER CONSTRUCTION.]
+[All information on the course website is subject to change before August 28th, 2024.]
 
 
 <!-- ::: {.callout-note title="Welcome to Week 1 of Stat 131a"} -->
@@ -23,9 +23,20 @@ listing:
 <!-- Things are picking up now. -->
 <!-- ::: -->
 
-## Schedule
+## Announcements 📣
 
-<!-- Here we use Quarto's EJS templating. -->
+Read the [syllabus](syllabus.qmd) in full! 
+
+<!-- Work through [Lab 0](https://epurdom.github.io/Stat131A/RSupport/Lab00.html). -->
+
+If applicable to you, fill out [the study group form](https://docs.google.com/forms/d/e/1FAIpQLSd2XYenKGH8jtXAOUxSl8oXpQxiLwwDGw0edC9Qw56iwDPDjA/viewform?usp=sf_link),
+[the concurrent enrollment/auditing form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link), and [lecture attendance excusal form](https://docs.google.com/forms/d/e/1FAIpQLSfQLdZRc0fCGDp-4zwtwvcbbh5F2olKB7dx_qVrNKmsY43cxg/viewform?usp=sf_link) (if you have any pre-planned conflicts with lecture time).
+
+If have a Letter of Accommodation (LoA), please open a private [Ed post](https://edstem.org) ASAP and attach your LoA.
+
+If you cannot attend a [scheduled exam](syllabus.qmd) due to an extenuating circumstance, please open a private [Ed post](https://edstem.org) ASAP and explain your situation. 
+
+## Schedule 📅
 
 <!-- For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
 
