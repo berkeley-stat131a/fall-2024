@@ -32,9 +32,9 @@ website:
       # - href: assignments.qmd
       #   text: Assignments
       - href: calendar.qmd
-        text: Calendar
-      - href: license.qmd
-        text: License
+        text: Google Calendar
+      # - href: license.qmd
+      #   text: License
 
           
 

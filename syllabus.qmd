@@ -9,14 +9,6 @@ editor:
 
 **Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.**
 
-<!-- Jump to: -->
-
-<!-- - [About Statistics 131a](#about-statistics-131a) -->
-
-<!--   - [Goals](#goals) -->
-
-<!--   - [Prerequisites](#prerequisites) -->
-
 ## Course Details 🥗
 
 ### Lectures 🧑‍🏫
@@ -27,7 +19,7 @@ MWF 2-3pm \@ [Morgan 101](https://dac.berkeley.edu/morgan-hall)
 
 Lab 101: Tuesday and Thursday, 11am-12pm \@ [Evans 330](https://www.berkeley.edu/map/evans-hall/)
 
-Lab 102: Tuesday and Thursday, 4-5p \@ [Evans 344](https://www.berkeley.edu/map/evans-hall/)
+Lab 102: Tuesday and Thursday, 4-5pm \@ [Evans 344](https://www.berkeley.edu/map/evans-hall/)
 
 You should only be signed up for one lab group.
 
@@ -50,29 +42,31 @@ so students can begin discussing the first homework assignment.
 
 ## Concurrent enrollment and auditing 👂
 
-Concurrent enrollment students wishing to register for the class should fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link) to give me information about their previous coursework so I can assess whether they have satisfied the pre-requisites.
+Concurrent enrollment students wishing to register for the class should fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link) to give me information about their previous coursework so we can assess whether they have satisfied the pre-requisites.
 
-Students who wish to audit the course can also fill out the top portion of this form to get their email added to bcourses as a guest. 
+Students who wish to audit the course can also fill out the top portion of this form to get their email added to [bcourses](https://bcourses.berkeley.edu) as a guest. 
 Only name and email is needed for auditors.
 
 ## Course platforms 🖥️
 
 [bcourses](https://bcourses.berkeley.edu) will only be used for secure course material, like exam solutions, grades, and office hour Zoom links.
 
-All other course materials will be posted on [the public course website](https://stat131a.berkeley.edu).
+All other course materials will be posted on [the public course homepage](https://stat131a.berkeley.edu/fall-2024).
 
 Assignments should be submitted via [Gradescope](https://www.gradescope.com).
 
 All course communication will take place via [Ed](https://edstem.org).
 
-The only acceptable large-language model is [PingPong](https://pingpong.hks.harvard.edu/login). 
-Enrolled students will receive an invitation to PingPong via email shortly after the semester begins. **Unless otherwise indicated, all other LLMs (e.g., ChatGPT) are prohibited and considered cheating in this course.**
+The only acceptable large-language model (LLM) for use in Stat 131a is [PingPong](https://pingpong.hks.harvard.edu/login). 
+
+- **Unless otherwise indicated, all other LLMs (e.g., ChatGPT) are prohibited and considered cheating in this course.**
+- Enrolled students will receive an invitation to PingPong via email shortly after the semester begins. 
 
 ## Office hours (OH) 🗓️
 
-Office hours times are TBD. 
+OH times are TBD. 
 
-- Times will be posted shortly after the semester begins.
+- OH times will be posted shortly after the semester begins.
 - Please note that there are no regular OH during the first week of class.
 - We may add or reschedule OH if needed. Please create a private Ed post if you have conflicts with all of the scheduled OH. 
 - For security reasons, Zoom links for OH are posted on [bcourses](https://bcourses.berkeley.edu/).
@@ -82,7 +76,7 @@ Office hours times are TBD.
 - OH is a great opportunity to discuss not only topics directly related to the course, but also anything else that's on your mind.
 - We also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.
 - Keep in mind that you **do not** need to come to office hours with an agenda. Listening in is welcomed and encouraged!
-- Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation (this is true for most courses). 
+- Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!
 - If you don't already, I highly recommend that you attend the instructors' office hours in other classes from time to time.
 
 ## Grades 💯
@@ -138,7 +132,7 @@ The homework assignments may occasionally ask you to watch additional recordings
 In-person lecture attendance is mandatory. 
 
 - It is **critically** important to practice learning in a live setting.  
-- Difficulty with paying attention in live meetings is a common hurdle for new grads. Most of life cannot be watched via recording! 
+- Difficulty with paying attention in live meetings is a common hurdle for new grads.
 
 Lecture attendance is a substantial component of your grade. 
 
@@ -146,7 +140,8 @@ Lecture attendance is a substantial component of your grade.
 - You are allowed three unexcused lecture absences. Each additional absence will impact your lecture attendance grade. 
 
 **If you cannot attend a lecture due to an extenuating circumstance, please [complete the lecture attendance excusal form](https://docs.google.com/forms/d/e/1FAIpQLSfQLdZRc0fCGDp-4zwtwvcbbh5F2olKB7dx_qVrNKmsY43cxg/viewform?usp=sf_link) before the lecture starts.**
-- This form can be completed in advance! 
+
+- This form can be completed months, weeks, or days in advance of lecture.
 
 Acceptable extenuating circumstances include: 
 
@@ -174,14 +169,15 @@ In addition to concept checks, there may be one or more neighbor discussions dur
 
 To encourage discussion among all classmates, **we will award up to two percentage points of extra credit for having a variety of neighbors.**
 
-- The students with the most unique neighbor discussions will receive the full two percentage points of extra credit.
+- The students with the highest number of unique neighbors will receive the full two percentage points of extra credit.
 - Everyone else will receive, at the minimum, a fraction of extra credit proportional to their number of unique neighbors.
-- This policy will only take effect if at least one student has spoken to 20 unique neighbors over the course of the semester.
+- This policy will only take effect if at least one student has spoken to at least 20 unique neighbors over the course of the semester.
 - As above, submitting a neighbor discussion answer outside of standard lecture time is considered cheating and an honor code violation.
 
 ## Homework 📝
 
 There are 6 homework assignments planned, though the exact number may change.
+
 - Homework will be a combination of computational exercises and data analysis using the computer, as well as conceptual questions.
 - Homework assignments are weighted equally. 
 
@@ -222,7 +218,7 @@ Extensions will only be granted if required by a Letter of Accommodation (LoA), 
 
 ## Labs 🧪
 
-Labs will review conceptual material and work through lab coding assignments.
+During lab sessions, a GSI will review conceptual material and help you work through lab coding assignments.
 
 - Lab sections meet twice a week.
 - There are no lab sections the first week of classes.
@@ -230,14 +226,14 @@ Labs will review conceptual material and work through lab coding assignments.
 We plan to have 12 lab assignments.
 
 - Each assignment will teach you how to perform the analyses shown in class using `R`.
-- Lab are intended to be finished or mostly finished during section.
+- Labs are intended to be finished or mostly finished during section.
 - HW assignments may build on the exercises covered in lab.
 
 Lab assignments are generally due on Mondays at 11:59 pm and should be submitted via [Gradescope](https://www.gradescope.com).
 
 - Labs are graded on completion, not correctness.
 
-**However, there is a self-paced [Lab 0](https://epurdom.github.io/Stat131A/RSupport/Lab00.html) for you to work through independently.**
+**While there is no Week 1 lab, there is a self-paced [Lab 0](https://epurdom.github.io/Stat131A/RSupport/Lab00.html) for you to work through independently.**
 
 - You do not have to turn in this lab, but we will assume that you have worked through this lab and understand the code.
 - If you have questions about this lab, please come to office hours or post on Ed.
@@ -255,7 +251,7 @@ Lab assignments are generally due on Mondays at 11:59 pm and should be submitted
 
 ## Final project 📊
 
-The final project will be due on the last day of of reading week, **Friday December 13**.
+The final project will be due on the last day of reading week, **Friday December 13**.
 
 More details on the final project will be provided later in the semester.
 
@@ -274,42 +270,45 @@ All exams are cumulative, with emphasis on more recent material.
 
 **If you cannot attend an exam due to an extenuating circumstance, please contact the course staff ASAP to determine whether your circumstance qualifies for a make-up exam.**
 
-# Using R and resources for R
+<!-- # Using R and resources for R -->
 
-We will be using R to analyze data in this class.
-See [R resources](../../RSupport/RResources.html) for more information.
-You will be going through an introductory lab ([Lab 0](/RSupport/Lab00.html)) to help you refresh your skills.
-See our page on [R resources](../../RSupport/RResources.html) for useful tutorials and online help.
+<!-- We will be using R to analyze data in this class. -->
+<!-- See [R resources](../../RSupport/RResources.html) for more information. -->
+<!-- You will be going through an introductory lab ([Lab 0](/RSupport/Lab00.html)) to help you refresh your skills. -->
+<!-- See our page on [R resources](../../RSupport/RResources.html) for useful tutorials and online help. -->
 
-We expect that students have already been exposed to R or python in either Stat 20 or Data 8, respectively.
-For those who come from Data 8, the first labs will help you transfer that knowledge over to R.
-Both languages are excellent platforms for analyzing data, are widely used in data science, and have their individual strengths.
-R has been developed within the statistics community specifically for data analysis, while python is a general-purpose programming language which also has large data analysis capabilities.
+<!-- We expect that students have already been exposed to R or python in either Stat 20 or Data 8, respectively. -->
+<!-- For those who come from Data 8, the first labs will help you transfer that knowledge over to R. -->
+<!-- Both languages are excellent platforms for analyzing data, are widely used in data science, and have their individual strengths. -->
+<!-- R has been developed within the statistics community specifically for data analysis, while python is a general-purpose programming language which also has large data analysis capabilities. -->
 
-The lectures will be focused on the statistical concepts.
-Learning how to do these tasks in R will be the focus of the labs.
-Do not be surprised or worried about not following the details of R code during lectures -- that is not the point (furthermore, there will sometimes be code that is really specific to the instructional purposes of the lecture, e.g. to make a specific plot, and is beyond the scope of what you would be expected to understand how to do yourself).
+<!-- The lectures will be focused on the statistical concepts. -->
+<!-- Learning how to do these tasks in R will be the focus of the labs. -->
+<!-- Do not be surprised or worried about not following the details of R code during lectures -- that is not the point (furthermore, there will sometimes be code that is really specific to the instructional purposes of the lecture, e.g. to make a specific plot, and is beyond the scope of what you would be expected to understand how to do yourself). -->
 
-In addition to what you learn in lab, the class website provides for every book chapter, complementary html/.Rmd with the code used in the lecture that will contain brief explanations, available (here)\[https://epurdom.github.io/Stat131A/RSupport/index.html\].
+<!-- In addition to what you learn in lab, the class website provides for every book chapter, complementary html/.Rmd with the code used in the lecture that will contain brief explanations, available (here)\[https://epurdom.github.io/Stat131A/RSupport/index.html\]. -->
 
-Furthermore, we expect that you've already been introduced to the basics, so that we will not need to walk you through every detail.
-The first step if you are confused about code is to look at the documentation of the function in R; the second step is to do a quick google search; and of course, ask us questions if you can't figure it out after doing that.
+<!-- Furthermore, we expect that you've already been introduced to the basics, so that we will not need to walk you through every detail. -->
+<!-- The first step if you are confused about code is to look at the documentation of the function in R; the second step is to do a quick google search; and of course, ask us questions if you can't figure it out after doing that. -->
 
-
-### Textbooks and resources 📖
+## Textbooks and resources 📖
 
 Everything you need to know for Stat 131a will be covered in lectures, labs, and assignments.
 
-Most of the course material is covered by the online textbook developed specifically for 131A.
-You can find the textbook [here](https://epurdom.github.io/Stat131A/book/).
+- It is possible to do very well in Stat 131a without ever referring to an outside textbook or resource.
+
+However, most of the course material is covered by the online textbook developed specifically for 131A.
+
+- You can find the textbook [here](https://epurdom.github.io/Stat131A/book/).
 
 The [StatQuest YouTube Channel](https://www.youtube.com/@statquest) is an *excellent* resource.
-There are videos on many of the topics we will cover in class.
+
+- StatQuest provides videos on many of the topics we will cover in class. The instructor is very entertaining!
 
 If you would like some additional optional reading, you can try the following books.
 
 -   [Theory Meets Data](http://stat88.org/textbook/content/intro.html) by Ani Adhikari. This is the online book for STAT 88 that covers introductory probability at the level of Stat 20.
-- [R for Data Science](http://r4ds.had.co.nz), by Garrett Grolemund and Hadley Wickham. This is a free online book that covers the tidyverse.
+- [R for Data Science](http://r4ds.had.co.nz), by Garrett Grolemund and Hadley Wickham. This is a free online book that covers the `tidyverse` set of `R` packages.
 -   *The Statistical Sleuth: A Course in Methods of Data Analysis* by Ramsey and Schafer
 -   *Introductory Statistics with R* by Peter Dalgaard
 
@@ -329,22 +328,26 @@ These chapters introduce hypothesis testing using only resampling ideas, ideas w
 ## Policy on Large Language Models (LLMs) 💬
 
 LLMs (e.g., ChatGPT) are becoming increasingly essential in the workplace. 
-To that end, the use of LLMs is not only permitted in this course, but encouraged. 
-Use this course as an opportunity to learn where LLMs are most useful, and where they fall short.
+
+- To that end, the use of LLMs is not only permitted in this course, but encouraged. 
+- Use this course as an opportunity to learn where LLMs are most useful, and where they fall short.
 
 Potential uses of LLMs in Stat 131A:
+
 - Generating practice quiz questions
 - Explaining course concepts
 - Helping you code
 
 Unless otherwise indicated, **you can only use the course-approved LLM [PingPong](https://pingpong.hks.harvard.edu/login) for help on labs, homework, and the final project.**.
-- Furthermore, if you use PingPong to help you, you must submit a PDF of the relevant PingPong conversation along with your assignment.
-- You are responsible for understanding every line of code that you submit in 131A. Exams may ask you to explain specific lines of code used in lab and HW solutions. 
+
+- Furthermore, if you use PingPong to help you, **you must submit a PDF of the relevant PingPong conversation along with your assignment.**
+- You are responsible for understanding every line of code that you submit in 131A. Exams may ask you to explain specific lines of code used in lab and HW solutions. So, don't use LLMs to write code without taking time to understanding the code.
 - Of course, LLMs cannot be used on exams. 
 
 It is often easy to spot default LLM text output. 
-For example, if you copy and paste answers directly from PingPong, be warned that your grader may interpret your answer as lacking in effort and **you may lose points on the assignment.**
-Take the time to understand and paraphrase the information LLMs provide you.
+
+- If you copy and paste answers directly from PingPong, be warned that your grader may interpret your answer as lacking in effort and **you may lose points on the assignment.**
+- Take the time to understand and paraphrase the information LLMs provide you.
 
 <!-- Many coding problems from past iterations of the course can now be fully solved by freely-available LLMs. -->
 <!-- With this advantange in mind, the difficulty and extent of coding required for this course may be increased substantially compared to previous years.  -->
@@ -375,7 +378,7 @@ Please post publicly when possible.
 
 If you include code in your Ed post, please use the `code editing fonts`:
 
-**Hard to read:**
+**Standard font is hard to read:**
 
 ── Attaching packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ── ✓ ggplot2 3.3.2 ✓ purrr 0.3.4 ✓ tibble 3.0.3 ✓ dplyr 1.0.2 ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ✓ readr 1.3.1 ✓ forcats 0.5.0 ── Conflicts ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ── x dplyr::filter() masks stats::filter() x dplyr::lag() masks stats::lag()
 
@@ -383,7 +386,7 @@ If you include code in your Ed post, please use the `code editing fonts`:
 
 x \<- ggplot(df) + geom_point(aes(x = year, y = count))
 
-**Easier to read:**
+**Code font is easier to read:**
 
 ```         
 ── Attaching packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──
@@ -405,11 +408,17 @@ The official course materials use the [R](http://www.r-project.org/) programming
 <!-- RStudio](http://www.rstudio.com/) is the recommended interface. -->
 <!-- We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages. -->
 <!-- While you are free to use a programming language of your choice, the course staff can only guarantee assistance with code written in `R`. -->
-As in Data 8 and Stat 20, labs and assignments will be distributed via [DataHub](https://r.datahub.berkeley.edu).
+
+- As in Data 8 and Stat 20, labs and assignments will be distributed via [DataHub](https://r.datahub.berkeley.edu).
+
+**You do not need to know anything about `R` to take this course.**
+
+- We will provide resources for you to learn everything you need to know.
 
 **The concepts taught in this course are language-agnostic.**
-In other words, everything you learn in this class can be readily implemented using a combination of other tools (e.g., `Python`, `SQL`, etc.).
-Note that LLMs are an excellent aid for translating your knowledge across different programming language and software. 
+
+- In other words, everything you learn in this class can be readily implemented using a combination of other tools (e.g., `Python`, `SQL`, etc.).
+- Note that LLMs are an excellent aid for translating your knowledge across different programming language and software. 
 
 ## Weekly topics 🥗
 
@@ -488,44 +497,51 @@ Clustering.
 
 Week 13.
 Decision trees.
-Random Forests.                                   [8](https://epurdom.github.io/Stat131A/book/regression-and-classification-trees.html) 
+Random Forests.
+[8](https://epurdom.github.io/Stat131A/book/regression-and-classification-trees.html) 
 
 Week 14.
 Buffer for Week 10-13 catch-up.
 
 Week 15.
 Most likely, catch-up and review.
-Intro to causal inference, if time permits.
+If time permits, intro to causal inference.
 
-### Academic Honesty Policy 👍
+## Academic Honesty Policy 👍
 
 Homework and projects must be completed independently, with the following exceptions:
+
 - You may discuss specific issues/questions you have about the homework at a high level, but you must not sit down and do the assignment jointly.
 - Giving advice about code or coding tips is also not cheating, but you can not directly share code with other classmates.
 
-For **exams** cheating includes, but is not limited to, using electronic materials in an exam beyond that allowed, copying off another person's exam or quiz, allowing someone to copy off of your exam or quiz, and having someone take an exam or quiz for you.
+For exams, cheating includes, but is not limited to, using electronic materials in an exam beyond that allowed, copying off another person's exam or quiz, allowing someone to copy off of your exam or quiz, and having someone take an exam or quiz for you.
 
 Requesting, obtaining, and/or using solutions from previous years or from the internet or other sources, if such happen to be available, is considered cheating.
 
 In fairness to students who put in an honest effort, cheaters will be harshly treated.
+
 - **Any evidence of cheating will result in a score of zero (0) on the entire assignment or examination, and perhaps a failing grade in the class.**
 - We will always report incidences of cheating to the Office of Student Conduct, which may administer additional punishment.
 
-### Accommodations 💙
+## Accommodations 💙
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. 
+
 - If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with Josh, whether after class, in office hours, via Ed, or via email.
 
-**If you already have a Letter of Accommodation, please open a private [Ed post](https://edstem.org) ASAP and attach your LoA.** - We can accommodate you more easily if you provide this information early in the semester.
+**If you already have a Letter of Accommodation, please open a private [Ed post](https://edstem.org) ASAP and attach your LoA.** 
+
+- We can accommodate you more easily if you provide this information early in the semester.
 - We cannot guarantee that last-minute requests for accommodation will be provided.
 
 If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. 
+
 - The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. 
 - You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). 
 - Josh is available if you have any questions or concerns about your accommodations.
 - In the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with Josh toward a resolution.
 
-### Diversity statement ⭐
+## Diversity statement ⭐
 
 It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. 
 We aim to present materials and conduct activities in ways that are respectful of this diversity. 
