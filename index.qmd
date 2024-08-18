@@ -27,7 +27,7 @@ listing:
 
 Read the [syllabus](syllabus.qmd) in full! 
 
-<!-- Work through [Lab 0](https://epurdom.github.io/Stat131A/RSupport/Lab00.html). -->
+Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html).
 
 If applicable to you, fill out [the study group form](https://docs.google.com/forms/d/e/1FAIpQLSd2XYenKGH8jtXAOUxSl8oXpQxiLwwDGw0edC9Qw56iwDPDjA/viewform?usp=sf_link),
 [the concurrent enrollment/auditing form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link), and [lecture attendance excusal form](https://docs.google.com/forms/d/e/1FAIpQLSfQLdZRc0fCGDp-4zwtwvcbbh5F2olKB7dx_qVrNKmsY43cxg/viewform?usp=sf_link) (if you have any pre-planned conflicts with lecture time).

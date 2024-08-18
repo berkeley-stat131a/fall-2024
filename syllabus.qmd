@@ -233,7 +233,9 @@ Lab assignments are generally due on Mondays at 11:59 pm and should be submitted
 
 - Labs are graded on completion, not correctness.
 
-**While there is no Week 1 lab, there is a self-paced [Lab 0](https://epurdom.github.io/Stat131A/RSupport/Lab00.html) for you to work through independently.**
+While there is no Week 1 lab, there is a self-paced [Lab 0](assets/Lab00.html) for you to work through independently. This lab is not graded.
+
+- **Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html).**
 
 - You do not have to turn in this lab, but we will assume that you have worked through this lab and understand the code.
 - If you have questions about this lab, please come to office hours or post on Ed.
