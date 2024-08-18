@@ -14,7 +14,7 @@
     "href": "index.html#announcements",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Announcements 📣",
-    "text": "Announcements 📣\nRead the syllabus in full!\n\nIf applicable to you, fill out the study group form, the concurrent enrollment/auditing form, and lecture attendance excusal form (if you have any pre-planned conflicts with lecture time).\nIf have a Letter of Accommodation (LoA), please open a private Ed post ASAP and attach your LoA.\nIf you cannot attend a scheduled exam due to an extenuating circumstance, please open a private Ed post ASAP and explain your situation.",
+    "text": "Announcements 📣\nRead the syllabus in full!\nBefore the first lab section on Tuesday of Week 2, work through Lab 0.\nIf applicable to you, fill out the study group form, the concurrent enrollment/auditing form, and lecture attendance excusal form (if you have any pre-planned conflicts with lecture time).\nIf have a Letter of Accommodation (LoA), please open a private Ed post ASAP and attach your LoA.\nIf you cannot attend a scheduled exam due to an extenuating circumstance, please open a private Ed post ASAP and explain your situation.",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -164,7 +164,7 @@
     "href": "syllabus.html#labs-1",
     "title": "Syllabus",
     "section": "Labs 🧪",
-    "text": "Labs 🧪\nDuring lab sessions, a GSI will review conceptual material and help you work through lab coding assignments.\n\nLab sections meet twice a week.\nThere are no lab sections the first week of classes.\n\nWe plan to have 12 lab assignments.\n\nEach assignment will teach you how to perform the analyses shown in class using R.\nLabs are intended to be finished or mostly finished during section.\nHW assignments may build on the exercises covered in lab.\n\nLab assignments are generally due on Mondays at 11:59 pm and should be submitted via Gradescope.\n\nLabs are graded on completion, not correctness.\n\nWhile there is no Week 1 lab, there is a self-paced Lab 0 for you to work through independently.\n\nYou do not have to turn in this lab, but we will assume that you have worked through this lab and understand the code.\nIf you have questions about this lab, please come to office hours or post on Ed.",
+    "text": "Labs 🧪\nDuring lab sessions, a GSI will review conceptual material and help you work through lab coding assignments.\n\nLab sections meet twice a week.\nThere are no lab sections the first week of classes.\n\nWe plan to have 12 lab assignments.\n\nEach assignment will teach you how to perform the analyses shown in class using R.\nLabs are intended to be finished or mostly finished during section.\nHW assignments may build on the exercises covered in lab.\n\nLab assignments are generally due on Mondays at 11:59 pm and should be submitted via Gradescope.\n\nLabs are graded on completion, not correctness.\n\nWhile there is no Week 1 lab, there is a self-paced Lab 0 for you to work through independently. This lab is not graded.\n\nBefore the first lab section on Tuesday of Week 2, work through Lab 0.\nYou do not have to turn in this lab, but we will assume that you have worked through this lab and understand the code.\nIf you have questions about this lab, please come to office hours or post on Ed.",
     "crumbs": [
       "Syllabus"
     ]
