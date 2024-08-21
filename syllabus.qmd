@@ -44,18 +44,18 @@ so students can begin discussing the first homework assignment.
 
 Concurrent enrollment students wishing to register for the class should fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link) to give me information about their previous coursework so we can assess whether they have satisfied the pre-requisites.
 
-Students who wish to audit the course can also fill out the top portion of this form to get their email added to [bcourses](https://bcourses.berkeley.edu) as a guest. 
+Students who wish to audit the course can also fill out the top portion of this form to get their email added to [bcourses](https://bcourses.berkeley.edu/courses/1537932) as a guest. 
 Only name and email is needed for auditors.
 
 ## Course platforms 🖥️
 
-[bcourses](https://bcourses.berkeley.edu) will only be used for secure course material, like exam solutions, grades, and office hour Zoom links.
+[bcourses](https://bcourses.berkeley.edu/courses/1537932) will only be used for secure course material, like exam solutions, grades, and office hour Zoom links.
 
 All other course materials will be posted on [the public course homepage](https://stat131a.berkeley.edu/fall-2024).
 
-Assignments should be submitted via [Gradescope](https://www.gradescope.com).
+Assignments should be submitted via [Gradescope](https://www.gradescope.com/courses/833089).
 
-All course communication will take place via [Ed](https://edstem.org).
+All course communication will take place via [Ed](https://edstem.org/us/courses/63606/discussion/).
 
 The only acceptable large-language model (LLM) for use in Stat 131a is [PingPong](https://pingpong.hks.harvard.edu/login). 
 
@@ -69,7 +69,7 @@ OH times are TBD.
 - OH times will be posted shortly after the semester begins.
 - Please note that there are no regular OH during the first week of class.
 - We may add or reschedule OH if needed. Please create a private Ed post if you have conflicts with all of the scheduled OH. 
-- For security reasons, Zoom links for OH are posted on [bcourses](https://bcourses.berkeley.edu/).
+- For security reasons, Zoom links for OH are posted on [bcourses](https://bcourses.berkeley.edu/courses/1537932).
 
 **Coming to office hours does not send a signal that you are behind or need extra help.** In fact, the students who come to OH are often the most successful in the course.
 
@@ -121,7 +121,7 @@ Most lectures will consist of an interactive problem-solving session, followed b
 Lectures will be recorded automatically.
 
 - The course staff cannot guarantee audio or video quality.
-- Lecture recordings are posted on [bcourses](https://bcourses.berkeley.edu/).
+- Lecture recordings are posted on [bcourses](https://bcourses.berkeley.edu/courses/1537932).
 
 Labs and office hours are not recorded. 
 
@@ -184,7 +184,7 @@ There are 6 homework assignments planned, though the exact number may change.
 HW is generally due every other week.
 
 - Homework assignments will be posted to the course website at least one week before the HW deadline.
-- All homework assignments will be submitted via [Gradescope](https://www.gradescope.com) and are due by 11:59 pm of the due date.
+- All homework assignments will be submitted via [Gradescope](https://www.gradescope.com/courses/833089) and are due by 11:59 pm of the due date.
 
 We will not drop your lowest-scoring homework assignment.
 
@@ -229,7 +229,7 @@ We plan to have 12 lab assignments.
 - Labs are intended to be finished or mostly finished during section.
 - HW assignments may build on the exercises covered in lab.
 
-Lab assignments are generally due on Mondays at 11:59 pm and should be submitted via [Gradescope](https://www.gradescope.com).
+Lab assignments are generally due on Mondays at 11:59 pm and should be submitted via [Gradescope](https://www.gradescope.com/courses/833089).
 
 - Labs are graded on completion, not correctness.
 
@@ -366,7 +366,7 @@ We are excited to hear what you find.
 
 ## Course communication 🗣️
 
-We use the [Ed platform](https://edstem.org) to manage course questions and discussion, and to make announcements.
+We use the [Ed platform](https://edstem.org/us/courses/63606/discussion/) to manage course questions and discussion, and to make announcements.
 
 In general, **do not email the course staff.**
 
@@ -531,7 +531,7 @@ UC Berkeley is committed to creating a learning environment that meets the needs
 
 - If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with Josh, whether after class, in office hours, via Ed, or via email.
 
-**If you already have a Letter of Accommodation, please open a private [Ed post](https://edstem.org) ASAP and attach your LoA.** 
+**If you already have a Letter of Accommodation, please open a private [Ed post](https://edstem.org/us/courses/63606/discussion/) ASAP and attach your LoA.** 
 
 - We can accommodate you more easily if you provide this information early in the semester.
 - We cannot guarantee that last-minute requests for accommodation will be provided.
