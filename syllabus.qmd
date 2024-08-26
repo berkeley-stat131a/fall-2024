@@ -11,6 +11,14 @@ editor:
 
 ## Course Details 🥗
 
+### Description 🔎
+
+Stat 131A is a upper-division course that follows Data 8 or STAT 20.
+The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests.
+Students will be introduced to the widely used `R` statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.
+
+In short, **Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!**
+
 ### Lectures 🧑‍🏫
 
 MWF 2-3pm \@ [Morgan 101](https://dac.berkeley.edu/morgan-hall)
@@ -23,13 +31,44 @@ Lab 102: Tuesday and Thursday, 4-5pm \@ [Evans 344](https://www.berkeley.edu/map
 
 You should only be signed up for one lab group.
 
-### Description 🔎
+### Office hours (OH) 🗓️
 
-Stat 131A is a upper-division course that follows Data 8 or STAT 20.
-The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests.
-Students will be introduced to the widely used `R` statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.
+OH times and locations are tentative. 
 
-In short, **Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!**
+- Note: There are no office hours in the first week of the course!
+
+Josh's Office Hours:
+
+- Tuesdays 5-6pm @ Evans 421
+- Thursdays 5-6pm @ Evans 421
+
+Van's Office Hours:
+
+- Wednesdays 10am-12pm @ Evans 434
+- Fridays 9am-11am on Zoom
+- For security reasons, Zoom links for OH are posted on [bcourses](https://bcourses.berkeley.edu/courses/1537932).
+
+15-minute coffee chats with Josh on the phone (experimental!):
+
+- One slot every weekday at 9am.
+- Designed for individual advising, not logistical concerns or coursework help.
+- For example, we can talk about career plans or life advice.
+- Please limit to no more than one chat per month. 
+- Book [at this link](https://calendly.com/jdgg-berkeley/15-minute-phone-call-with-josh?)
+
+<!-- - OH times will be posted shortly after the semester begins. -->
+<!-- - Please note that there are no regular OH during the first week of class. -->
+We may add or reschedule OH if needed. 
+
+- Please [create a private Ed post](https://edstem.org/us/courses/63606/discussion/) if you have conflicts with all of the scheduled OH. 
+
+**Coming to office hours does not send a signal that you are behind or need extra help.** In fact, the students who come to OH are often the most successful in the course.
+
+- OH is a great opportunity to discuss not only topics directly related to the course, but also anything else that's on your mind.
+- We also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.
+- Keep in mind that you **do not** need to come to office hours with an agenda. Listening in is welcomed and encouraged!
+- Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!
+- If you don't already, I highly recommend that you attend the instructors' office hours in other classes from time to time.
 
 ## Study groups 👥
 
@@ -62,23 +101,6 @@ The only acceptable large-language model (LLM) for use in Stat 131a is [PingPong
 - **Unless otherwise indicated, all other LLMs (e.g., ChatGPT) are prohibited and considered cheating in this course.**
 - Enrolled students will receive an invitation to PingPong via email shortly after the semester begins. 
 
-## Office hours (OH) 🗓️
-
-OH times are TBD. 
-
-- OH times will be posted shortly after the semester begins.
-- Please note that there are no regular OH during the first week of class.
-- We may add or reschedule OH if needed. Please [create a private Ed post](https://edstem.org/us/courses/63606/discussion/) if you have conflicts with all of the scheduled OH. 
-- For security reasons, Zoom links for OH are posted on [bcourses](https://bcourses.berkeley.edu/courses/1537932).
-
-**Coming to office hours does not send a signal that you are behind or need extra help.** In fact, the students who come to OH are often the most successful in the course.
-
-- OH is a great opportunity to discuss not only topics directly related to the course, but also anything else that's on your mind.
-- We also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.
-- Keep in mind that you **do not** need to come to office hours with an agenda. Listening in is welcomed and encouraged!
-- Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!
-- If you don't already, I highly recommend that you attend the instructors' office hours in other classes from time to time.
-
 ## Grades 💯
 
 Grades are calculated as follows:
@@ -100,9 +122,9 @@ Grades will not be curved.
 
 See attendance policy below for an opportunity to earn up to two percentage points of extra credit. 
 
-## Lecture technology policy ❌ 📱
+## Lecture technology policy ❌ 👩‍💻 $~$ ✅📱
 
-Most lectures will consist of an interactive problem-solving session, followed by a hands-on demo or coding session. 
+Most lectures will consist of an interactive problem-solving session, followed by a hands-on demo or coding session.
 
 - **Laptops and tablets with attached keyboards are not allowed during the problem-solving session**, though you are permitted to use a tablet to take handwritten notes. 
 

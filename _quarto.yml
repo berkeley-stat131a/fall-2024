@@ -45,4 +45,6 @@ format:
     toc: true
 
 
-
+include-in-header:
+  - text: |
+     <link rel = "shortcut icon" href = "favicon.ico" />
