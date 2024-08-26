@@ -75,7 +75,37 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 </script>
+<link rel="shortcut icon" href="favicon.ico">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="assets/styles.css">
 </head>
@@ -156,16 +186,16 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
   <ul>
   <li><a href="#course-details" id="toc-course-details" class="nav-link active" data-scroll-target="#course-details">Course Details 🥗</a>
   <ul class="collapse">
+  <li><a href="#description" id="toc-description" class="nav-link" data-scroll-target="#description">Description 🔎</a></li>
   <li><a href="#lectures" id="toc-lectures" class="nav-link" data-scroll-target="#lectures">Lectures 🧑‍🏫</a></li>
   <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs">Labs 🧪</a></li>
-  <li><a href="#description" id="toc-description" class="nav-link" data-scroll-target="#description">Description 🔎</a></li>
+  <li><a href="#office-hours-oh" id="toc-office-hours-oh" class="nav-link" data-scroll-target="#office-hours-oh">Office hours (OH) 🗓️</a></li>
   </ul></li>
   <li><a href="#study-groups" id="toc-study-groups" class="nav-link" data-scroll-target="#study-groups">Study groups 👥</a></li>
   <li><a href="#concurrent-enrollment-and-auditing" id="toc-concurrent-enrollment-and-auditing" class="nav-link" data-scroll-target="#concurrent-enrollment-and-auditing">Concurrent enrollment and auditing 👂</a></li>
   <li><a href="#course-platforms" id="toc-course-platforms" class="nav-link" data-scroll-target="#course-platforms">Course platforms 🖥️</a></li>
-  <li><a href="#office-hours-oh" id="toc-office-hours-oh" class="nav-link" data-scroll-target="#office-hours-oh">Office hours (OH) 🗓️</a></li>
   <li><a href="#grades" id="toc-grades" class="nav-link" data-scroll-target="#grades">Grades 💯</a></li>
-  <li><a href="#lecture-technology-policy" id="toc-lecture-technology-policy" class="nav-link" data-scroll-target="#lecture-technology-policy">Lecture technology policy ❌ 📱</a></li>
+  <li><a href="#lecture-technology-policy" id="toc-lecture-technology-policy" class="nav-link" data-scroll-target="#lecture-technology-policy">Lecture technology policy ❌ 👩‍💻 <span class="math inline">\(~\)</span> ✅📱</a></li>
   <li><a href="#lecture-recordings" id="toc-lecture-recordings" class="nav-link" data-scroll-target="#lecture-recordings">Lecture recordings 🎥</a></li>
   <li><a href="#attendance-and-participation" id="toc-attendance-and-participation" class="nav-link" data-scroll-target="#attendance-and-participation">Attendance and participation ✋</a>
   <ul class="collapse">
@@ -214,6 +244,11 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 <p><strong>Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.</strong></p>
 <section id="course-details" class="level2">
 <h2 class="anchored" data-anchor-id="course-details">Course Details 🥗</h2>
+<section id="description" class="level3">
+<h3 class="anchored" data-anchor-id="description">Description 🔎</h3>
+<p>Stat 131A is a upper-division course that follows Data 8 or STAT 20. The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests. Students will be introduced to the widely used <code>R</code> statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.</p>
+<p>In short, <strong>Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!</strong></p>
+</section>
 <section id="lectures" class="level3">
 <h3 class="anchored" data-anchor-id="lectures">Lectures 🧑‍🏫</h3>
 <p>MWF 2-3pm @ <a href="https://dac.berkeley.edu/morgan-hall">Morgan 101</a></p>
@@ -224,10 +259,45 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 <p>Lab 102: Tuesday and Thursday, 4-5pm @ <a href="https://www.berkeley.edu/map/evans-hall/">Evans 344</a></p>
 <p>You should only be signed up for one lab group.</p>
 </section>
-<section id="description" class="level3">
-<h3 class="anchored" data-anchor-id="description">Description 🔎</h3>
-<p>Stat 131A is a upper-division course that follows Data 8 or STAT 20. The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests. Students will be introduced to the widely used <code>R</code> statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.</p>
-<p>In short, <strong>Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!</strong></p>
+<section id="office-hours-oh" class="level3">
+<h3 class="anchored" data-anchor-id="office-hours-oh">Office hours (OH) 🗓️</h3>
+<p>OH times and locations are tentative.</p>
+<ul>
+<li>Note: There are no office hours in the first week of the course!</li>
+</ul>
+<p>Josh’s Office Hours:</p>
+<ul>
+<li>Tuesdays 5-6pm @ Evans 421</li>
+<li>Thursdays 5-6pm @ Evans 421</li>
+</ul>
+<p>Van’s Office Hours:</p>
+<ul>
+<li>Wednesdays 10am-12pm @ Evans 434</li>
+<li>Fridays 9am-11am on Zoom</li>
+<li>For security reasons, Zoom links for OH are posted on <a href="https://bcourses.berkeley.edu/courses/1537932">bcourses</a>.</li>
+</ul>
+<p>15-minute coffee chats with Josh on the phone (experimental!):</p>
+<ul>
+<li>One slot every weekday at 9am.</li>
+<li>Designed for individual advising, not logistical concerns or coursework help.</li>
+<li>For example, we can talk about career plans or life advice.</li>
+<li>Please limit to no more than one chat per month.</li>
+<li>Book <a href="https://calendly.com/jdgg-berkeley/15-minute-phone-call-with-josh?">at this link</a></li>
+</ul>
+<!-- - OH times will be posted shortly after the semester begins. -->
+<!-- - Please note that there are no regular OH during the first week of class. -->
+<p>We may add or reschedule OH if needed.</p>
+<ul>
+<li>Please <a href="https://edstem.org/us/courses/63606/discussion/">create a private Ed post</a> if you have conflicts with all of the scheduled OH.</li>
+</ul>
+<p><strong>Coming to office hours does not send a signal that you are behind or need extra help.</strong> In fact, the students who come to OH are often the most successful in the course.</p>
+<ul>
+<li>OH is a great opportunity to discuss not only topics directly related to the course, but also anything else that’s on your mind.</li>
+<li>We also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.</li>
+<li>Keep in mind that you <strong>do not</strong> need to come to office hours with an agenda. Listening in is welcomed and encouraged!</li>
+<li>Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!</li>
+<li>If you don’t already, I highly recommend that you attend the instructors’ office hours in other classes from time to time.</li>
+</ul>
 </section>
 </section>
 <section id="study-groups" class="level2">
@@ -253,24 +323,6 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 <li>Enrolled students will receive an invitation to PingPong via email shortly after the semester begins.</li>
 </ul>
 </section>
-<section id="office-hours-oh" class="level2">
-<h2 class="anchored" data-anchor-id="office-hours-oh">Office hours (OH) 🗓️</h2>
-<p>OH times are TBD.</p>
-<ul>
-<li>OH times will be posted shortly after the semester begins.</li>
-<li>Please note that there are no regular OH during the first week of class.</li>
-<li>We may add or reschedule OH if needed. Please <a href="https://edstem.org/us/courses/63606/discussion/">create a private Ed post</a> if you have conflicts with all of the scheduled OH.</li>
-<li>For security reasons, Zoom links for OH are posted on <a href="https://bcourses.berkeley.edu/courses/1537932">bcourses</a>.</li>
-</ul>
-<p><strong>Coming to office hours does not send a signal that you are behind or need extra help.</strong> In fact, the students who come to OH are often the most successful in the course.</p>
-<ul>
-<li>OH is a great opportunity to discuss not only topics directly related to the course, but also anything else that’s on your mind.</li>
-<li>We also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.</li>
-<li>Keep in mind that you <strong>do not</strong> need to come to office hours with an agenda. Listening in is welcomed and encouraged!</li>
-<li>Finally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!</li>
-<li>If you don’t already, I highly recommend that you attend the instructors’ office hours in other classes from time to time.</li>
-</ul>
-</section>
 <section id="grades" class="level2">
 <h2 class="anchored" data-anchor-id="grades">Grades 💯</h2>
 <p>Grades are calculated as follows:</p>
@@ -293,7 +345,7 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 <p>See attendance policy below for an opportunity to earn up to two percentage points of extra credit.</p>
 </section>
 <section id="lecture-technology-policy" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-technology-policy">Lecture technology policy ❌ 📱</h2>
+<h2 class="anchored" data-anchor-id="lecture-technology-policy">Lecture technology policy ❌ 👩‍💻 <span class="math inline">\(~\)</span> ✅📱</h2>
 <p>Most lectures will consist of an interactive problem-solving session, followed by a hands-on demo or coding session.</p>
 <ul>
 <li><p><strong>Laptops and tablets with attached keyboards are not allowed during the problem-solving session</strong>, though you are permitted to use a tablet to take handwritten notes.</p></li>
