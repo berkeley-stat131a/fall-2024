@@ -193,7 +193,8 @@ To encourage discussion among all classmates, **we will award up to two percenta
 
 - The students with the highest number of unique neighbors will receive the full two percentage points of extra credit.
 - Everyone else will receive, at the minimum, a fraction of extra credit proportional to their number of unique neighbors.
-- This policy will only take effect if at least one student has spoken to at least 20 unique neighbors over the course of the semester.
+- For example, if you sit next to the same person all semester, you can receive full participation credit for neighbor discussions, but you will very little extra credit.
+- The extra credit policy will only take effect if at least one student has spoken to at least 20 unique neighbors over the course of the semester.
 - As above, submitting a neighbor discussion answer outside of standard lecture time is considered cheating and an honor code violation.
 
 ## Homework 📝
@@ -565,9 +566,22 @@ If you have a disability, or think you may have a disability, you can work with 
 - Josh is available if you have any questions or concerns about your accommodations.
 - In the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with Josh toward a resolution.
 
-## Diversity statement ⭐
+## Accessible DS education for all ⭐
 
-It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. 
-We aim to present materials and conduct activities in ways that are respectful of this diversity. 
-Your suggestions are encouraged and appreciated. 
-Please let us know if you have ideas to improve the effectiveness of the course for you personally or for other students or student groups.
+In support of our commitment to making Data Science education inviting, engaging, and respectful for people of diverse identities, backgrounds, experiences, and perspectives, I want to relay the following three items from the Data Science Undergraduate Studies (DSUS): 
+
+### Device Lending options
+
+Students can access device lending options through the [Student Technology Equity Program (STEP) program](https://studenttech.berkeley.edu/devicelending).
+
+### Data Science Student Climate
+
+Data Science Undergraduate Studies faculty and staff are committed to creating a community where every person feels respected, included, and supported. 
+We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. 
+There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. 
+If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. 
+Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller\@berkeley.edu or report an incident anonymously through [this online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+
+### Community Standards
+
+Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct. We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed. 
