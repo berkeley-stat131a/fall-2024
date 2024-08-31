@@ -73,14 +73,14 @@
           name: Principles of Visualization
           href: "#"
           auxil:
-            # - id: "Slides (TBD)"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1knKWf8v94mOV03HR1FQSwFbj6yZz-vy_zCHTDhQSc7A/edit?usp=sharing"
             # - id: "Annotated slides (TBD)"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
             - id: "Lab 0"
               href: "https://stat131a.berkeley.edu/fall-2024/assets/Lab00.html"
             # - id: "Lecture code (TBD)"
