@@ -70,7 +70,7 @@
       items:
         - type: "Lecture"
           id: "2"
-          name: Principles of Visualization
+          name: Principles of visualization
           href: "#"
           auxil:
             - id: "Slides"
