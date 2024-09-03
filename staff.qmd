@@ -13,8 +13,8 @@ The teaching staff is excited to have you in 131A!
 **Instructor:** <a href="https://jdgrossman.com" target='_blank'>Josh Grossman</a><br>
 *Please call me "Josh"! No need for "Professor", "Dr.", "Sir", etc.* <br>
 `jdgg at berkeley dot edu`<br>
-Office hours: <br>
-TBD
+<!-- Office hours: <br> -->
+<!-- TBD -->
 <!-- - Thursday 3pm-5pm, Evans 309 <br> -->
 <!-- - Friday 2:00pm-4:30pm, Evans 309<br> -->
 :::
@@ -23,8 +23,8 @@ TBD
 <img src="assets/van-headshot.jpg" width="200"><br>
 **GSI**: <a href="https://statistics.berkeley.edu/people/van-hovenga" target="_blank">Van Hovenga</a><br>
 `vhovenga at berkeley dot edu`<br>
-Office hours:<br>
-TBD
+<!-- Office hours:<br> -->
+<!-- TBD -->
 <!-- - Monday 11am-12pm, Evans 432<br> -->
 <!-- - Tuesday 4pm-5pm, Evans 432<br> -->
 <!-- - Wednesday 2pm-3pm, Evans 432<br> -->
