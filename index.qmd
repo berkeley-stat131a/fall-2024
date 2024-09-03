@@ -13,11 +13,13 @@ listing:
 ::: {#buttons}
 :::
 
-[All information on the course website is subject to change before August 28th, 2024.]
+<!-- [All information on the course website is subject to change before August 28th, 2024.] -->
 
 <!-- ::: {.callout-note title="Welcome to Week 2"} -->
 <!-- Things are picking up now. -->
 <!-- ::: -->
+
+## [Concept check form](https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link)\
 
 ## Announcements 📣
 
@@ -29,12 +31,7 @@ Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyj
 
 Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html).
 
-If applicable to you, fill out [the study group form](https://docs.google.com/forms/d/e/1FAIpQLSd2XYenKGH8jtXAOUxSl8oXpQxiLwwDGw0edC9Qw56iwDPDjA/viewform?usp=sf_link),
-[the concurrent enrollment/auditing form](https://docs.google.com/forms/d/e/1FAIpQLSfbYciXBFrZvO1WbtsIOTCOiWmV2EvC3RqN0dW9_3NHzE2QWQ/viewform?usp=sf_link), and [lecture attendance excusal form](https://docs.google.com/forms/d/e/1FAIpQLSfQLdZRc0fCGDp-4zwtwvcbbh5F2olKB7dx_qVrNKmsY43cxg/viewform?usp=sf_link) (if you have any pre-planned conflicts with lecture time).
-
-If have a Letter of Accommodation (LoA), please open a private [Ed post](https://edstem.org/us/courses/63606/discussion/) ASAP and attach your LoA.
-
-If you cannot attend a [scheduled exam](https://stat131a.berkeley.edu/fall-2024/syllabus.html#exams) due to an extenuating circumstance, please open a private [Ed post](https://edstem.org/us/courses/63606/discussion/) ASAP and explain your situation. 
+If have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP.
 
 ## Schedule 📅
 
