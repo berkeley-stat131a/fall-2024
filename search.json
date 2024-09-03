@@ -4,7 +4,17 @@
     "href": "index.html",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\n[All information on the course website is subject to change before August 28th, 2024.]",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#concept-check-form",
+    "href": "index.html#concept-check-form",
+    "title": "Statistics 131a: Statistical Methods for Data Science",
+    "section": "Concept check form\n",
+    "text": "Concept check form",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -14,7 +24,7 @@
     "href": "index.html#announcements",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Announcements 📣",
-    "text": "Announcements 📣\nRead the syllabus in full!\nComplete the new student survey.\n\nThis survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.\n\nBefore the first lab section on Tuesday of Week 2, work through Lab 0.\nIf applicable to you, fill out the study group form, the concurrent enrollment/auditing form, and lecture attendance excusal form (if you have any pre-planned conflicts with lecture time).\nIf have a Letter of Accommodation (LoA), please open a private Ed post ASAP and attach your LoA.\nIf you cannot attend a scheduled exam due to an extenuating circumstance, please open a private Ed post ASAP and explain your situation.",
+    "text": "Announcements 📣\nRead the syllabus in full!\nComplete the new student survey.\n\nThis survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.\n\nBefore the first lab section on Tuesday of Week 2, work through Lab 0.\nIf have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP.",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -44,7 +54,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "[Syllabus subject to change until August 28th, 2024].\nStudents in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.",
+    "text": "Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.",
     "crumbs": [
       "Syllabus"
     ]
@@ -54,7 +64,7 @@
     "href": "syllabus.html#course-details",
     "title": "Syllabus",
     "section": "Course Details 🥗",
-    "text": "Course Details 🥗\n\nDescription 🔎\nStat 131A is a upper-division course that follows Data 8 or STAT 20. The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests. Students will be introduced to the widely used R statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.\nIn short, Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!\n\n\nLectures 🧑‍🏫\nMWF 2-3pm @ Morgan 101\n\n\nLabs 🧪\nLab 101: Tuesday and Thursday, 11am-12pm @ Evans 330\nLab 102: Tuesday and Thursday, 4-5pm @ Evans 344\nYou should only be signed up for one lab group.\n\n\nOffice hours (OH) 🗓️\nOH times and locations are tentative.\n\nNote: There are no office hours in the first week of the course!\n\nJosh’s Office Hours:\n\nMWF 1:45pm in Morgan 101 (before lecture)\nT+Th 5-6pm @ first floor Evans terrace, adjacent to Memorial Glade\n\nVan’s Office Hours:\n\nWednesdays 10am-12pm @ Evans 434\nFridays 9am-11am on Zoom\nFor security reasons, Zoom links for OH are posted on bcourses.\n\n15-minute coffee chats with Josh on the phone (experimental!):\n\nOne slot every weekday at 9am.\nDesigned for individual advising, not logistical concerns or coursework help.\nFor example, we can talk about career plans or life advice.\nPlease limit to no more than one chat per month.\nBook at this link\n\n\n\nWe may add or reschedule OH if needed.\n\nPlease create a private Ed post if you have conflicts with all of the scheduled OH.\n\nComing to office hours does not send a signal that you are behind or need extra help. In fact, the students who come to OH are often the most successful in the course.\n\nOH is a great opportunity to discuss not only topics directly related to the course, but also anything else that’s on your mind.\nWe also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.\nKeep in mind that you do not need to come to office hours with an agenda. Listening in is welcomed and encouraged!\nFinally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!\nIf you don’t already, I highly recommend that you attend the instructors’ office hours in other classes from time to time.",
+    "text": "Course Details 🥗\n\nDescription 🔎\nStat 131A is a upper-division course that follows Data 8 or STAT 20. The course will teach a broad range of statistical methods that are used to solve data problems, including group comparisons, standard parametric statistical models, multivariate data visualization, multiple linear regression and classification, classification and regression trees, and random forests. Students will be introduced to the widely used R statistical language and they will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.\nIn short, Stat 131A will provide you with a Swiss army knife of foundational statistical methods to use for data science projects!\n\n\nLectures 🧑‍🏫\nMWF 2-3pm @ Morgan 101\n\n\nLabs 🧪\nLab 101: Tuesday and Thursday, 11am-12pm @ Evans 330\nLab 102: Tuesday and Thursday, 4-5pm @ Evans 344\nYou should only be signed up for one lab group.\n\n\nOffice hours (OH) 🗓️\nOH times and locations are tentative.\n\nNote: There are no office hours in the first week of the course!\n\nJosh’s Office Hours:\n\nMWF 1:45pm in Morgan 101 (before lecture)\nT+Th 5-6pm @ Evans 421\n\nVan’s Office Hours:\n\nWednesdays 10am-12pm @ Evans 434\nFridays 9am-11am on Zoom\nFor security reasons, Zoom links for OH are posted on bcourses.\n\n15-minute coffee chats with Josh on the phone (experimental!):\n\nOne slot every weekday at 9am.\nDesigned for individual advising, not logistical concerns or coursework help.\nFor example, we can talk about career plans or life advice.\nPlease limit to no more than one chat per month.\nBook at this link\n\n\n\nWe may add or reschedule OH if needed.\n\nPlease create a private Ed post if you have conflicts with all of the scheduled OH.\n\nComing to office hours does not send a signal that you are behind or need extra help. In fact, the students who come to OH are often the most successful in the course.\n\nOH is a great opportunity to discuss not only topics directly related to the course, but also anything else that’s on your mind.\nWe also welcome questions about career trajectories and research opportunities at UC Berkeley and beyond.\nKeep in mind that you do not need to come to office hours with an agenda. Listening in is welcomed and encouraged!\nFinally, attending and participating in office hours is a great way to set yourself up for a terrific letter of recommendation. This is true for most courses!\nIf you don’t already, I highly recommend that you attend the instructors’ office hours in other classes from time to time.",
     "crumbs": [
       "Syllabus"
     ]
