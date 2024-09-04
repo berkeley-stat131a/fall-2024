@@ -4,17 +4,7 @@
     "href": "index.html",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#concept-check-form",
-    "href": "index.html#concept-check-form",
-    "title": "Statistics 131a: Statistical Methods for Data Science",
-    "section": "Concept check form\n",
-    "text": "Concept check form",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\nConcept check form",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -24,7 +14,7 @@
     "href": "index.html#announcements",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Announcements 📣",
-    "text": "Announcements 📣\nRead the syllabus in full!\nComplete the new student survey.\n\nThis survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.\n\nBefore the first lab section on Tuesday of Week 2, work through Lab 0.\nIf have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP.",
+    "text": "Announcements 📣\n\nLab 1 is due Monday 9/9 at midnight.\nHW1 is due Friday 9/13 at midnight. HW1 will be posted soon.\nComplete the new student survey.\n\nThis survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.\n\n\nIf have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP. Make sure to share your letter at least several weeks before the first exam!",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -34,20 +24,258 @@
     "href": "index.html#schedule",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Schedule 📅",
-    "text": "Schedule 📅\n\n\n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 - Intro to R\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday : Labor Day\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Abridged slides for live notes\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data + Data from Distributions\n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "Schedule 📅\n\n\n\n \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday  (Labor Day)\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Abridged slides for live notes\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data + Data from Distributions\n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 (Not turned in)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
     "crumbs": [
       "Home / Schedule"
     ]
   },
   {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "🍎 Staff",
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "HW, labs, and project",
     "section": "",
-    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "text": "DataHub link for Lab 1\nDue date: Monday, September 9, midnight PT",
     "crumbs": [
-      "Staff"
+      "HW, Labs, Project"
     ]
+  },
+  {
+    "objectID": "assignments.html#lab-1",
+    "href": "assignments.html#lab-1",
+    "title": "HW, labs, and project",
+    "section": "",
+    "text": "DataHub link for Lab 1\nDue date: Monday, September 9, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw1",
+    "href": "assignments.html#hw1",
+    "title": "HW, labs, and project",
+    "section": "HW1 📊",
+    "text": "HW1 📊\nHW1 details forthcoming.\nDue date: Friday, September 13, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-2",
+    "href": "assignments.html#lab-2",
+    "title": "HW, labs, and project",
+    "section": "Lab 2",
+    "text": "Lab 2\nLink forthcoming.\nAnticipated due date: Monday, September 16, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-3",
+    "href": "assignments.html#lab-3",
+    "title": "HW, labs, and project",
+    "section": "Lab 3",
+    "text": "Lab 3\nLink forthcoming.\nAnticipated due date: Monday, September 23, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw2",
+    "href": "assignments.html#hw2",
+    "title": "HW, labs, and project",
+    "section": "HW2",
+    "text": "HW2\nDetails forthcoming.\nAnticipated due date: Friday, September 27, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-4",
+    "href": "assignments.html#lab-4",
+    "title": "HW, labs, and project",
+    "section": "Lab 4",
+    "text": "Lab 4\nLink forthcoming.\nAnticipated due date: Wednesday, October 2, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-5",
+    "href": "assignments.html#lab-5",
+    "title": "HW, labs, and project",
+    "section": "Lab 5",
+    "text": "Lab 5\nLink forthcoming.\nAnticipated due date: Monday, October 7, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#midterm-1",
+    "href": "assignments.html#midterm-1",
+    "title": "HW, labs, and project",
+    "section": "Midterm 1",
+    "text": "Midterm 1\nWednesday, October 9, 2-3pm in Morgan 101",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-6",
+    "href": "assignments.html#lab-6",
+    "title": "HW, labs, and project",
+    "section": "Lab 6",
+    "text": "Lab 6\nLink forthcoming.\nAnticipated due date: Monday, October 14, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw3",
+    "href": "assignments.html#hw3",
+    "title": "HW, labs, and project",
+    "section": "HW3",
+    "text": "HW3\nDetails forthcoming.\nAnticipated due date: Friday, October 18, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-7",
+    "href": "assignments.html#lab-7",
+    "title": "HW, labs, and project",
+    "section": "Lab 7",
+    "text": "Lab 7\nLink forthcoming.\nAnticipated due date: Wednesday, October 23, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-8",
+    "href": "assignments.html#lab-8",
+    "title": "HW, labs, and project",
+    "section": "Lab 8",
+    "text": "Lab 8\nLink forthcoming.\nAnticipated due date: Monday, October 28, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw4",
+    "href": "assignments.html#hw4",
+    "title": "HW, labs, and project",
+    "section": "HW4",
+    "text": "HW4\nDetails forthcoming.\nAnticipated due date: Friday, November 1, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-9",
+    "href": "assignments.html#lab-9",
+    "title": "HW, labs, and project",
+    "section": "Lab 9",
+    "text": "Lab 9\nLink forthcoming.\nAnticipated due date: Wednesday, November 6, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#midterm-2",
+    "href": "assignments.html#midterm-2",
+    "title": "HW, labs, and project",
+    "section": "Midterm 2",
+    "text": "Midterm 2\nWednesday, November 13, 2-3pm in Morgan 101",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-10",
+    "href": "assignments.html#lab-10",
+    "title": "HW, labs, and project",
+    "section": "Lab 10",
+    "text": "Lab 10\nLink forthcoming.\nAnticipated due date: Monday, November 18, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw5",
+    "href": "assignments.html#hw5",
+    "title": "HW, labs, and project",
+    "section": "HW5",
+    "text": "HW5\nDetails forthcoming.\nAnticipated due date: Friday, November 22, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-11",
+    "href": "assignments.html#lab-11",
+    "title": "HW, labs, and project",
+    "section": "Lab 11",
+    "text": "Lab 11\nLink forthcoming.\nAnticipated due date: Wednesday, December 4, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw6",
+    "href": "assignments.html#hw6",
+    "title": "HW, labs, and project",
+    "section": "HW6",
+    "text": "HW6\nDetails forthcoming.\nAnticipated due date: Monday, December 9, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#final-project",
+    "href": "assignments.html#final-project",
+    "title": "HW, labs, and project",
+    "section": "Final project",
+    "text": "Final project\nDetails forthcoming.\nAnticipated due date: Friday, December 13, midnight PT",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "assignments.html#final-exam",
+    "href": "assignments.html#final-exam",
+    "title": "HW, labs, and project",
+    "section": "Final exam",
+    "text": "Final exam\nThursday, December 19, 3-6pm @ TBD Location",
+    "crumbs": [
+      "HW, Labs, Project"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
   },
   {
     "objectID": "syllabus.html",
@@ -270,31 +498,13 @@
     ]
   },
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "🍎 Staff",
     "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "crumbs": [
+      "Staff"
+    ]
   }
 ]

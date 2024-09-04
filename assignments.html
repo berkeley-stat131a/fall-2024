@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Statistics 131a: Statistical Methods for Data Science</title>
+<title>HW, labs, and project</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,63 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-schedule .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-week','listing-days',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-week","listing-days"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-schedule'] = new List('listing-schedule', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-buttons .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-button','listing-link','listing-color',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-button","listing-link","listing-color"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-buttons'] = new List('listing-buttons', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Q0VSK0VJF"></script>
 
 <script type="text/javascript">
@@ -136,35 +77,6 @@ gtag('config', 'G-9Q0VSK0VJF', { 'anonymize_ip': true});
 </script>
 <link rel="shortcut icon" href="favicon.ico">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="assets/styles.css">
 </head>
@@ -178,7 +90,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home / Schedule</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./assignments.html">HW, Labs, Project</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -211,13 +123,13 @@ window.Quarto = {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Home / Schedule</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./assignments.html" class="sidebar-item-text sidebar-link">
+  <a href="./assignments.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">HW, Labs, Project</span></a>
   </div>
 </li>
@@ -249,8 +161,27 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#announcements" id="toc-announcements" class="nav-link active" data-scroll-target="#announcements">Announcements 📣</a></li>
-  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">Schedule 📅</a></li>
+  <li><a href="#lab-1" id="toc-lab-1" class="nav-link active" data-scroll-target="#lab-1">Lab 1 📊</a></li>
+  <li><a href="#hw1" id="toc-hw1" class="nav-link" data-scroll-target="#hw1">HW1 📊</a></li>
+  <li><a href="#lab-2" id="toc-lab-2" class="nav-link" data-scroll-target="#lab-2">Lab 2</a></li>
+  <li><a href="#lab-3" id="toc-lab-3" class="nav-link" data-scroll-target="#lab-3">Lab 3</a></li>
+  <li><a href="#hw2" id="toc-hw2" class="nav-link" data-scroll-target="#hw2">HW2</a></li>
+  <li><a href="#lab-4" id="toc-lab-4" class="nav-link" data-scroll-target="#lab-4">Lab 4</a></li>
+  <li><a href="#lab-5" id="toc-lab-5" class="nav-link" data-scroll-target="#lab-5">Lab 5</a></li>
+  <li><a href="#midterm-1" id="toc-midterm-1" class="nav-link" data-scroll-target="#midterm-1">Midterm 1</a></li>
+  <li><a href="#lab-6" id="toc-lab-6" class="nav-link" data-scroll-target="#lab-6">Lab 6</a></li>
+  <li><a href="#hw3" id="toc-hw3" class="nav-link" data-scroll-target="#hw3">HW3</a></li>
+  <li><a href="#lab-7" id="toc-lab-7" class="nav-link" data-scroll-target="#lab-7">Lab 7</a></li>
+  <li><a href="#lab-8" id="toc-lab-8" class="nav-link" data-scroll-target="#lab-8">Lab 8</a></li>
+  <li><a href="#hw4" id="toc-hw4" class="nav-link" data-scroll-target="#hw4">HW4</a></li>
+  <li><a href="#lab-9" id="toc-lab-9" class="nav-link" data-scroll-target="#lab-9">Lab 9</a></li>
+  <li><a href="#midterm-2" id="toc-midterm-2" class="nav-link" data-scroll-target="#midterm-2">Midterm 2</a></li>
+  <li><a href="#lab-10" id="toc-lab-10" class="nav-link" data-scroll-target="#lab-10">Lab 10</a></li>
+  <li><a href="#hw5" id="toc-hw5" class="nav-link" data-scroll-target="#hw5">HW5</a></li>
+  <li><a href="#lab-11" id="toc-lab-11" class="nav-link" data-scroll-target="#lab-11">Lab 11</a></li>
+  <li><a href="#hw6" id="toc-hw6" class="nav-link" data-scroll-target="#hw6">HW6</a></li>
+  <li><a href="#final-project" id="toc-final-project" class="nav-link" data-scroll-target="#final-project">Final project</a></li>
+  <li><a href="#final-exam" id="toc-final-exam" class="nav-link" data-scroll-target="#final-exam">Final exam</a></li>
   </ul>
 </nav>
     </div>
@@ -259,8 +190,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Statistics 131a: Statistical Methods for Data Science</h1>
-<p class="subtitle lead">UC Berkeley, Fall 2024</p>
+<h1 class="title">HW, labs, and project</h1>
 </div>
 
 
@@ -277,259 +207,133 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-buttons" class="quarto-listing quarto-listing-container-custom">
-
-  <button style="background-color: purple;"><a href="https://edstem.org/us/courses/63606/discussion/">Ed</a></button>
-
-  <button style="background-color: green;"><a href="https://r.datahub.berkeley.edu">DataHub</a></button>
-
-  <button style="background-color: orange;"><a href="https://www.gradescope.com/courses/833089">Gradescope</a></button>
-
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<!-- [All information on the course website is subject to change before August 28th, 2024.] -->
-<!-- ::: {.callout-note title="Welcome to Week 2"} -->
-<!-- Things are picking up now. -->
-<!-- ::: -->
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link">Concept check form</a><br>
-</p>
-<section id="announcements" class="level2">
-<h2 class="anchored" data-anchor-id="announcements">Announcements 📣</h2>
-<!-- Read the [syllabus](syllabus.qmd) in full!  -->
-<p><a href="https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&amp;urlpath=rstudio%2F">Lab 1</a> is due Monday 9/9 at midnight.</p>
-<p>HW1 is due Friday 9/13 at midnight. HW1 will be posted soon.</p>
-<p>Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link">new student survey</a>.</p>
-<ul>
-<li>This survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.</li>
-</ul>
-<!-- Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html). -->
-<p>If have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP. <strong>Make sure to share your letter at least several weeks before the first exam!</strong></p>
+<section id="lab-1" class="level2">
+<h2 class="anchored" data-anchor-id="lab-1">Lab 1 📊</h2>
+<p><a href="https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&amp;urlpath=rstudio%2F">DataHub link for Lab 1</a></p>
+<p>Due date: Monday, September 9, midnight PT</p>
 </section>
-<section id="schedule" class="level2">
-<h2 class="anchored" data-anchor-id="schedule">Schedule 📅</h2>
-<!-- For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
-<div id="listing-schedule" class="quarto-listing quarto-listing-container-custom">
-
- 
-
-   <h4 class="anchored">Week 2</h4>
-
-   <table class="table" data-quarto-disable-processing="true">
-   <!-- 'table' class causes use of quarto styling for tables, seemingly from bootstrap.min.css -->
-   <!-- data-quarto-disable-processing="true" prevents Quarto processing of tables (https://quarto.org/docs/authoring/tables.html#disabling-quarto-table-processing) -->
-   
-   <tbody>
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Mon Sep 2:</th>
-           
-           <td>
-               <strong class="label label-Holiday">Holiday  (Labor Day)</strong>
-               
-                 <a href=""></a>
-               
-          </td>
-           
-                <td></td>
-           
-                
-           </tr>
-        
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Tue Sep 3:</th>
-           
-           <td>
-               <strong class="label label-Section">Section 1</strong>
-               
-                 <span>Data munging and plotting with stop-and-frisk</span>
-               
-          </td>
-           
-                <td>
-                 
-                   
-                     <a href="https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&amp;urlpath=rstudio%2F">Lab 1 (Due 9/9)</a><br>
-                   
-                 
-               </td>
-           
-                
-           </tr>
-        
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Wed Sep 4:</th>
-           
-           <td>
-               <strong class="label label-Lecture">Lecture 3</strong>
-               
-                 <span>Boxplots and Histograms</span>
-               
-          </td>
-           
-                <td>
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1ZYPptIm2kiwW1Y_TX5pLF5hzV6_6QewaHQQrHovh6EI/edit?usp=sharing">Worksheet</a><br>
-                   
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1rohKclAyb46mwVvBTtosSV2DOfAZI9U51dUDiZze-sI/edit?usp=sharing">Abridged slides for live notes</a><br>
-                   
-                 
-               </td>
-           
-                
-           </tr>
-        
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Thu Sep 5:</th>
-           
-           <td>
-               <strong class="label label-Section">Section 2</strong>
-               
-                 <span>Data munging and plotting with stop-and-frisk</span>
-               
-          </td>
-           
-                <td>
-                 
-                   
-                     <a href="https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&amp;urlpath=rstudio%2F">Lab 1 (Due 9/9)</a><br>
-                   
-                 
-               </td>
-           
-                
-           </tr>
-        
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Fri Sep 6:</th>
-           
-           <td>
-               <strong class="label label-Lecture">Lecture 4</strong>
-               
-                 <span>Distributions of Data + Data from Distributions</span>
-               
-          </td>
-           
-                <td></td>
-           
-                
-           </tr>
-        
-   
-   </tbody>
-   </table>
-  
-
-   <h4 class="anchored">Week 1</h4>
-
-   <table class="table" data-quarto-disable-processing="true">
-   <!-- 'table' class causes use of quarto styling for tables, seemingly from bootstrap.min.css -->
-   <!-- data-quarto-disable-processing="true" prevents Quarto processing of tables (https://quarto.org/docs/authoring/tables.html#disabling-quarto-table-processing) -->
-   
-   <tbody>
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Wed Aug 28:</th>
-           
-           <td>
-               <strong class="label label-Lecture">Lecture 1</strong>
-               
-                 <span>Welcome!</span>
-               
-          </td>
-           
-                <td>
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1E5kHtRuCvKPZ5EqzZY1Pu20bZq-QzHiSVwUtYo42IFQ/edit?usp=sharing">Slides</a><br>
-                   
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1Dv6JYttK1Yh4xXO8X_QClVpEZVr7zt_doZlw3JDgIIs/edit?usp=sharing">Worksheet</a><br>
-                   
-                 
-               </td>
-           
-                
-           </tr>
-        
-   
-
-        
-
-           <tr>
-           
-           <th scope="row" rowspan="1">Fri Aug 30:</th>
-           
-           <td>
-               <strong class="label label-Lecture">Lecture 2</strong>
-               
-                 <span>Principles of visualization</span>
-               
-          </td>
-           
-                <td>
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1knKWf8v94mOV03HR1FQSwFbj6yZz-vy_zCHTDhQSc7A/edit?usp=sharing">Slides</a><br>
-                   
-                 
-                   
-                     <a href="https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing">Worksheet</a><br>
-                   
-                 
-                   
-                     <a href="https://stat131a.berkeley.edu/fall-2024/assets/Lab00.html">Lab 0 (Not turned in)</a><br>
-                   
-                 
-               </td>
-           
-                
-           </tr>
-        
-   
-   </tbody>
-   </table>
-  
-
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
-
+<section id="hw1" class="level2">
+<h2 class="anchored" data-anchor-id="hw1">HW1 📊</h2>
+<p>HW1 details forthcoming.</p>
+<p>Due date: Friday, September 13, midnight PT</p>
+</section>
+<section id="lab-2" class="level2">
+<h2 class="anchored" data-anchor-id="lab-2">Lab 2</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, September 16, midnight PT</p>
+</section>
+<section id="lab-3" class="level2">
+<h2 class="anchored" data-anchor-id="lab-3">Lab 3</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, September 23, midnight PT</p>
+</section>
+<section id="hw2" class="level2">
+<h2 class="anchored" data-anchor-id="hw2">HW2</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Friday, September 27, midnight PT</p>
+</section>
+<section id="lab-4" class="level2">
+<h2 class="anchored" data-anchor-id="lab-4">Lab 4</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Wednesday, October 2, midnight PT</p>
+</section>
+<section id="lab-5" class="level2">
+<h2 class="anchored" data-anchor-id="lab-5">Lab 5</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, October 7, midnight PT</p>
+</section>
+<section id="midterm-1" class="level2">
+<h2 class="anchored" data-anchor-id="midterm-1">Midterm 1</h2>
+<p>Wednesday, October 9, 2-3pm in Morgan 101</p>
+</section>
+<section id="lab-6" class="level2">
+<h2 class="anchored" data-anchor-id="lab-6">Lab 6</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, October 14, midnight PT</p>
+</section>
+<section id="hw3" class="level2">
+<h2 class="anchored" data-anchor-id="hw3">HW3</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Friday, October 18, midnight PT</p>
+</section>
+<section id="lab-7" class="level2">
+<h2 class="anchored" data-anchor-id="lab-7">Lab 7</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Wednesday, October 23, midnight PT</p>
+</section>
+<section id="lab-8" class="level2">
+<h2 class="anchored" data-anchor-id="lab-8">Lab 8</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, October 28, midnight PT</p>
+</section>
+<section id="hw4" class="level2">
+<h2 class="anchored" data-anchor-id="hw4">HW4</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Friday, November 1, midnight PT</p>
+</section>
+<section id="lab-9" class="level2">
+<h2 class="anchored" data-anchor-id="lab-9">Lab 9</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Wednesday, November 6, midnight PT</p>
+</section>
+<section id="midterm-2" class="level2">
+<h2 class="anchored" data-anchor-id="midterm-2">Midterm 2</h2>
+<p>Wednesday, November 13, 2-3pm in Morgan 101</p>
+</section>
+<section id="lab-10" class="level2">
+<h2 class="anchored" data-anchor-id="lab-10">Lab 10</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Monday, November 18, midnight PT</p>
+</section>
+<section id="hw5" class="level2">
+<h2 class="anchored" data-anchor-id="hw5">HW5</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Friday, November 22, midnight PT</p>
+</section>
+<section id="lab-11" class="level2">
+<h2 class="anchored" data-anchor-id="lab-11">Lab 11</h2>
+<p>Link forthcoming.</p>
+<p>Anticipated due date: Wednesday, December 4, midnight PT</p>
+</section>
+<section id="hw6" class="level2">
+<h2 class="anchored" data-anchor-id="hw6">HW6</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Monday, December 9, midnight PT</p>
+</section>
+<section id="final-project" class="level2">
+<h2 class="anchored" data-anchor-id="final-project">Final project</h2>
+<p>Details forthcoming.</p>
+<p>Anticipated due date: Friday, December 13, midnight PT</p>
+</section>
+<section id="final-exam" class="level2">
+<h2 class="anchored" data-anchor-id="final-exam">Final exam</h2>
+<p>Thursday, December 19, 3-6pm @ TBD Location</p>
+<!-- In teams of 3 people (no more, no fewer), please complete the [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSeYSFHSlrRKkcjCCo9PAGrtiWoWRQEQHGBsJsosEZfZ9ebocA/viewform?usp=sf_link). -->
+<!-- To help assess the feasibility and suitability of your project, -->
+<!-- please discuss your idea with the teaching staff before submitting your proposal. -->
+<!-- Your group should -->
+<!-- sign up for a -->
+<!-- [15-minute meeting slot](https://docs.google.com/spreadsheets/d/1Gm0Dec4v061fLeEvg-N86jsOyG2TeNOJdtEScOrV1xs/edit?usp=sharing). -->
+<!-- It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present.  -->
+<!-- Your proposal does not have to be completed, or even started, when you meet with a member of the teaching staff. -->
+<!-- But, you should have started thinking about potential topics and ideas. -->
+<!-- **This meeting is a required part of the assignment.** -->
+<!-- You are free to pursue any topic related to applied statistics. -->
+<!-- In previous years, teams have considered -->
+<!-- athletic performance, gender inequality, farming practices, restaurant quality, -->
+<!-- music success, gentrification, and standardized testing, just to name a few. -->
+<!-- Any data-driven investigation is fair game. -->
+<!-- ~~**More specific instructions on final deliverables will be provided later in the quarter.** -->
+<!-- In a previous iteration of the course, teams submitted either a 10-page report or a 10-minute presentation. -->
+<!-- You can see past examples of successful final projects [here](https://jdgrossman.com/assets/mse-125-example-projects.zip). -->
+<!-- The final deliverables will likely change for this iteration of the course.~~ -->
+<!-- For more project details, see [the project page](https://jdgrossman.com/mse125/project). -->
+<!-- Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer reviews when determining final grades. -->
+<!-- ## Peer evaluations for final project 👥 -->
+<!-- Due date: ~~Friday, May 31~~ Monday, June 3, midnight PT -->
+<!-- Confidential peer evaluations should be submitted separately by each team member.  -->
+<!-- [Peer Eval Form](https://docs.google.com/forms/d/e/1FAIpQLSfzTPmpQIDCNR0df-Bc9u4fEmM0Y6uz6vPAWprhPd9w86SCBA/viewform?usp=sf_link). -->
+<!-- <!-- Form link is [here](https://forms.gle/rKfgfAsMxMivoGbV6). -->
 
 
 </section>
