@@ -29,7 +29,7 @@ Lecture attendance is mandatory. See below for more details.
 
 Lab 101: Tuesday and Thursday, 11am-12pm \@ [Evans 330](https://www.berkeley.edu/map/evans-hall/)
 
-Lab 102: Tuesday and Thursday, 4-5pm \@ [Evans 344](https://www.berkeley.edu/map/evans-hall/)
+Lab 102: Tuesday and Thursday, 4-5pm \@ Hearst Mining Bldg 310 (Hearst is next to [Evans Hall](https://www.berkeley.edu/map/evans-hall/))
 
 You should only be signed up for one lab group.
 
@@ -37,9 +37,9 @@ Lab attendance is optional, but highly encouraged.
 
 ### Office hours (OH) 🗓️
 
-OH times and locations are tentative. 
+<!-- OH times and locations are tentative.  -->
 
-- Note: There are no office hours in the first week of the course!
+<!-- - Note: There are no office hours in the first week of the course! -->
 
 Josh's Office Hours:
 
