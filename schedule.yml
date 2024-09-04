@@ -64,12 +64,14 @@
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
-            # - id: "Lecture code"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1ZYPptIm2kiwW1Y_TX5pLF5hzV6_6QewaHQQrHovh6EI/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1rohKclAyb46mwVvBTtosSV2DOfAZI9U51dUDiZze-sI/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "../lecture-code/boxplot-freq-hist-lecture-code.html"
+            # - id: "Lecture code (DataHub)"
+            #   href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
     - date: "Thu Sep 5"
       items:
         - type: "Section"
@@ -94,7 +96,9 @@
             #   href: "#"
             # - id: "Abridged slides for live notes"
             #   href: "#"
-            # - id: "Lecture code"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
             #   href: "#"
       
 # - week: 3
@@ -114,7 +118,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Sep 10"
 #       items:
@@ -137,7 +143,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Sep 12"
 #       items:
@@ -160,7 +168,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 4
@@ -180,7 +190,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Sep 17"
 #       items:
@@ -203,7 +215,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Sep 19"
 #       items:
@@ -226,7 +240,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 5
@@ -246,7 +262,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Sep 24"
 #       items:
@@ -269,7 +287,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Sep 26"
 #       items:
@@ -292,7 +312,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 6
@@ -312,7 +334,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Oct 1"
 #       items:
@@ -335,7 +359,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Oct 3"
 #       items:
@@ -358,7 +384,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 7
@@ -378,7 +406,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Oct 8"
 #       items:
@@ -401,7 +431,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Oct 10"
 #       items:
@@ -424,7 +456,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 8
@@ -444,7 +478,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Oct 15"
 #       items:
@@ -467,7 +503,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Oct 17"
 #       items:
@@ -490,7 +528,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 9
@@ -510,7 +550,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Oct 22"
 #       items:
@@ -533,7 +575,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Oct 24"
 #       items:
@@ -556,7 +600,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 10
@@ -576,7 +622,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Oct 29"
 #       items:
@@ -599,7 +647,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Oct 31"
 #       items:
@@ -622,7 +672,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 11
@@ -642,7 +694,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Nov 5"
 #       items:
@@ -665,7 +719,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Nov 7"
 #       items:
@@ -688,7 +744,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 12
@@ -708,7 +766,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Nov 12"
 #       items:
@@ -731,7 +791,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Nov 14"
 #       items:
@@ -754,7 +816,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 13
@@ -774,7 +838,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Nov 19"
 #       items:
@@ -797,7 +863,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Nov 21"
 #       items:
@@ -820,7 +888,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 14
@@ -840,7 +910,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Nov 26"
 #       items:
@@ -863,7 +935,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Nov 28"
 #       items:
@@ -886,7 +960,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
 # - week: 15
@@ -906,7 +982,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Tue Dec 3"
 #       items:
@@ -929,7 +1007,9 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 #     - date: "Thu Dec 5"
 #       items:
@@ -952,6 +1032,8 @@
 #             #   href: "#"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "#"
-#             # - id: "Lecture code"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
