@@ -1,0 +1,167 @@
+---
+title: "HW, labs, and project"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Lab 1 📊
+
+[DataHub link for Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+Due date: Monday, September 9, midnight PT
+
+## HW1 📊
+
+HW1 details forthcoming.
+
+Due date: Friday, September 13, midnight PT
+
+## Lab 2
+
+Link forthcoming.
+
+Anticipated due date: Monday, September 16, midnight PT
+
+## Lab 3
+
+Link forthcoming.
+
+Anticipated due date: Monday, September 23, midnight PT
+
+## HW2
+
+Details forthcoming.
+
+Anticipated due date: Friday, September 27, midnight PT
+
+## Lab 4
+
+Link forthcoming.
+
+Anticipated due date: Wednesday, October 2, midnight PT
+
+## Lab 5
+
+Link forthcoming.
+
+Anticipated due date: Monday, October 7, midnight PT
+
+## Midterm 1
+
+Wednesday, October 9, 2-3pm in Morgan 101
+
+## Lab 6
+
+Link forthcoming.
+
+Anticipated due date: Monday, October 14, midnight PT
+
+## HW3
+
+Details forthcoming.
+
+Anticipated due date: Friday, October 18, midnight PT
+
+## Lab 7
+
+Link forthcoming.
+
+Anticipated due date: Wednesday, October 23, midnight PT
+
+## Lab 8
+
+Link forthcoming.
+
+Anticipated due date: Monday, October 28, midnight PT
+
+## HW4
+
+Details forthcoming.
+
+Anticipated due date: Friday, November 1, midnight PT
+
+## Lab 9
+
+Link forthcoming.
+
+Anticipated due date: Wednesday, November 6, midnight PT
+
+## Midterm 2
+
+Wednesday, November 13, 2-3pm in Morgan 101
+
+## Lab 10
+
+Link forthcoming.
+
+Anticipated due date: Monday, November 18, midnight PT
+
+## HW5
+
+Details forthcoming.
+
+Anticipated due date: Friday, November 22, midnight PT
+
+## Lab 11
+
+Link forthcoming.
+
+Anticipated due date: Wednesday, December 4, midnight PT
+
+## HW6 
+
+Details forthcoming.
+
+Anticipated due date: Monday, December 9, midnight PT
+
+## Final project
+
+Details forthcoming.
+
+Anticipated due date: Friday, December 13, midnight PT
+
+## Final exam
+
+Thursday, December 19, 3-6pm @ TBD Location
+
+
+
+
+
+
+<!-- In teams of 3 people (no more, no fewer), please complete the [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSeYSFHSlrRKkcjCCo9PAGrtiWoWRQEQHGBsJsosEZfZ9ebocA/viewform?usp=sf_link). -->
+
+<!-- To help assess the feasibility and suitability of your project, -->
+<!-- please discuss your idea with the teaching staff before submitting your proposal. -->
+<!-- Your group should -->
+<!-- sign up for a -->
+<!-- [15-minute meeting slot](https://docs.google.com/spreadsheets/d/1Gm0Dec4v061fLeEvg-N86jsOyG2TeNOJdtEScOrV1xs/edit?usp=sharing). -->
+<!-- It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present.  -->
+<!-- Your proposal does not have to be completed, or even started, when you meet with a member of the teaching staff. -->
+<!-- But, you should have started thinking about potential topics and ideas. -->
+<!-- **This meeting is a required part of the assignment.** -->
+
+<!-- You are free to pursue any topic related to applied statistics. -->
+<!-- In previous years, teams have considered -->
+<!-- athletic performance, gender inequality, farming practices, restaurant quality, -->
+<!-- music success, gentrification, and standardized testing, just to name a few. -->
+<!-- Any data-driven investigation is fair game. -->
+
+<!-- ~~**More specific instructions on final deliverables will be provided later in the quarter.** -->
+<!-- In a previous iteration of the course, teams submitted either a 10-page report or a 10-minute presentation. -->
+<!-- You can see past examples of successful final projects [here](https://jdgrossman.com/assets/mse-125-example-projects.zip). -->
+<!-- The final deliverables will likely change for this iteration of the course.~~ -->
+
+<!-- For more project details, see [the project page](https://jdgrossman.com/mse125/project). -->
+
+<!-- Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer reviews when determining final grades. -->
+
+<!-- ## Peer evaluations for final project 👥 -->
+
+<!-- Due date: ~~Friday, May 31~~ Monday, June 3, midnight PT -->
+
+<!-- Confidential peer evaluations should be submitted separately by each team member.  -->
+
+<!-- [Peer Eval Form](https://docs.google.com/forms/d/e/1FAIpQLSfzTPmpQIDCNR0df-Bc9u4fEmM0Y6uz6vPAWprhPd9w86SCBA/viewform?usp=sf_link). -->
+<!-- <!-- Form link is [here](https://forms.gle/rKfgfAsMxMivoGbV6). -->

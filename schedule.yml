@@ -34,7 +34,7 @@
               href: "https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
-            - id: "Lab 0 - Intro to R"
+            - id: "Lab 0 (Not turned in)"
               href: "https://stat131a.berkeley.edu/fall-2024/assets/Lab00.html"
             # - id: "Lecture code (TBD)"
             #   href: "#"
@@ -43,7 +43,7 @@
     - date: "Mon Sep 2"
       items:
         - type: "Holiday"
-          id: ": Labor Day"
+          id: " (Labor Day)"
     - date: "Tue Sep 3"
       items:
         - type: "Section"
@@ -51,7 +51,7 @@
           name: Data munging and plotting with stop-and-frisk
           href: "#"
           auxil:
-            - id: "Lab 1"
+            - id: "Lab 1 (Due 9/9)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
     - date: "Wed Sep 4"
       items:
@@ -79,7 +79,7 @@
           name: Data munging and plotting with stop-and-frisk
           href: "#"
           auxil:
-            - id: "Lab 1"
+            - id: "Lab 1 (Due 9/9)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
     - date: "Fri Sep 6"
       items:
