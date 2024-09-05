@@ -62,7 +62,9 @@ There are lots of free tools for stitching together PDFs.
 
 ## 📈 Data manipulation and plotting with `R` (50% of the HW1 grade)
 
-Complete the HW1 coding problems: [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F), [HTML](labs-html/hw1-code-exercises.html)
+Complete the HW1 coding problems:
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F),
+[HTML](labs-html/hw1-code-exercises.html)
 
 - The HW1 coding problems are located in `131a-labs-fall-2024` on DataHub.
 
