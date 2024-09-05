@@ -24,10 +24,48 @@
     "href": "index.html#schedule",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Schedule 📅",
-    "text": "Schedule 📅\n\n\n\n \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday  (Labor Day)\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Abridged slides for live notes\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data + Data from Distributions\n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 (Not turned in)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "Schedule 📅\n\n\n\n \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday  (Labor Day)\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (HTML)\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (Due 9/9)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data + Data from Distributions\n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 (Not turned in)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
     "crumbs": [
       "Home / Schedule"
     ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "🍎 Staff",
+    "section": "",
+    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "crumbs": [
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
   },
   {
     "objectID": "assignments.html",
@@ -250,34 +288,6 @@
     ]
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -495,16 +505,6 @@
     "text": "Accessible DS education for all ⭐\nIn support of our commitment to making Data Science education inviting, engaging, and respectful for people of diverse identities, backgrounds, experiences, and perspectives, I want to relay the following three items from the Data Science Undergraduate Studies (DSUS):\n\nDevice Lending options\nStudents can access device lending options through the Student Technology Equity Program (STEP) program.\n\n\nData Science Student Climate\nData Science Undergraduate Studies faculty and staff are committed to creating a community where every person feels respected, included, and supported. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this online form.\n\n\nCommunity Standards\nEd is a formal, academic space. Posts in this forum must relate to the course and be in alignment with Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct. We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.",
     "crumbs": [
       "Syllabus"
-    ]
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "🍎 Staff",
-    "section": "",
-    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
-    "crumbs": [
-      "Staff"
     ]
   }
 ]
