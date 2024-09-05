@@ -51,8 +51,10 @@
           name: Data munging and plotting with stop-and-frisk
           href: "#"
           auxil:
-            - id: "Lab 1 (Due 9/9)"
+            - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 1 (HTML)"
+              href: "labs-html/lab01-exercises.html"
     - date: "Wed Sep 4"
       items:
         - type: "Lecture"
@@ -79,8 +81,10 @@
           name: Data munging and plotting with stop-and-frisk
           href: "#"
           auxil:
-            - id: "Lab 1 (Due 9/9)"
+            - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 1 (HTML)"
+              href: "labs-html/lab01-exercises.html"
     - date: "Fri Sep 6"
       items:
         - type: "Lecture"
