@@ -53,8 +53,8 @@
           auxil:
             - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-            - id: "Lab 1 (HTML)"
-              href: "labs-html/lab01-exercises.html"
+            # - id: "Lab 1 (HTML)"
+            #   href: "labs-html/lab01-exercises.html"
     - date: "Wed Sep 4"
       items:
         - type: "Lecture"
@@ -70,8 +70,8 @@
               href: "https://docs.google.com/presentation/d/1ZYPptIm2kiwW1Y_TX5pLF5hzV6_6QewaHQQrHovh6EI/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1rohKclAyb46mwVvBTtosSV2DOfAZI9U51dUDiZze-sI/edit?usp=sharing"
-            - id: "Lecture code (HTML)"
-              href: "lecture-code/boxplot-freq-hist-lecture-code.html"
+            # - id: "Lecture code (HTML)"
+            #   href: "lecture-code/boxplot-freq-hist-lecture-code.html"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
     - date: "Thu Sep 5"
@@ -83,8 +83,8 @@
           auxil:
             - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-            - id: "Lab 1 (HTML)"
-              href: "labs-html/lab01-exercises.html"
+            # - id: "Lab 1 (HTML)"
+            #   href: "labs-html/lab01-exercises.html"
     - date: "Fri Sep 6"
       items:
         - type: "Lecture"

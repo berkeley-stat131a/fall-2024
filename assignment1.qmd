@@ -30,7 +30,7 @@ Some components of this assignment have not been seen by a previous cohort of ST
 
 ## 📮 Submission
 
-Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089).
+Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089). The Gradescope will be live at least a few days before the HW deadline.
 
 -   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
 
@@ -60,11 +60,18 @@ There are lots of free tools for stitching together PDFs.
 -   [Here's a nice guide](https://ashki23.github.io/markdown-latex.html) for getting started.
 -   We can also help with $\LaTeX$ in office hours or via Ed.
 
+## Forms to complete (0% of the HW1 grade)
+
+Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link).
+
+Complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link).
+
 ## 📈 Data manipulation and plotting with `R` (50% of the HW1 grade)
 
 Complete the HW1 coding problems:
-[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F),
-[HTML](labs-html/hw1-code-exercises.html)
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+<!-- ,[HTML](labs-html/hw1-code-exercises.html) -->
 
 - The HW1 coding problems are located in `131a-labs-fall-2024` on DataHub.
 
@@ -105,7 +112,7 @@ This exercise helps develop your data storytelling ability, which is essential f
 
 ## 🔔 Working with probability density functions (PDFs) (20%)
 
-For this problem below, please show all steps.
+For the problem below, please show all steps.
 You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
 
 Consider the function $f$ defined on the interval $[0,1]$ : $f(x) = cx^\frac{1}{3}$.

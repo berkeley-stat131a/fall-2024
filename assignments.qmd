@@ -7,15 +7,15 @@ editor:
 
 ## Lab 1 📊
 
-[DataHub link for Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-[Lab 1 HTML](labs-html/lab01-exercises.html)
+<!-- [Lab 1 HTML](labs-html/lab01-exercises.html) -->
 
 Due date: Monday, September 9, midnight PT
 
 ## HW1 📊
 
-HW1 details forthcoming.
+[HW 1 details](assignment1.html)
 
 Due date: Friday, September 13, midnight PT
 

@@ -25,19 +25,13 @@ listing:
 
 <!-- Read the [syllabus](syllabus.qmd) in full!  -->
 
-[Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F) is due Monday 9/9 at midnight.
+Lab 1 is due Monday 9/9 at midnight.
 
-HW1 is due Friday 9/13 at midnight. 
-HW1 will be posted soon.
+[HW1](assignment1.html) is due Friday 9/13 at midnight. 
 
 Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link).
 
-- This survey will be assigned as part of HW1, but completing it sooner will help the course staff tailor the course to your interests.
-
-<!-- Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html). -->
-
-If have a Letter of Accommodation (LoA), make sure it is provided to the course staff through DSP.
-**Make sure to share your letter at least several weeks before the first exam!**
+If you are enrolled, complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link).
 
 ## Schedule 📅
 
