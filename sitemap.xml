@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://stat131a.berkeley.edu/fall-2024/calendar.html</loc>
-    <lastmod>2024-09-05T08:49:07.031Z</lastmod>
+    <lastmod>2024-09-05T20:08:54.010Z</lastmod>
   </url>
   <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/index.html</loc>
-    <lastmod>2024-09-05T08:49:07.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/license.html</loc>
-    <lastmod>2024-09-05T08:49:07.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/staff.html</loc>
-    <lastmod>2024-09-05T08:49:07.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/data.html</loc>
-    <lastmod>2024-09-05T08:49:07.031Z</lastmod>
+    <loc>https://stat131a.berkeley.edu/fall-2024/assignment1.html</loc>
+    <lastmod>2024-09-05T20:08:54.010Z</lastmod>
   </url>
   <url>
     <loc>https://stat131a.berkeley.edu/fall-2024/assignments.html</loc>
-    <lastmod>2024-09-05T08:49:07.031Z</lastmod>
+    <lastmod>2024-09-05T20:08:54.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/data.html</loc>
+    <lastmod>2024-09-05T20:08:54.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/staff.html</loc>
+    <lastmod>2024-09-05T20:08:54.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/license.html</loc>
+    <lastmod>2024-09-05T20:08:54.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/index.html</loc>
+    <lastmod>2024-09-05T20:08:54.010Z</lastmod>
   </url>
   <url>
     <loc>https://stat131a.berkeley.edu/fall-2024/syllabus.html</loc>
-    <lastmod>2024-09-05T08:49:07.063Z</lastmod>
+    <lastmod>2024-09-05T20:08:54.050Z</lastmod>
   </url>
 </urlset>
