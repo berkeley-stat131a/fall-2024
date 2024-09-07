@@ -92,18 +92,18 @@
           name: Distributions of Data + Data from Distributions
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1wBoMAOaq_WZ4N56vlyglohNEGDEG6AL0x_aLJr49c8s/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1V73RfDeS7jFx7r9Z3ephOVywYU-M1QmpqjS_EVwG6R8/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1d1SjzPlQL63ZxjbWiyM9Kd7kFy1P9s8p_4PhQxh6fzs/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1d1SjzPlQL63ZxjbWiyM9Kd7kFy1P9s8p_4PhQxh6fzs/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
-            # - id: "Lecture code (DataHub)"
-            #   href: "#"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
       
 # - week: 3
 #   days:
