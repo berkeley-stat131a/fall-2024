@@ -114,24 +114,27 @@
           name: Data from Distributions
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
-            # - id: "Annotated slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1IJ06_78Kny0X_op8xvHODflshMZ2H4qb8oVUVc07fpo/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1aIcGXm1brsUIAtMEvtjXgq8I7gfVV0yK/view?usp=sharing"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1dZS2TLNucnYLcw3-Ta2d48eo8DnDfk4gDJ_CNRk8k_s/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1X7534JtOdoPCNfD_C77-ZxyUq6E8_CWtrejvnDo84ws/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1X7534JtOdoPCNfD_C77-ZxyUq6E8_CWtrejvnDo84ws/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
-            # - id: "Lecture code (DataHub)"
-            #   href: "#"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
     - date: "Tue Sep 10"
       items:
         - type: "Section"
           id: "3"
           name: Working with distributions in R
-          href: "#"
+          href: ""
+          auxil:
+            - id: "Lab 2 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
     - date: "Wed Sep 11"
       items:
         - type: "Lecture"
