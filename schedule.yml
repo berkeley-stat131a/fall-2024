@@ -89,7 +89,7 @@
       items:
         - type: "Lecture"
           id: "4"
-          name: Distributions of Data + Data from Distributions
+          name: Distributions of Data
           href: "#"
           auxil:
             - id: "Slides"
@@ -105,84 +105,84 @@
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
       
-# - week: 3
-#   days:
-#     - date: "Mon Sep 9"
-#       items:
-#         - type: "Lecture"
-#           id: "6"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Tue Sep 10"
-#       items:
-#         - type: "Section"
-#           id: "3"
-#           name: TBD
-#           href: "#"
-#     - date: "Wed Sep 11"
-#       items:
-#         - type: "Lecture"
-#           id: "7"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Thu Sep 12"
-#       items:
-#         - type: "Section"
-#           id: "4"
-#           name: TBD
-#           href: "#"
-#     - date: "Fri Sep 13"
-#       items:
-#         - type: "Lecture"
-#           id: "8"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
+- week: 3
+  days:
+    - date: "Mon Sep 9"
+      items:
+        - type: "Lecture"
+          id: "5"
+          name: Data from Distributions
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1dZS2TLNucnYLcw3-Ta2d48eo8DnDfk4gDJ_CNRk8k_s/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1X7534JtOdoPCNfD_C77-ZxyUq6E8_CWtrejvnDo84ws/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Tue Sep 10"
+      items:
+        - type: "Section"
+          id: "3"
+          name: Working with distributions in R
+          href: "#"
+    - date: "Wed Sep 11"
+      items:
+        - type: "Lecture"
+          id: "6"
+          name: Parables and perplexing problems pertaining to probability
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Thu Sep 12"
+      items:
+        - type: "Section"
+          id: "4"
+          name: TBD
+          href: "#"
+    - date: "Fri Sep 13"
+      items:
+        - type: "Lecture"
+          id: "7"
+          name: More parables and perplexing problems pertaining to probability
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
 
 # - week: 4
 #   days:
 #     - date: "Mon Sep 16"
 #       items:
 #         - type: "Lecture"
-#           id: "9"
+#           id: "8"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -207,7 +207,7 @@
 #     - date: "Wed Sep 18"
 #       items:
 #         - type: "Lecture"
-#           id: "10"
+#           id: "9"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -232,7 +232,7 @@
 #     - date: "Fri Sep 20"
 #       items:
 #         - type: "Lecture"
-#           id: "11"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -254,7 +254,7 @@
 #     - date: "Mon Sep 23"
 #       items:
 #         - type: "Lecture"
-#           id: "12"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -279,7 +279,7 @@
 #     - date: "Wed Sep 25"
 #       items:
 #         - type: "Lecture"
-#           id: "13"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -304,7 +304,7 @@
 #     - date: "Fri Sep 27"
 #       items:
 #         - type: "Lecture"
-#           id: "14"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -326,7 +326,7 @@
 #     - date: "Mon Sep 30"
 #       items:
 #         - type: "Lecture"
-#           id: "15"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -351,7 +351,7 @@
 #     - date: "Wed Oct 2"
 #       items:
 #         - type: "Lecture"
-#           id: "16"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -376,7 +376,7 @@
 #     - date: "Fri Oct 4"
 #       items:
 #         - type: "Lecture"
-#           id: "17"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -398,7 +398,7 @@
 #     - date: "Mon Oct 7"
 #       items:
 #         - type: "Lecture"
-#           id: "18"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -423,7 +423,7 @@
 #     - date: "Wed Oct 9"
 #       items:
 #         - type: "Lecture"
-#           id: "19"
+#           id: "1X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -448,7 +448,7 @@
 #     - date: "Fri Oct 11"
 #       items:
 #         - type: "Lecture"
-#           id: "20"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -470,7 +470,7 @@
 #     - date: "Mon Oct 14"
 #       items:
 #         - type: "Lecture"
-#           id: "21"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -495,7 +495,7 @@
 #     - date: "Wed Oct 16"
 #       items:
 #         - type: "Lecture"
-#           id: "22"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -520,7 +520,7 @@
 #     - date: "Fri Oct 18"
 #       items:
 #         - type: "Lecture"
-#           id: "23"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -542,7 +542,7 @@
 #     - date: "Mon Oct 21"
 #       items:
 #         - type: "Lecture"
-#           id: "24"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -567,7 +567,7 @@
 #     - date: "Wed Oct 23"
 #       items:
 #         - type: "Lecture"
-#           id: "25"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -592,7 +592,7 @@
 #     - date: "Fri Oct 25"
 #       items:
 #         - type: "Lecture"
-#           id: "26"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -614,7 +614,7 @@
 #     - date: "Mon Oct 28"
 #       items:
 #         - type: "Lecture"
-#           id: "27"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -639,7 +639,7 @@
 #     - date: "Wed Oct 30"
 #       items:
 #         - type: "Lecture"
-#           id: "28"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -664,7 +664,7 @@
 #     - date: "Fri Nov 1"
 #       items:
 #         - type: "Lecture"
-#           id: "29"
+#           id: "2X"
 #           name: TBD
 #           href: "#"
 #           auxil:
