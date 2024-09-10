@@ -36,8 +36,9 @@ Submit your assignment via [Gradescope](https://www.gradescope.com/courses/83308
 
 **You must submit a PDF of any PingPong chats that include code you used in your submission.**
 
-- This should take the form of one long PDF.
-There are lots of free tools for stitching together PDFs.
+- This should take the form of one long PDF. One way to do this is to copy
+all of your relevant PingPong chats into a Google Doc, and then print the doc
+as a PDF.
 
 - You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
 
