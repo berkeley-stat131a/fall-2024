@@ -138,7 +138,7 @@
     - date: "Wed Sep 11"
       items:
         - type: "Lecture"
-          id: "6"
+          id: "6a"
           name: Parables and perplexing problems pertaining to probability
           href: "#"
           auxil:
@@ -146,10 +146,10 @@
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1VlBjaEgHrX16sLkJdCBvWwQ56dSC4k6zhxW0oP4GUMI/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1banfGnm_PEsoXJPqSdv8trl0EAKzyKhZov-cVthrx9c/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
@@ -163,7 +163,7 @@
     - date: "Fri Sep 13"
       items:
         - type: "Lecture"
-          id: "7"
+          id: "6b"
           name: More parables and perplexing problems pertaining to probability
           href: "#"
           auxil:
@@ -185,7 +185,7 @@
 #     - date: "Mon Sep 16"
 #       items:
 #         - type: "Lecture"
-#           id: "8"
+#           id: "7"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -210,7 +210,7 @@
 #     - date: "Wed Sep 18"
 #       items:
 #         - type: "Lecture"
-#           id: "9"
+#           id: "8"
 #           name: TBD
 #           href: "#"
 #           auxil:
@@ -235,7 +235,7 @@
 #     - date: "Fri Sep 20"
 #       items:
 #         - type: "Lecture"
-#           id: "1X"
+#           id: "9"
 #           name: TBD
 #           href: "#"
 #           auxil:
