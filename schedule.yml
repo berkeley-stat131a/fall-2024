@@ -142,14 +142,14 @@
           name: Parables and perplexing problems pertaining to probability
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1_X1CrVhlMTKm4197H3_eMgH_e_SieJXdXhlrOf22S_Y/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1VlBjaEgHrX16sLkJdCBvWwQ56dSC4k6zhxW0oP4GUMI/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1banfGnm_PEsoXJPqSdv8trl0EAKzyKhZov-cVthrx9c/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1banfGnm_PEsoXJPqSdv8trl0EAKzyKhZov-cVthrx9c/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
