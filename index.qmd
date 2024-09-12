@@ -25,13 +25,9 @@ listing:
 
 <!-- Read the [syllabus](syllabus.qmd) in full!  -->
 
-Lab 1 is due Monday 9/9 at midnight.
-
 [HW1](assignment1.html) is due Friday 9/13 at midnight. 
 
-Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link).
-
-If you are enrolled, complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link).
+Lab 2 is due Wednesday 9/16 at midnight.
 
 ## Schedule 📅
 
