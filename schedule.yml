@@ -180,33 +180,33 @@
             # - id: "Lecture code (DataHub)"
             #   href: "#"
 
-# - week: 4
-#   days:
-#     - date: "Mon Sep 16"
-#       items:
-#         - type: "Lecture"
-#           id: "7"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Tue Sep 17"
-#       items:
-#         - type: "Section"
-#           id: "5"
-#           name: TBD
-#           href: "#"
+- week: 4
+  days:
+    - date: "Mon Sep 16"
+      items:
+        - type: "Lecture"
+          id: "7"
+          name: Parallel universes
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1jcPDtLUZcBIEKoc3IpiRSN3_jZkP6I9CMHLlGwmgrlU/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1ouiaRa-1s4bSdJDu0yzRVaRp-8sIvRvFUIFWf5hcdGg/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Tue Sep 17"
+      items:
+        - type: "Section"
+          id: "5"
+          name: Wrap up probability exercise and Lab 2
+          href: "#"
 #     - date: "Wed Sep 18"
 #       items:
 #         - type: "Lecture"

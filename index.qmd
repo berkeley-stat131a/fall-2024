@@ -25,9 +25,13 @@ listing:
 
 <!-- Read the [syllabus](syllabus.qmd) in full!  -->
 
-[HW1](assignment1.html) is due Friday 9/13 at midnight. 
+<!-- HW2 is due Friday 9/13 at midnight.  -->
 
-Lab 2 is due Wednesday 9/16 at midnight.
+Lab 2 is due Wednesday 9/18 at midnight.
+
+Lab 3 is due Monday 9/23 at midnight (posted soon).
+
+HW2 is due Friday 9/27 at midnight (posted soon).
 
 ## Schedule 📅
 
