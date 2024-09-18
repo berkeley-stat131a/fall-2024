@@ -228,12 +228,15 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-#     - date: "Thu Sep 19"
-#       items:
-#         - type: "Section"
-#           id: "6"
-#           name: TBD
-#           href: "#"
+    - date: "Thu Sep 19"
+      items:
+        - type: "Section"
+          id: "6"
+          name: Sampling distributions
+          href: "#"
+          auxil:
+            - id: "Lab 3 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
 #     - date: "Fri Sep 20"
 #       items:
 #         - type: "Lecture"
