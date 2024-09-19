@@ -124,25 +124,24 @@ This problem will help kick start your implementation of Naive Bayes in `R`.
 
     -   For example, you might define $\Pr(\text{free})$ as the probability that an email contains the string "free".
 
-```{=html}
 <!-- -->
-```
+
 (b) Using Bayes' Rule, write an equation for your probability statement from part (a).
     -   Hint: The right-hand side of the equation should have three distinct terms.
 
-```{=html}
 <!-- -->
-```
+
 (c) Expand the numerator of the right-hand side of the equation from part (b) using the chain rule of probability.
     -   We saw the chain rule of probability in lecture: $\Pr(A \cap B) = \Pr(A) \cdot \Pr(B | A)$, $\Pr(A \cap B \cap C) = \Pr(A) \cdot \Pr(B | A) \cdot \Pr(C | A ,B)$, and so on.
 
-```{=html}
 <!-- -->
-```
+
 (d) Suppose we make the strong assumption that word occurrences are conditionally independent of the email being spam or not spam.
     -   Under this assumption, how can we simplify the numerator of the probability statement from part (c)?
+
 (e) Describe a process for estimating $\Pr(\text{free} | \text{spam})$ using a dataset of emails labeled as spam or not spam.
     -   Your answer to part (d) should contain a term like $\Pr(\text{free} | \text{spam})$, where $\text{free}$ denotes the event that an email contains the string "free" and $\text{spam}$ denotes the event that an email is spam.
+
 (f) Finally, suppose we use the estimation procedure you proposed in part (e) to estimate the terms in the numerator of the right-hand side of your probability statement from part (d).
     -   If we want to classify an email as more likely to be spam or not spam, why can we ignore the denominator in the right-hand side of your probability statement from part (d)?
 
