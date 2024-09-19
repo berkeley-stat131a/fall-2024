@@ -1,0 +1,155 @@
+---
+title: "📝 HW2"
+editor: 
+  markdown: 
+    wrap: sentence
+format: 
+  html: 
+    embed-resources: true
+---
+
+Due date: **Friday, September 26 at midnight**.
+
+⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
+
+-   This is not an assignment to start the night before the due date!
+
+-   The assignment covers material all the way up to the Wednesday 9/24 lecture before the HW is due, so be sure to start working on problems as soon as you learn the requisite material.
+
+Unless otherwise stated, assignments in STAT 131A are to be done individually.
+
+-   As stated in the syllabus, the use of any LLM other than PingPong is considered cheating, unless otherwise indicated.
+
+-   See the syllabus for the full course collaboration policy.
+
+Some components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.
+
+-   If anything seems confusing or unclear, please post in the HW2 thread on Ed. We are here to support you!
+
+## 📮 Submission
+
+Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089).
+The Gradescope will be live at least a few days before the HW deadline.
+
+-   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
+
+**You must submit a PDF of any PingPong chats that include code you used in your submission.**
+
+-   This should take the form of one long PDF.
+    One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.
+
+-   You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
+
+**For coding components, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
+
+-   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
+-   To generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then **print the HTML as a PDF, making sure that none of your code or output is cut off.** You can generate an HTML file in RStudio by pressing `Knit` and then `Knit to HTML`.
+-   The knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.
+-   Proofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.
+
+**For math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.**
+
+-   Alternatively, you can use $\LaTeX$ to typeset your answers within a `.Rmd` file within `RStudio`, or using another $\LaTeX$ editor like Overleaf.
+-   The basics of $\LaTeX$ are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.
+-   [Here's a nice guide](https://ashki23.github.io/markdown-latex.html) for getting started.
+-   We can also help with $\LaTeX$ in office hours or via Ed.
+
+## 📝 Forms to complete (0% of the HW2 grade)
+
+If you have not already, complete the [anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLSdYcmT3-jdNcEhyYtbo-5azZsVIDQdpXvezsOORSLO3SuE0UA/viewform?usp=sf_link).
+
+-   To make sure everyone's opinion is represented in any subsequent changes to the course, is critical to get 100% participation on this survey.
+
+-   As the saying goes, ["The squeaky wheel gets the grease."](https://en.wikipedia.org/wiki/The_squeaky_wheel_gets_the_grease)
+
+## 🍬 Naive Bayes and M&Ms inference with `R` (50% of the HW2 grade)
+
+The HW2 coding problems will be posted shortly.
+
+-   The coding problems will build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.
+
+## 🗣️ Plot presentation feedback (10%)
+
+You will provide detailed feedback on another student's plot presentation from HW1.
+
+-   The quality and thoughtfulness of your feedback will be graded.
+
+-   You will not provide a grade to the other student.
+
+Details posted soon.
+
+## 🥼 Rapid tests for COVID and Bayes' Rule (25%)
+
+For the problem below, please show all steps.
+You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
+
+Using Bayes' Rule, estimate the following two quantities for tests sold in Berkeley, California in September 2024:
+
+1.  $\Pr(\text{COVID} | \text{Positive Nasal Swab Rapid Test})$
+
+2.  $\Pr(\text{No COVID} | \text{Negative Nasal Swab Rapid Test})$
+
+Each of the quantities you use in your estimation procedure should be from different sources.
+
+-   For example, you might estimate $\Pr(\text{COVID})$ from CDC data, and $\Pr(\text{Positive Nasal Swab Rapid Test} | \text{COVID})$ from a manufacturer's website.
+
+-   Be sure to include a link to the source of each quantity you use in your estimation procedure.
+
+In order to complete this problem, you will need to make assumptions.
+**Explicitly document every assumption you make**, and **explain why you think the assumption is or is not reasonable.**
+
+-   For example, you probably will not have access to data from September 2024.
+
+-   So, you will have to make assumptions about how reasonable your chosen data is for estimating the two quantities above for September 2024.
+
+**Be scrappy.** You will have to do a substantial amount of Google searching to complete this problem.
+
+-   Your answer may be very different than other students' answers, and that's okay!
+
+**Why complete this problem?** We often do not have perfect data to answer research questions.
+So, we have to make do with what we can access.
+This problem is designed to practice the skill of pulling together multiple data sources and documenting assumptions.
+It will also familiarize you with writing more complex probabilistic expressions.
+
+## 📤 Setting up spam classification with Naive Bayes (15%)
+
+In the coding portion of the homework, you will implement a Naive Bayes classifier to classify emails as spam or not spam.
+This problem will help kick start your implementation of Naive Bayes in `R`.
+
+-   To prepare for this problem, you may find it helpful to watch this [tutorial on Naive Bayes for spam classification](https://www.youtube.com/watch?v=O2L2Uv9pdDA).
+-   Josh will also post a recording of the IRS race classification slides that we did not have time to cover in lecture. It's coming soon!
+
+(a) Express the following as a probability statement: "The probability that an email containing the strings "free", "money", and "\$" is spam."
+    -   Make sure to define any notation you use in your probability statement.
+
+    -   For example, you might define $\Pr(\text{free})$ as the probability that an email contains the string "free".
+
+```{=html}
+<!-- -->
+```
+(b) Using Bayes' Rule, write an equation for your probability statement from part (a).
+    -   Hint: The right-hand side of the equation should have three distinct terms.
+
+```{=html}
+<!-- -->
+```
+(c) Expand the numerator of the right-hand side of the equation from part (b) using the chain rule of probability.
+    -   We saw the chain rule of probability in lecture: $\Pr(A \cap B) = \Pr(A) \cdot \Pr(B | A)$, $\Pr(A \cap B \cap C) = \Pr(A) \cdot \Pr(B | A) \cdot \Pr(C | A ,B)$, and so on.
+
+```{=html}
+<!-- -->
+```
+(d) Suppose we make the strong assumption that word occurrences are conditionally independent of the email being spam or not spam.
+    -   Under this assumption, how can we simplify the numerator of the probability statement from part (c)?
+(e) Describe a process for estimating $\Pr(\text{free} | \text{spam})$ using a dataset of emails labeled as spam or not spam.
+    -   Your answer to part (d) should contain a term like $\Pr(\text{free} | \text{spam})$, where $\text{free}$ denotes the event that an email contains the string "free" and $\text{spam}$ denotes the event that an email is spam.
+(f) Finally, suppose we use the estimation procedure you proposed in part (e) to estimate the terms in the numerator of the right-hand side of your probability statement from part (d).
+    -   If we want to classify an email as more likely to be spam or not spam, why can we ignore the denominator in the right-hand side of your probability statement from part (d)?
+
+    -   Hint: You may find it helpful rewrite the equation in part (d) for the case where we want to estimate the conditional probability that the email is **not** spam.
+
+Once you complete parts (a) through (f) above, you are ready to implement a Naive Bayes classifier in `R`!
+
+**Why complete this problem?** This problem is the first **classifier** you will implement in 131A.
+We will return to classifiers when we learn about **logistic regression** and **decision trees**.
+Later in the course, you will be able to compare the performance of your Naive Bayes classifier in HW2 to alternative classifiers trained on the same spam dataset.
