@@ -42,11 +42,69 @@
     "text": "🔔 Working with probability density functions (PDFs) (20%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the function \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{3}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for an r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\((0,1)\\)?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
   },
   {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 131a: Statistical Methods for Data Science",
+    "section": "",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\nConcept check form",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#announcements",
+    "href": "index.html#announcements",
+    "title": "Statistics 131a: Statistical Methods for Data Science",
+    "section": "Announcements 📣",
+    "text": "Announcements 📣\n\n\nComplete the anonymous course pulse check.\nLab 2 is due Wednesday 9/18 at midnight.\nLab 3 is due Monday 9/23 at midnight.\n\nYour Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.\n\nHW2 is due Friday 9/27 at midnight (posted soon).",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Statistics 131a: Statistical Methods for Data Science",
+    "section": "Schedule 📅",
+    "text": "Schedule 📅\n\n\n\n \n\n   Week 4\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Sep 20:\n           \n           \n               Lecture 8b\n               \n                 More on sampling distributions\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 19:\n           \n           \n               Section 6\n               \n                 Sampling distributions\n               \n          \n           \n                \n                 \n                   \n                     Lab 3 (DataHub)\n                   \n                 \n                   \n                     Lab 3 (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 18:\n           \n           \n               Lecture 8a\n               \n                 Sampling distributions\n               \n          \n           \n                \n                 \n                   \n                     Demo (DataHub)\n                   \n                 \n                   \n                     Demo (GitHub)\n                   \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 17:\n           \n           \n               Section 5\n               \n                 Wrap up probability exercise and Lab 2\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 16:\n           \n           \n               Lecture 7\n               \n                 Parallel universes\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Sep 13:\n           \n           \n               Lecture 6b\n               \n                 More parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 12:\n           \n           \n               Section 4\n               \n                 Conceptual review of probability\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 11:\n           \n           \n               Lecture 6a\n               \n                 Parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 10:\n           \n           \n               Section 3\n               \n                 Working with distributions in R\n               \n          \n           \n                \n                 \n                   \n                     Lab 2 (DataHub)\n                   \n                 \n                   \n                     Lab 2 (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 9:\n           \n           \n               Lecture 5\n               \n                 Data from Distributions\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n                   \n                     Lab 1 (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday  (Labor Day)\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 (HTML w/ DataHub Link)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
     "objectID": "assignments.html",
     "href": "assignments.html",
     "title": "Due dates",
     "section": "",
-    "text": "DataHub\n\nDue date: Monday, September 9, midnight PT",
+    "text": "DataHub\nGitHub\nDue date: Monday, September 9, midnight PT",
     "crumbs": [
       "HW, Labs, Project"
     ]
@@ -56,7 +114,7 @@
     "href": "assignments.html#lab-1",
     "title": "Due dates",
     "section": "",
-    "text": "DataHub\n\nDue date: Monday, September 9, midnight PT",
+    "text": "DataHub\nGitHub\nDue date: Monday, September 9, midnight PT",
     "crumbs": [
       "HW, Labs, Project"
     ]
@@ -76,7 +134,7 @@
     "href": "assignments.html#lab-2",
     "title": "Due dates",
     "section": "Lab 2",
-    "text": "Lab 2\nDataHub\nDue date: Wednesday, September 18, midnight PT",
+    "text": "Lab 2\nDataHub\nGitHub\nDue date: Wednesday, September 18, midnight PT",
     "crumbs": [
       "HW, Labs, Project"
     ]
@@ -86,7 +144,7 @@
     "href": "assignments.html#lab-3",
     "title": "Due dates",
     "section": "Lab 3",
-    "text": "Lab 3\nDataHub\nAnticipated due date: Monday, September 23, midnight PT",
+    "text": "Lab 3\nDataHub\nGitHub\nDue date: Monday, September 23, midnight PT",
     "crumbs": [
       "HW, Labs, Project"
     ]
@@ -262,27 +320,6 @@
     ]
   },
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
-  },
-  {
     "objectID": "staff.html",
     "href": "staff.html",
     "title": "🍎 Staff",
@@ -290,43 +327,6 @@
     "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
     "crumbs": [
       "Staff"
-    ]
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistics 131a: Statistical Methods for Data Science",
-    "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\nConcept check form",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#announcements",
-    "href": "index.html#announcements",
-    "title": "Statistics 131a: Statistical Methods for Data Science",
-    "section": "Announcements 📣",
-    "text": "Announcements 📣\n\n\nLab 2 is due Wednesday 9/18 at midnight.\nLab 3 is due Monday 9/23 at midnight.\n\nYour Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.\n\nHW2 is due Friday 9/27 at midnight (posted soon).",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "Statistics 131a: Statistical Methods for Data Science",
-    "section": "Schedule 📅",
-    "text": "Schedule 📅\n\n\n\n \n\n   Week 4\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Thu Sep 19:\n           \n           \n               Section 6\n               \n                 Sampling distributions\n               \n          \n           \n                \n                 \n                   \n                     Lab 3 (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 18:\n           \n           \n               Lecture 8\n               \n                 Sampling distributions\n               \n          \n           \n                \n                 \n                   \n                     Demo (DataHub)\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Abridged slides for live notes\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 17:\n           \n           \n               Section 5\n               \n                 Wrap up probability exercise and Lab 2\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 16:\n           \n           \n               Lecture 7\n               \n                 Parallel universes\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Sep 13:\n           \n           \n               Lecture 6b\n               \n                 More parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 12:\n           \n           \n               Section 4\n               \n                 Conceptual review of probability\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 11:\n           \n           \n               Lecture 6a\n               \n                 Parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 10:\n           \n           \n               Section 3\n               \n                 Working with distributions in R\n               \n          \n           \n                \n                 \n                   \n                     Lab 2 (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 9:\n           \n           \n               Lecture 5\n               \n                 Data from Distributions\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Sep 6:\n           \n           \n               Lecture 4\n               \n                 Distributions of Data\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Sep 5:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Sep 4:\n           \n           \n               Lecture 3\n               \n                 Boxplots and Histograms\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Sep 3:\n           \n           \n               Section 1\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Sep 2:\n           \n           \n               Holiday  (Labor Day)\n               \n                 \n               \n          \n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Aug 30:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lab 0 (Not turned in)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Aug 28:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "Home / Schedule"
     ]
   },
   {
