@@ -33,6 +33,10 @@ Due date: Wednesday, September 18, midnight PT
 
 [GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
+Your Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.
+
+- You can ignore the two normal distribution plots at the end of the worksheet.
+
 Due date: Monday, September 23, midnight PT
 
 ## HW2
