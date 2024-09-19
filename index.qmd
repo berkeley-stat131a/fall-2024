@@ -35,7 +35,7 @@ Lab 3 is due Monday 9/23 at midnight.
 
 - Your Lab 3 submission must include a completed PDF of the [Lecture 8 worksheet](https://docs.google.com/presentation/d/1N4GZYX_2g3SEXMiHFKkhC44GYm64x4NiySvLRlIK1ko/edit?usp=sharing).
 
-HW2 is due Friday 9/27 at midnight (posted soon).
+[HW2](assignment2.html) is due Friday 9/27 at midnight (partially posted).
 
 ## Schedule 📅
 
