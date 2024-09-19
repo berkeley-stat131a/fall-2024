@@ -9,7 +9,7 @@ editor:
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-<!-- [Lab 1 HTML](labs-html/lab01-exercises.html) -->
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
 Due date: Monday, September 9, midnight PT
 
@@ -23,13 +23,17 @@ Due date: Friday, September 13, midnight PT
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
 Due date: Wednesday, September 18, midnight PT
 
 ## Lab 3
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-Anticipated due date: Monday, September 23, midnight PT
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+Due date: Monday, September 23, midnight PT
 
 ## HW2
 

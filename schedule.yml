@@ -34,7 +34,7 @@
               href: "https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
-            - id: "Lab 0 (Not turned in)"
+            - id: "Lab 0 (HTML w/ DataHub Link)"
               href: "https://stat131a.berkeley.edu/fall-2024/assets/Lab00.html"
             # - id: "Lecture code (TBD)"
             #   href: "#"
@@ -83,8 +83,11 @@
           auxil:
             - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 1 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
             # - id: "Lab 1 (HTML)"
             #   href: "labs-html/lab01-exercises.html"
+            
     - date: "Fri Sep 6"
       items:
         - type: "Lecture"
@@ -135,6 +138,8 @@
           auxil:
             - id: "Lab 2 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 2 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
     - date: "Wed Sep 11"
       items:
         - type: "Lecture"
@@ -210,20 +215,22 @@
     - date: "Wed Sep 18"
       items:
         - type: "Lecture"
-          id: "8"
+          id: "8a"
           name: Sampling distributions
           href: "#"
           auxil:
             - id: "Demo (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Demo (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/parametric-sampling-distribution-simulation.Rmd"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1ISrQnEeZal1nmfh7KGAS47N_AuGiJ7wKhGCoKSHtE4Y/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1N4GZYX_2g3SEXMiHFKkhC44GYm64x4NiySvLRlIK1ko/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/18tFgutqvqfsf0B3UhyGhR0f-0-49_rytBWyj2eRDlAk/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/18tFgutqvqfsf0B3UhyGhR0f-0-49_rytBWyj2eRDlAk/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
@@ -237,25 +244,27 @@
           auxil:
             - id: "Lab 3 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-#     - date: "Fri Sep 20"
-#       items:
-#         - type: "Lecture"
-#           id: "9"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
+            - id: "Lab 3 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+    - date: "Fri Sep 20"
+      items:
+        - type: "Lecture"
+          id: "8b"
+          name: More on sampling distributions
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
 
 # - week: 5
 #   days:
