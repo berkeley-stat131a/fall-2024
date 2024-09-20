@@ -66,7 +66,7 @@ If you have not already, complete the [anonymous course pulse check](https://doc
 
 -   As the saying goes, ["The squeaky wheel gets the grease."](https://en.wikipedia.org/wiki/The_squeaky_wheel_gets_the_grease)
 
-## 🗣️ Plot presentation feedback (10%)
+## 🗣️ Plot presentation feedback ~~(10%)~~ (20%)
 
 You will be emailed a screencast ID for another student's screencast from HW1.
 
@@ -110,7 +110,7 @@ If you are at all surprised by the feedback you receive on your own screencast (
 Remember, it is not the audience's responsibility to decipher your presentation for its intended interpretation.
 You need to carefully prepare your presentation so that the intended interpretation is crystal clear!
 
-## 🥼 Rapid tests for COVID and Bayes' Rule (25%)
+## 🥼 Rapid tests for COVID and Bayes' Rule ~~(25%)~~ (30%)
 
 For the problem below, please show all steps.
 You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
@@ -143,7 +143,7 @@ So, we have to make do with what we can access.
 This problem is designed to practice the skill of pulling together multiple data sources and documenting assumptions.
 It will also familiarize you with writing more complex probabilistic expressions.
 
-## 📤 Setting up spam classification with Naive Bayes (15%)
+## 📤 Setting up spam classification with Naive Bayes ~~(15%)~~ **This question is now worth up to two points of extra credit.**
 
 In the coding portion of the homework, you will implement a Naive Bayes classifier to classify emails as spam or not spam.
 This problem will help kick start your implementation of Naive Bayes in `R`.
@@ -185,15 +185,14 @@ Once you complete parts (a) through (f) above, you are ready to implement a Naiv
 We will return to classifiers when we learn about **logistic regression** and **decision trees**.
 Later in the course, you will be able to compare the performance of your Naive Bayes classifier in HW2 to alternative classifiers trained on the same spam dataset.
 
-
 ## 🍬 Naive Bayes and M&Ms inference with `R` (50% of the HW2 grade)
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-- The HW1 coding problems are located in `131a-labs-fall-2024` directory.
+-   The HW1 coding problems are located in `131a-labs-fall-2024` directory.
 
 [GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
 -   The coding problems build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.
 
-- Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above.
+-   Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above. **Note: The Naive Bayes coding problem is now worth up to five points of extra credit.**
