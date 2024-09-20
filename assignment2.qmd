@@ -12,7 +12,7 @@ Due date: **Friday, September 26 at midnight**.
 
 ⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
 
--   This is not an assignment to start the night before the due date!
+-   **This is not an assignment to start the night before the due date!**
 
 -   The assignment covers material all the way up to the Wednesday 9/24 lecture before the HW is due, so be sure to start working on problems as soon as you learn the requisite material.
 
@@ -40,6 +40,10 @@ The Gradescope will be live at least a few days before the HW deadline.
 
 -   You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
 
+**Like HW1, you will submit your screencast feedback in two places**: (1) Gradescope and (2) Google Forms.
+
+[Google Form for submitting feedback](https://docs.google.com/forms/d/e/1FAIpQLSebHMaw4OSVcnKO1GDI1PUu8DAdgpu27KYaaPmvNMSJiAMhXQ/viewform?usp=sf_link)
+
 **For coding components, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
 
 -   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
@@ -62,21 +66,49 @@ If you have not already, complete the [anonymous course pulse check](https://doc
 
 -   As the saying goes, ["The squeaky wheel gets the grease."](https://en.wikipedia.org/wiki/The_squeaky_wheel_gets_the_grease)
 
-## 🍬 Naive Bayes and M&Ms inference with `R` (50% of the HW2 grade)
-
-The HW2 coding problems will be posted shortly.
-
--   The coding problems will build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.
-
 ## 🗣️ Plot presentation feedback (10%)
 
-You will provide detailed feedback on another student's plot presentation from HW1.
+You will be emailed a screencast ID for another student's screencast from HW1.
 
--   The quality and thoughtfulness of your feedback will be graded.
+-   If you have not received an email with a link by Thursday, September 19th at midnight, please open a private Ed post.
 
--   You will not provide a grade to the other student.
+-   If you did not submit a screencast for HW1, you will not receive an email with an assigned screencast ID.
+    If you would like to review a screencast for HW2, please open a private Ed post letting us know.
 
-Details posted soon.
+-   Public links to screencasts can be found [here](https://docs.google.com/spreadsheets/d/15FTpRZqDSbaK_JzGhsqKh-pSbqTs8QFbVTqnG2JSSPc/edit?usp=sharing).
+
+For this exercise, you will write detailed feedback on your assigned screencast.
+
+-   Keep in mind that this feedback will be anonymously provided to the student who recorded the screencast.
+
+-   Please be constructive and supportive with any criticism, and do not hold back on providing praise where deserved!
+
+As you write your feedback, you may want to consider the prompts below.
+However, do not feel limited to just these prompts, and do not feel compelled to address every single prompt.
+
+-   What did you enjoy most about the presentation?
+-   What insights did you find particularly interesting?
+-   Did the presenter follow the key three tips of describing the x-axis, describing the y-axis, and explaining a plot feature (e.g., a point or line) in context, before diving into the details?
+-   Could the presenter have done anything to help you understand the plot more easily? Were you confused at any point?
+-   Did you find the tone of the presentation engaging? Did it sound like the presenter had practiced their presentation, or that they spent time thoughtfully writing a script for the presentation?
+-   Did the presenter sufficiently describe the contents of the plot?
+-   Did you have enough background information to understand the plot? Could the presentation have benefited from any more background information?
+-   Did the presenter describe the key takeaways of the plot? In other words, **did the presenter explain why the plot actually matters in a real life context**, as opposed to just explain how to read the plot?
+-   Did the presenter provide any extraneous information or "over-describe" anything? In other words, could the presenter have shortened any parts of the presentation without harming its key takeaways?
+-   Would any parts of the presentation benefit from more description or detail? Did anything feel rushed? <!-- - Do you have any follow up questions for the presentation? For example, do you see any natural extensions of what was presented, or have any ideas of what could go in a follow up presentation on the same topic? **Answering this question will help your presenter think about potential project ideas, and give you a chance to exercise your creative thinking skills.** -->
+-   Do you have any "nits" about the presentation (i.e., very small changes that could improve the presentation, like a typo or mispronunciation)? If you choose to answer this prompt, it should not take up more than 10% of the text of your entire feedback. Focus your energy on the "big picture" prompts.
+
+Your feedback will be graded based on demonstrated effort and thoughtfulness.
+
+-   You should aim to write at least two paragraphs of feedback.
+
+-   Your feedback can alternatively be written as an organized, bulleted list equivalent in word count to at least two paragraphs.
+
+**Why complete this problem?** Writing detailed feedback on another student's plot presentation will help you become a better presenter.
+One of the hardest data science skills to develop is "presentation empathy", or a sense of how someone who has never seen your work before will interpret your presentations After staring at your own work for hours, it can be hard to see your work with "fresh eyes".
+If you are at all surprised by the feedback you receive on your own screencast (or receive feedback with which you disagree!), take that moment as an excellent opportunity to understand how other people can interpret your work differently than you interpret your own work.
+Remember, it is not the audience's responsibility to decipher your presentation for its intended interpretation.
+You need to carefully prepare your presentation so that the intended interpretation is crystal clear!
 
 ## 🥼 Rapid tests for COVID and Bayes' Rule (25%)
 
@@ -120,29 +152,29 @@ This problem will help kick start your implementation of Naive Bayes in `R`.
 -   Josh will also post a recording of the IRS race classification slides that we did not have time to cover in lecture. It's coming soon!
 
 (a) Express the following as a probability statement: "The probability that an email containing the strings "free", "money", and "\$" is spam."
+
     -   Make sure to define any notation you use in your probability statement.
 
     -   For example, you might define $\Pr(\text{free})$ as the probability that an email contains the string "free".
 
-<!-- -->
-
 (b) Using Bayes' Rule, write an equation for your probability statement from part (a).
+
     -   Hint: The right-hand side of the equation should have three distinct terms.
 
-<!-- -->
-
 (c) Expand the numerator of the right-hand side of the equation from part (b) using the chain rule of probability.
+
     -   We saw the chain rule of probability in lecture: $\Pr(A \cap B) = \Pr(A) \cdot \Pr(B | A)$, $\Pr(A \cap B \cap C) = \Pr(A) \cdot \Pr(B | A) \cdot \Pr(C | A ,B)$, and so on.
 
-<!-- -->
-
 (d) Suppose we make the strong assumption that word occurrences are conditionally independent of the email being spam or not spam.
+
     -   Under this assumption, how can we simplify the numerator of the probability statement from part (c)?
 
 (e) Describe a process for estimating $\Pr(\text{free} | \text{spam})$ using a dataset of emails labeled as spam or not spam.
+
     -   Your answer to part (d) should contain a term like $\Pr(\text{free} | \text{spam})$, where $\text{free}$ denotes the event that an email contains the string "free" and $\text{spam}$ denotes the event that an email is spam.
 
 (f) Finally, suppose we use the estimation procedure you proposed in part (e) to estimate the terms in the numerator of the right-hand side of your probability statement from part (d).
+
     -   If we want to classify an email as more likely to be spam or not spam, why can we ignore the denominator in the right-hand side of your probability statement from part (d)?
 
     -   Hint: You may find it helpful rewrite the equation in part (d) for the case where we want to estimate the conditional probability that the email is **not** spam.
@@ -152,3 +184,16 @@ Once you complete parts (a) through (f) above, you are ready to implement a Naiv
 **Why complete this problem?** This problem is the first **classifier** you will implement in 131A.
 We will return to classifiers when we learn about **logistic regression** and **decision trees**.
 Later in the course, you will be able to compare the performance of your Naive Bayes classifier in HW2 to alternative classifiers trained on the same spam dataset.
+
+
+## 🍬 Naive Bayes and M&Ms inference with `R` (50% of the HW2 grade)
+
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+- The HW1 coding problems are located in `131a-labs-fall-2024` directory.
+
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+-   The coding problems build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.
+
+- Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above.
