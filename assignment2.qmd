@@ -143,7 +143,7 @@ So, we have to make do with what we can access.
 This problem is designed to practice the skill of pulling together multiple data sources and documenting assumptions.
 It will also familiarize you with writing more complex probabilistic expressions.
 
-## 📤 Setting up spam classification with Naive Bayes ~~(15%)~~ **This question is now worth up to two points of extra credit.**
+## 📤 Setting up spam classification with Naive Bayes ~~(15%)~~ **This question is now optional, and worth up to two points of extra credit.**
 
 In the coding portion of the homework, you will implement a Naive Bayes classifier to classify emails as spam or not spam.
 This problem will help kick start your implementation of Naive Bayes in `R`.
@@ -195,4 +195,4 @@ Later in the course, you will be able to compare the performance of your Naive B
 
 -   The coding problems build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.
 
--   Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above. **Note: The Naive Bayes coding problem is now worth up to five points of extra credit.**
+-   Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above. **Note: The Naive Bayes coding problem is now optional, and worth up to five points of extra credit.**
