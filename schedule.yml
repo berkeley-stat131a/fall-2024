@@ -253,14 +253,14 @@
           name: More on sampling distributions
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1lJkcOuAmJ4OCKS2DO-0dQFzdaNod9kTKFv6i3HRkziU/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1DyAqn8CmhxCeMxELP20iofjhpivoXpqnUqLkYekFeTk/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1PRaEC7K4KPkpAC6jXd7tUiuivoySrJdh4lT6TtvuBaA/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1PRaEC7K4KPkpAC6jXd7tUiuivoySrJdh4lT6TtvuBaA/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
