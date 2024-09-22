@@ -29,8 +29,6 @@ listing:
 
 Complete the [anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLSdYcmT3-jdNcEhyYtbo-5azZsVIDQdpXvezsOORSLO3SuE0UA/viewform?usp=sf_link).
 
-Lab 2 is due Wednesday 9/18 at midnight.
-
 Lab 3 is due Monday 9/23 at midnight.
 
 - Your Lab 3 submission must include a completed PDF of the [Lecture 8 worksheet](https://docs.google.com/presentation/d/1N4GZYX_2g3SEXMiHFKkhC44GYm64x4NiySvLRlIK1ko/edit?usp=sharing).
