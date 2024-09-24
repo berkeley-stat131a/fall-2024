@@ -275,8 +275,8 @@
           name: The bootstrap
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1Ht9BGhNJAhaLADViZvC1hOVdKlugvM0S_z6rwL-upVo/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Demo (DataHub)"
@@ -285,8 +285,8 @@
               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/parametric-bootstrap-simulation.R"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1y3LPugdCQm40XFySyZbmUyLgeu0W9NBFDPgodGzKZnM/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1FLNiKbBCeyY3mFTcfxlhUXKJIYcwJbkrOnBn0sO9SZo/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1FLNiKbBCeyY3mFTcfxlhUXKJIYcwJbkrOnBn0sO9SZo/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
