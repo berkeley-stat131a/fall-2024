@@ -45,11 +45,13 @@ Due date: Monday, September 23, midnight PT
 
 Due date: Friday, September 27, midnight PT
 
-## Lab 4
+## Lab 4 (Part A and Part B)
 
-Link forthcoming.
+[DataHub (Part A and B)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-Anticipated due date: Wednesday, October 2, midnight PT
+[GitHub (Part A and B)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+Due date: Wednesday, October 2, midnight PT
 
 ## Lab 5
 
