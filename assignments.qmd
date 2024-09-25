@@ -45,7 +45,7 @@ Due date: Monday, September 23, midnight PT
 
 Due date: Friday, September 27, midnight PT
 
-## Lab 4 (Part A and Part B)
+## Lab 4 (Part A and Part B) 🩸
 
 [DataHub (Part A and B)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -53,15 +53,15 @@ Due date: Friday, September 27, midnight PT
 
 Due date: Wednesday, October 2, midnight PT
 
+## Midterm 1
+
+Wednesday, October 9, 2-3pm in Morgan 101
+
 ## Lab 5
 
 Link forthcoming.
 
-Anticipated due date: Monday, October 7, midnight PT
-
-## Midterm 1
-
-Wednesday, October 9, 2-3pm in Morgan 101
+Anticipated due date: Friday, October 11, midnight PT
 
 ## Lab 6
 
