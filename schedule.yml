@@ -74,6 +74,8 @@
             #   href: "lecture-code/boxplot-freq-hist-lecture-code.html"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"
     - date: "Thu Sep 5"
       items:
         - type: "Section"
@@ -107,6 +109,8 @@
             #   href: "#"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"
       
 - week: 3
   days:
