@@ -35,7 +35,7 @@ Due date: Wednesday, September 18, midnight PT
 
 Your Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.
 
-- You can ignore the two normal distribution plots at the end of the worksheet.
+-   You can ignore the two normal distribution plots at the end of the worksheet.
 
 Due date: Monday, September 23, midnight PT
 
@@ -43,7 +43,7 @@ Due date: Monday, September 23, midnight PT
 
 [HW 2 details](assignment2.html)
 
-Due date: Friday, September 27, midnight PT
+Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
 ## Lab 4 (Part A and Part B) 🩸
 
@@ -121,7 +121,7 @@ Link forthcoming.
 
 Anticipated due date: Wednesday, December 4, midnight PT
 
-## HW6 
+## HW6
 
 Details forthcoming.
 
@@ -135,34 +135,44 @@ Anticipated due date: Friday, December 13, midnight PT
 
 ## Final exam
 
-Thursday, December 19, 3-6pm @ TBD Location
-
-
-
-
-
+Thursday, December 19, 3-6pm \@ TBD Location
 
 <!-- In teams of 3 people (no more, no fewer), please complete the [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSeYSFHSlrRKkcjCCo9PAGrtiWoWRQEQHGBsJsosEZfZ9ebocA/viewform?usp=sf_link). -->
 
 <!-- To help assess the feasibility and suitability of your project, -->
+
 <!-- please discuss your idea with the teaching staff before submitting your proposal. -->
+
 <!-- Your group should -->
+
 <!-- sign up for a -->
+
 <!-- [15-minute meeting slot](https://docs.google.com/spreadsheets/d/1Gm0Dec4v061fLeEvg-N86jsOyG2TeNOJdtEScOrV1xs/edit?usp=sharing). -->
+
 <!-- It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present.  -->
+
 <!-- Your proposal does not have to be completed, or even started, when you meet with a member of the teaching staff. -->
+
 <!-- But, you should have started thinking about potential topics and ideas. -->
+
 <!-- **This meeting is a required part of the assignment.** -->
 
 <!-- You are free to pursue any topic related to applied statistics. -->
+
 <!-- In previous years, teams have considered -->
+
 <!-- athletic performance, gender inequality, farming practices, restaurant quality, -->
+
 <!-- music success, gentrification, and standardized testing, just to name a few. -->
+
 <!-- Any data-driven investigation is fair game. -->
 
 <!-- ~~**More specific instructions on final deliverables will be provided later in the quarter.** -->
+
 <!-- In a previous iteration of the course, teams submitted either a 10-page report or a 10-minute presentation. -->
+
 <!-- You can see past examples of successful final projects [here](https://jdgrossman.com/assets/mse-125-example-projects.zip). -->
+
 <!-- The final deliverables will likely change for this iteration of the course.~~ -->
 
 <!-- For more project details, see [the project page](https://jdgrossman.com/mse125/project). -->
@@ -176,4 +186,5 @@ Thursday, December 19, 3-6pm @ TBD Location
 <!-- Confidential peer evaluations should be submitted separately by each team member.  -->
 
 <!-- [Peer Eval Form](https://docs.google.com/forms/d/e/1FAIpQLSfzTPmpQIDCNR0df-Bc9u4fEmM0Y6uz6vPAWprhPd9w86SCBA/viewform?usp=sf_link). -->
+
 <!-- <!-- Form link is [here](https://forms.gle/rKfgfAsMxMivoGbV6). -->

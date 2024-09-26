@@ -16,26 +16,26 @@ listing:
 <!-- [All information on the course website is subject to change before August 28th, 2024.] -->
 
 <!-- ::: {.callout-note title="Welcome to Week 2"} -->
+
 <!-- Things are picking up now. -->
+
 <!-- ::: -->
 
 [Concept check form](https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link)\
 
 ## Announcements 📣
 
-<!-- Read the [syllabus](syllabus.qmd) in full!  -->
+Midterm 1 will use randomized assigned seating in Morgan 101.
 
-<!-- HW2 is due Friday 9/13 at midnight.  -->
+-   **If you have specific seating needs, like a left-handed desk, tell us ASAP via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHW5i4eTVHANLnhol4g-NybAqgocbvWIHEGQEvMuQbDKKyjA/viewform?usp=sf_link).**
 
-Complete the [anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLSdYcmT3-jdNcEhyYtbo-5azZsVIDQdpXvezsOORSLO3SuE0UA/viewform?usp=sf_link).
+-   If you do not fill out the form, you will be assigned to a random seat.
 
-Lab 3 is due Monday 9/23 at midnight.
+[HW2](assignment2.html) is due ~~Friday 9/27~~ Monday 9/30 at midnight.
 
-- Your Lab 3 submission must include a completed PDF of the [Lecture 8 worksheet](https://docs.google.com/presentation/d/1N4GZYX_2g3SEXMiHFKkhC44GYm64x4NiySvLRlIK1ko/edit?usp=sharing).
+[Lab 4, Parts A and B](assignments.html) are due ~~Wednesday 10/2~~ Friday 10/4 at midnight.
 
-- You can ignore the two normal distribution plots at the very end of the worksheet.
-
-[HW2](assignment2.html) is due Friday 9/27 at midnight.
+-   As part of the Lab 4 submission, you must also submit a completed PDF of the [Lecture 9 worksheet](https://docs.google.com/presentation/d/1y3LPugdCQm40XFySyZbmUyLgeu0W9NBFDPgodGzKZnM/edit?usp=sharing).
 
 ## Schedule 📅
 
@@ -44,4 +44,4 @@ Lab 3 is due Monday 9/23 at midnight.
 ::: {#schedule}
 :::
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
