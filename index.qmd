@@ -25,12 +25,6 @@ listing:
 
 ## Announcements 📣
 
-Midterm 1 will use randomized assigned seating in Morgan 101.
-
--   **If you have specific seating needs, like a left-handed desk, tell us ASAP via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHW5i4eTVHANLnhol4g-NybAqgocbvWIHEGQEvMuQbDKKyjA/viewform?usp=sf_link).**
-
--   If you do not fill out the form, you will be assigned to a random seat.
-
 [HW2](assignment2.html) is due ~~Friday 9/27~~ Monday 9/30 at midnight.
 
 [Lab 4, Parts A and B](assignments.html) are due ~~Wednesday 10/2~~ Friday 10/4 at midnight.
