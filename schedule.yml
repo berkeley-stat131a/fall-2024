@@ -427,7 +427,7 @@
       items:
         - type: "Lecture"
           id: "12"
-          name: z-test, t-test, multiple testing
+          name: Type I+II errors, power, multiple testing
           href: "#"
           auxil:
             # - id: "Slides"
