@@ -426,7 +426,7 @@
     - date: "Fri Oct 4"
       items:
         - type: "Lecture"
-          id: "12"
+          id: "12a"
           name: Type I+II errors, power, multiple testing
           href: "#"
           auxil:
@@ -434,10 +434,10 @@
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1-47k14Eqaogi2SjA5m3mrsvClgkn2gFbIp2muk18ypw/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/167FzE995fJKNMLI1xwEq37ZKvLNrqvonuE71ENrhssk/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
