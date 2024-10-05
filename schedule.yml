@@ -430,18 +430,18 @@
           name: Type I+II errors and multiple testing
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
-            # - id: "Annotated slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1SjrkbntYjnrmvG04-1CEmkYYXJ1DTGgAsfJreR93kaY/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1d3QSFduTPUAyStAj61nbV3BgMrBU3UCA/view?usp=sharing"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1-47k14Eqaogi2SjA5m3mrsvClgkn2gFbIp2muk18ypw/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/167FzE995fJKNMLI1xwEq37ZKvLNrqvonuE71ENrhssk/edit?usp=sharing"
-            # - id: "Lecture code (HTML)"
-            #   href: "#"
-            # - id: "Lecture code (DataHub)"
-            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/167FzE995fJKNMLI1xwEq37ZKvLNrqvonuE71ENrhssk/edit?usp=sharing"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
 
 # - week: 7
 #   days:
