@@ -454,8 +454,8 @@
           auxil:
             # - id: "Slides"
             #   href: "#"
-            # - id: "Annotated slides"
-            #   href: "#"
+            - id: "Annotated worksheet/slides"
+              href: "https://drive.google.com/file/d/1wSJFOfhNbSiFD4wC102F9i9Sccin-IHQ/view?usp=sharing"
             - id: "Worksheet/slides"
               href: "https://docs.google.com/presentation/d/1DOH-bvyFtWukYzjSgxxvjH0i91d_dB2WTDm78hmwCQ8/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
