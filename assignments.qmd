@@ -53,11 +53,11 @@ Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
 Due date: Wednesday, October 2, midnight PT
 
-## Midterm 1
+## Midterm 1 📝
 
 Wednesday, October 9, 2-3pm in Morgan 101
 
-## Lab 5
+## Lab 5 🥾
 
 [Lab 5 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -65,7 +65,7 @@ Wednesday, October 9, 2-3pm in Morgan 101
 
 Due date: Friday, October 11, midnight PT
 
-## HW3
+## HW3 🧪
 
 Details forthcoming.
 
