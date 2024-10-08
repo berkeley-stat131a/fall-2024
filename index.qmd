@@ -25,9 +25,7 @@ listing:
 
 ## Announcements 📣
 
-[Lab 4, Parts A and B](assignments.html) are due ~~Wednesday 10/2~~ Friday 10/4 at midnight.
-
--   As part of the Lab 4 submission, you must also submit a completed PDF of the [Lecture 9 worksheet](https://docs.google.com/presentation/d/1y3LPugdCQm40XFySyZbmUyLgeu0W9NBFDPgodGzKZnM/edit?usp=sharing).
+[Lab 5](assignments.html) is due Friday 10/11 at midnight.
 
 Midterm 1 is Wednesday 10/9 in class. See [midterm logistics Ed post](https://edstem.org/us/courses/63606/discussion/5377918).
 
