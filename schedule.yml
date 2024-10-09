@@ -477,8 +477,8 @@
           name: Midterm 1 (in class)
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Seating map"
+              href: "https://docs.google.com/presentation/d/1CAYnNt1MAPEZxiYvfk6oqAkog1u23EqXZ52Nkqj7eMQ/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             # - id: "Worksheet"
