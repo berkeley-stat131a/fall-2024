@@ -502,14 +502,14 @@
           name: Power and experiment planning
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1vNam0pZOro6SGmoihj_OhNRtVRsB19ljypD_-hGVkKA/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/15GwYpWcT2nH1lh4V41z7RFb4mH7tMUVuQBgb6ORykfw/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1kxLi9qRoDZ-73aqMigD57SUjYaX9bC_qlCENZb-IaqA/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1kxLi9qRoDZ-73aqMigD57SUjYaX9bC_qlCENZb-IaqA/edit?usp=sharing"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
