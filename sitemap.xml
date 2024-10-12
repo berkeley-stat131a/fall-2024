@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/syllabus.html</loc>
-    <lastmod>2024-10-12T01:29:23.085Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/calendar.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/index.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/assignment2.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/data.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/staff.html</loc>
-    <lastmod>2024-10-12T01:29:23.085Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/assignment1.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat131a.berkeley.edu/fall-2024/license.html</loc>
-    <lastmod>2024-10-12T01:29:23.085Z</lastmod>
+    <loc>https://stat131a.berkeley.edu/fall-2024/assignment3.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
   </url>
   <url>
     <loc>https://stat131a.berkeley.edu/fall-2024/assignments.html</loc>
-    <lastmod>2024-10-12T01:29:23.049Z</lastmod>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/license.html</loc>
+    <lastmod>2024-10-12T05:50:01.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/assignment1.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/staff.html</loc>
+    <lastmod>2024-10-12T05:50:01.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/data.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/assignment2.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/index.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/calendar.html</loc>
+    <lastmod>2024-10-12T05:50:01.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat131a.berkeley.edu/fall-2024/syllabus.html</loc>
+    <lastmod>2024-10-12T05:50:01.233Z</lastmod>
   </url>
 </urlset>
