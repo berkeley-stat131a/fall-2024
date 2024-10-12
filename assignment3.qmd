@@ -44,11 +44,14 @@ The Gradescope will be live at least a few days before the HW deadline.
 
 -   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
 
--   To generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then **print the HTML as a PDF, making sure that none of your code or output is cut off.** You can generate an HTML file in RStudio by pressing `Knit` and then `Knit to HTML`.
+-   To generate a PDF of your code and output, do not knit to PDF.
+    Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then **print the HTML as a PDF, making sure that none of your code or output is cut off.** You can generate an HTML file in RStudio by pressing `Knit` and then `Knit to HTML`.
 
 -   The knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.
 
--   Proofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.
+-   Proofread your PDF to make sure all of your answers and plots are visible.
+    If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector.
+    Make sure to comment out any code that prints more information than each question asks you for.
 
 **For math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.**
 
@@ -70,31 +73,42 @@ The Gradescope will be live at least a few days before the HW deadline.
 
 -   The coding problems build on the concepts covered in Labs 4a, 4b, and 5, so be sure to review all three labs before attempting the coding questions.
 
+**Why answer this problem?** 
+Lecture has emphasized that the bootstrap can be used to estimate standard errors for a wide variety of estimators.
+This problem links the bootstrap to the next major topic in 131A: regression.
+
 ## 🥼 Experiment design (50% of the HW3 grade)
 
-Statins are drugs that reduce LDL ("bad cholesterol") levels. 
+**Why answer this problem?** This question synthesizes all of the material covered in Lectures 4 through 12b.
+If you come out of 131A with a solid understanding of the framework behind this question, you will be well-prepared to perform basic statistical inference in the real world, and also primed to learn new inference methods on the fly.
 
-- High LDL levels are associated with an increased risk of adverse health outcomes, such as heart attacks and strokes. 
+Statins are drugs that reduce LDL ("bad cholesterol") levels.
 
-- About 15% of the U.S. population is on some form of statin.
+-   High LDL levels are associated with an increased risk of adverse health outcomes, such as heart attacks and strokes.
 
-> Fun fact: Early in COVID, Josh was eating so much chicken curry that his LDL went to unusually high levels for his age. As it turns out, one can of coconut milk has about 68 grams of saturated fat, which is a major contributor to LDL levels. Josh was eating the equivalent of two cans of coconut milk every week. By changing his diet, Josh was able to avoid taking a statin to manage his LDL levels. However, keep in mind that LDL levels are not just a function of diet, but also genetics, exercise, and other factors.
+-   About 15% of the U.S. population is on some form of statin.
+
+> Fun fact: Early in COVID, Josh was eating so much chicken curry that his LDL went to unusually high levels for his age.
+> As it turns out, one can of coconut milk has about 68 grams of saturated fat, which is a major contributor to LDL levels.
+> Josh was eating the equivalent of two cans of coconut milk every week.
+> By changing his diet, Josh was able to avoid needing a statin to manage his LDL levels.
+> However, keep in mind that LDL levels are not just a function of diet, but also genetics, exercise, and other factors.
 
 For the problem below, please show all steps.
 
-- You are welcome to use a scientific calculator or `R` for arithmetic (e.g., no need to do long division by hand).
+-   You are welcome to use a scientific calculator or `R` for arithmetic (e.g., no need to do long division by hand).
 
-Suppose UC Berkeley scientists develop a new LDL-reducing drug. 
+Suppose UC Berkeley scientists develop a new LDL-reducing drug.
 
-- The scientists want to compare the average efficacy of the new drug to the average efficacy of a brand name statin called Lipitor. 
+-   The scientists want to compare the average efficacy of the new drug to the average efficacy of a brand name statin called Lipitor.
 
-- The scientists randomly assign either the new drug or Lipitor to 80 year-old patients with similarly high LDL levels. 
+-   The scientists randomly assign either the new drug or Lipitor to 80 year-old patients with similarly high LDL levels.
 
-After three months of the patients taking Lipitor, you obtain the following data on LDL levels for the patients in each group.
+After three months of the patients taking either the new drug or Lipitor, you obtain the following data on LDL levels for the patients in each group.
 
-- Note that LDL is measured in milligrams of LDL per deciliter of blood.
+-   Note that LDL is measured in milligrams of LDL per deciliter of blood (mg/dL), Blood glucose has the same units (see coding section!).
 
-```
+```         
   ldl_lipitor = c(208, 197, 184, 194, 201, 196, 181, 207, 176, 198, 188, 195, 184, 189, 205, 188, 190, 188, 192, 181, 176, 193, 181, 176)
   
   ldl_new_drug = c(181, 190, 193, 176, 205, 161, 193, 189, 171, 180, 185, 185, 206, 173, 197, 179, 199, 170, 195, 176, 183, 186, 180, 182, 185, 178, 178)
@@ -104,67 +118,81 @@ For this scenario, answer the following:
 
 #### Estimand
 
-What is a reasonable difference in means estimand? 
+1.  What is a reasonable difference in means estimand?
 
-- Make sure to define any terms used in your estimand, and be specific about the relevant population. 
+    -   Make sure to define any terms used in your estimand, and be specific about the relevant population.
 
 #### Null hypothesis
 
-What is a reasonable null hypothesis that uses your estimand?
+2.  What is a reasonable null hypothesis that uses your estimand?
 
 #### Estimator
 
-What is a reasonable estimator for your estimand? 
+3.  What is a reasonable estimator for your estimand?
 
-What is your point estimate?
+    -   Again, make sure to define any variables used in your answer.
 
-What is the sampling distribution of your estimator under the null hypothesis? 
+4.  What is your point estimate?
+    Make sure to include units.
 
-- Again, make sure to define any variables used in your answer. 
+5.  What is the sampling distribution of your estimator under the null hypothesis?
 
-- *Hint: Is the normal distribution appropriate given the number of observations?*
+    -   *Hint: Is the normal distribution appropriate given the number of observations?*
 
 #### Confidence interval
 
-What is a 90% confidence interval for your estimand? 
+6.  What is a 90% confidence interval for your estimand?
 
-- Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+    -   Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`).
 
-- Confirm your answer by using a built-in hypothesis testing function in `R` (e.g., `prop.test`). 
+    -   Confirm your answer by using a built-in hypothesis testing function in `R` (e.g., `prop.test`).
+    You may have to use Google or PingPong to find the right testing function!
 
-- The derived result and function result should be similar, but it is OK if they are slightly different due to subtle differences in underlying methodology. 
+    -   The derived result and testing function result should be similar, but it is OK if they are slightly different due to subtle differences in underlying methodology.
 
-- The code notebook for this HW contains space to include your code for this question.
+    -   The code notebook for this HW contains space to include your code for question 6.
 
 #### Hypothesis test
 
-What is the two-sided p-value associated with your null hypothesis and point estimate? 
+7.  What is the two-sided p-value associated with your null hypothesis and point estimate?
 
-What range of point estimates would have rejected the null hypothesis at a significance level (i.e., $\alpha$) of 0.1?
+    -   Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`).
 
-Is the result of your hypothesis test consistent with your confidence interval? Why or why not?
+    -   Confirm your answer by using a built-in hypothesis testing function in R (e.g., `prop.test`).
 
-- Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+    -   Again, the derived result and testing function result should be similar, but it is OK if they are slightly different.
 
-- Confirm your answer by using a built-in hypothesis testing function in R (e.g., `prop.test`). 
+8.  What range of point estimates would have rejected the null hypothesis at a significance level (i.e., $\alpha$) of 0.1?
 
-- Again, the derived result and function result should be similar, but it is OK if they are slightly different. 
+9.  Is the result of your hypothesis test consistent with your confidence interval?
+    Why or why not?
 
-- The code notebook for this HW contains space to include your code for this question.
+    -   The code notebook for this HW contains space to include your code for questions 7 through 9.
 
 #### Power
 
-Provide a reasonable estimate of the power of a hypothesis test with $\alpha=0.1$ and sample sizes equal to the sample sizes in the data above. 
+10. Provide a reasonable estimate of the power of a hypothesis test with $\alpha=0.1$ and sample sizes equal to the sample sizes in the data above.
 
-- State any assumptions needed to calculate power, and derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+    -   Be sure to state any additional assumptions needed to calculate power.
 
-- Confirm your answer using an online power calculator. Take a screenshot of the calculator's output as confirmation, and submit this screenshot with your handwritten work. 
+    -   Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`).
 
-- The derived power and power calculator output should be similar, but it is OK if they are slightly different. 
+    -   Confirm your answer using an online power calculator.
+    Take a screenshot of the calculator's output as confirmation, and submit this screenshot with your handwritten work.
+    There are many power calculators available.
+    Google is your friend here!
 
-- The code notebook for this HW contains space to include your code for this question.
+    -   The derived power and power calculator output should be similar, but it is OK if they are slightly different.
 
-> In general, power should be calculated BEFORE a hypothesis test, not after. Calculating power after an experiment is considered "cheating." At the end of the day, this problem is simply intended to give you some practice calculating power. See [this blog post](https://statmodeling.stat.columbia.edu/2018/09/24/dont-calculate-post-hoc-power-using-observed-estimate-effect-size/) for more details. Post-hoc power calculations are bad practice, but very common! 
+    -   The code notebook for this HW contains space to include your code for question 10.
 
-> Also, we typically calculate power for a range of possible effect sizes, sample sizes, and significance levels ($\alpha$), and generate power curves. With some massaging, you could optionally turn your final answer into a function that takes effect size, sample size, and significance levels as inputs, and returns power. Then, you could use `geom_function` to draw a power curve. It's less code than you might think! See Lecture 12 code for boilerplate code.
+> In general, power should be calculated BEFORE a hypothesis test, not after.
+> Calculating power after an experiment is considered "cheating." At the end of the day, this problem is simply intended to give you some practice calculating power.
+> See [this blog post](https://statmodeling.stat.columbia.edu/2018/09/24/dont-calculate-post-hoc-power-using-observed-estimate-effect-size/) for more details.
+> Post-hoc (i.e., after the fact) power calculations are bad practice, but very common!
 
+> Also, we typically calculate power for a range of possible effect sizes, sample sizes, and significance levels ($\alpha$), and generate power curves that are functions of these inputs.
+> With some massaging, you could optionally turn your code for question 10 into a function that takes effect size, sample size, and significance levels as inputs, and returns power.
+> Then, you could use `geom_function` to draw a power curve.
+> It's less code than you might think!
+> See the [Lecture 12 code](https://github.com/berkeley-stat131a/131a-lecture-code) for boilerplate power curve code.
