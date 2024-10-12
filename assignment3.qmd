@@ -1,0 +1,170 @@
+---
+title: "📝 HW3"
+editor: 
+  markdown: 
+    wrap: sentence
+format: 
+  html: 
+    embed-resources: true
+---
+
+Due date: Friday, October 18 at midnight.
+
+⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
+
+-   **This is not an assignment to start the night before the due date!**
+
+-   The assignment covers material all the way up to the Wednesday 10/16 lecture before the HW is due, so be sure to start working on problems as soon as you learn the requisite material.
+
+Unless otherwise stated, assignments in STAT 131A are to be done individually.
+
+-   As stated in the syllabus, the use of any LLM other than PingPong is considered cheating, unless otherwise indicated.
+
+-   See the syllabus for the full course collaboration policy.
+
+Some components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.
+
+-   If anything seems confusing or unclear, please post in the HW3 thread on Ed. We are here to support you!
+
+## 📮 Submission
+
+Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089).
+The Gradescope will be live at least a few days before the HW deadline.
+
+-   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
+
+**You must submit a PDF of any PingPong chats that include code you used in your submission.**
+
+-   This should take the form of one long PDF.
+    One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.
+
+-   You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
+
+**For the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
+
+-   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
+
+-   To generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then **print the HTML as a PDF, making sure that none of your code or output is cut off.** You can generate an HTML file in RStudio by pressing `Knit` and then `Knit to HTML`.
+
+-   The knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.
+
+-   Proofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.
+
+**For math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.**
+
+-   Alternatively, you can use $\LaTeX$ to typeset your answers within a `.Rmd` file within `RStudio`, or using another $\LaTeX$ editor like Overleaf.
+
+-   The basics of $\LaTeX$ are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.
+
+-   [Here's a nice guide](https://ashki23.github.io/markdown-latex.html) for getting started.
+
+-   We can also help with $\LaTeX$ in office hours or via Ed.
+
+## 🩸 Blood glucose, the bootstrap, and simple linear regression with `R` (50% of the HW3 grade)
+
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+-   The HW3 coding problems are located in `131a-labs-fall-2024` directory.
+
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+-   The coding problems build on the concepts covered in Labs 4a, 4b, and 5, so be sure to review all three labs before attempting the coding questions.
+
+## 🥼 Experiment design (50% of the HW3 grade)
+
+Statins are drugs that reduce LDL ("bad cholesterol") levels. 
+
+- High LDL levels are associated with an increased risk of adverse health outcomes, such as heart attacks and strokes. 
+
+- About 15% of the U.S. population is on some form of statin.
+
+> Fun fact: Early in COVID, Josh was eating so much chicken curry that his LDL went to unusually high levels for his age. As it turns out, one can of coconut milk has about 68 grams of saturated fat, which is a major contributor to LDL levels. Josh was eating the equivalent of two cans of coconut milk every week. By changing his diet, Josh was able to avoid taking a statin to manage his LDL levels. However, keep in mind that LDL levels are not just a function of diet, but also genetics, exercise, and other factors.
+
+For the problem below, please show all steps.
+
+- You are welcome to use a scientific calculator or `R` for arithmetic (e.g., no need to do long division by hand).
+
+Suppose UC Berkeley scientists develop a new LDL-reducing drug. 
+
+- The scientists want to compare the average efficacy of the new drug to the average efficacy of a brand name statin called Lipitor. 
+
+- The scientists randomly assign either the new drug or Lipitor to 80 year-old patients with similarly high LDL levels. 
+
+After three months of the patients taking Lipitor, you obtain the following data on LDL levels for the patients in each group.
+
+- Note that LDL is measured in milligrams of LDL per deciliter of blood.
+
+```
+  ldl_lipitor = c(208, 197, 184, 194, 201, 196, 181, 207, 176, 198, 188, 195, 184, 189, 205, 188, 190, 188, 192, 181, 176, 193, 181, 176)
+  
+  ldl_new_drug = c(181, 190, 193, 176, 205, 161, 193, 189, 171, 180, 185, 185, 206, 173, 197, 179, 199, 170, 195, 176, 183, 186, 180, 182, 185, 178, 178)
+```
+
+For this scenario, answer the following:
+
+#### Estimand
+
+What is a reasonable difference in means estimand? 
+
+- Make sure to define any terms used in your estimand, and be specific about the relevant population. 
+
+#### Null hypothesis
+
+What is a reasonable null hypothesis that uses your estimand?
+
+#### Estimator
+
+What is a reasonable estimator for your estimand? 
+
+What is your point estimate?
+
+What is the sampling distribution of your estimator under the null hypothesis? 
+
+- Again, make sure to define any variables used in your answer. 
+
+- *Hint: Is the normal distribution appropriate given the number of observations?*
+
+#### Confidence interval
+
+What is a 90% confidence interval for your estimand? 
+
+- Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+
+- Confirm your answer by using a built-in hypothesis testing function in `R` (e.g., `prop.test`). 
+
+- The derived result and function result should be similar, but it is OK if they are slightly different due to subtle differences in underlying methodology. 
+
+- The code notebook for this HW contains space to include your code for this question.
+
+#### Hypothesis test
+
+What is the two-sided p-value associated with your null hypothesis and point estimate? 
+
+What range of point estimates would have rejected the null hypothesis at a significance level (i.e., $\alpha$) of 0.1?
+
+Is the result of your hypothesis test consistent with your confidence interval? Why or why not?
+
+- Derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+
+- Confirm your answer by using a built-in hypothesis testing function in R (e.g., `prop.test`). 
+
+- Again, the derived result and function result should be similar, but it is OK if they are slightly different. 
+
+- The code notebook for this HW contains space to include your code for this question.
+
+#### Power
+
+Provide a reasonable estimate of the power of a hypothesis test with $\alpha=0.1$ and sample sizes equal to the sample sizes in the data above. 
+
+- State any assumptions needed to calculate power, and derive your answer using `<r,p,q,d><distribution>` `R` functions (e.g., `runif`). 
+
+- Confirm your answer using an online power calculator. Take a screenshot of the calculator's output as confirmation, and submit this screenshot with your handwritten work. 
+
+- The derived power and power calculator output should be similar, but it is OK if they are slightly different. 
+
+- The code notebook for this HW contains space to include your code for this question.
+
+> In general, power should be calculated BEFORE a hypothesis test, not after. Calculating power after an experiment is considered "cheating." At the end of the day, this problem is simply intended to give you some practice calculating power. See [this blog post](https://statmodeling.stat.columbia.edu/2018/09/24/dont-calculate-post-hoc-power-using-observed-estimate-effect-size/) for more details. Post-hoc power calculations are bad practice, but very common! 
+
+> Also, we typically calculate power for a range of possible effect sizes, sample sizes, and significance levels ($\alpha$), and generate power curves. With some massaging, you could optionally turn your final answer into a function that takes effect size, sample size, and significance levels as inputs, and returns power. Then, you could use `geom_function` to draw a power curve. It's less code than you might think! See Lecture 12 code for boilerplate code.
+
