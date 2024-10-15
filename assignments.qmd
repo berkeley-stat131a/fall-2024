@@ -73,9 +73,11 @@ Due date: Friday, October 18, midnight PT
 
 ## Lab 6
 
-Link forthcoming.
+[Lab 6 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-Anticipated due date: Wednesday, October 23, midnight PT
+[Lab 6 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+Due date: Wednesday, October 23, midnight PT
 
 ## Lab 7
 
