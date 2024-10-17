@@ -554,14 +554,14 @@
           name: Uncertainty in regression and multiple regression
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1vdKQwLeeuYZHO0L-NjC7yquO2lPctalw-Mv_dFI8YG4/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/18A6Medao9c8htha2DTZS_PqIR7hpP5ZJV77dLn85E5w/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1uZV8zhbUFBmkMSWtwSvJeNG33liJVMGgxj-9H59Cf4c/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1uZV8zhbUFBmkMSWtwSvJeNG33liJVMGgxj-9H59Cf4c/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
