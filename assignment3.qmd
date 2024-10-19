@@ -8,7 +8,7 @@ format:
     embed-resources: true
 ---
 
-Due date: Friday, October 18 at midnight.
+Due date: ~~Friday, October 18~~ Sunday, October 20 at midnight.
 
 ⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
 

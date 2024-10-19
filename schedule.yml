@@ -581,17 +581,17 @@
       items:
         - type: "Lecture"
           id: "15"
-          name: Fit quality and polynomial terms
+          name: Closeness of fit
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1VTySBzfYtQEgWJjQwEjQSa4xUBD9JczauOBAXLI5PVA/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/10uzKxUjdb5iSi6x-Dfa1Nv5y4VdITpiahVuHaWcFXv4/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1QOrhoRKKJpYpesXOYZtiU_Q_RNwYfcwDnyjXwiQs9ig/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1QOrhoRKKJpYpesXOYZtiU_Q_RNwYfcwDnyjXwiQs9ig/edit?usp=sharing"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
