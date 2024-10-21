@@ -25,7 +25,7 @@ listing:
 
 ## Announcements 📣
 
-[HW3](assignment3.html) is due Friday 10/18 at midnight.
+[HW3](assignment3.html) is due ~~Friday 10/18~~ Sunday 10/20 at midnight.
 
 [Lab 6](assignments.html) is due Wednesday 10/23 at midnight.
 
