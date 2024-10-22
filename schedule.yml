@@ -603,17 +603,17 @@
       items:
         - type: "Lecture"
           id: "16a"
-          name: Polynomial terms and categorical covariates
+          name: Polynomial terms
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
-            # - id: "Annotated slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/16KOIRmHGvg8kRY8Bj-HNOOLyIUQR541mYbDvuoPuRak/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1-bL1geFzRMidDWWxKm3TMIey6e_P4-Dp/view?usp=sharing"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/18XwXnGuvYvvbDIWbLGqIFYzAjLibBZEK2e3M3qqu7co/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1MfvXXAo5OGrcYna6fJB3J8_DwSXwpXtKKbVf3zX3AuQ/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1MfvXXAo5OGrcYna6fJB3J8_DwSXwpXtKKbVf3zX3AuQ/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
