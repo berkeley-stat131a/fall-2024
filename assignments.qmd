@@ -79,23 +79,27 @@ Due date: ~~Friday, October 18~~ Sunday, October 20, midnight PT
 
 Due date: Wednesday, October 23, midnight PT
 
-## Lab 7
+## Lab 7, Parts A and B
 
-Link forthcoming.
+[Lab 7 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
-Anticipated due date: Monday, October 28, midnight PT
+[Lab 7 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+
+Part B posted shortly after Part A.
+
+Due date: Monday, October 28, midnight PT
 
 ## HW4
 
 Details forthcoming.
 
-Anticipated due date: Friday, November 1, midnight PT
+Anticipated due date: Monday, November 4, midnight PT
 
 ## Lab 8
 
 Link forthcoming.
 
-Anticipated due date: Wednesday, November 6, midnight PT
+Anticipated due date: Friday, November 8, midnight PT
 
 ## Midterm 2
 
