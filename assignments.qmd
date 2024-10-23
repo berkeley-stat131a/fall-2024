@@ -79,13 +79,13 @@ Due date: ~~Friday, October 18~~ Sunday, October 20, midnight PT
 
 Due date: Wednesday, October 23, midnight PT
 
-## Lab 7, Parts A and B
+## Lab 7, ~~Parts A and B~~ Part A
 
 [Lab 7 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
 [Lab 7 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
-Part B posted shortly after Part A.
+~~Part B posted shortly after Part A.~~ There is no longer a Part B to Lab 7.
 
 Due date: Monday, October 28, midnight PT
 
