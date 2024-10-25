@@ -661,12 +661,12 @@
           name: Interactions
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/18y7xPdFIjuRqTyhEbmgg3dL71CO2eMegr5FP87iHULA/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1E6l8xmgmS_PYc3h52p079igV11GaCdyxyvNe1hMtWe8/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "#"
             # - id: "Lecture code (HTML)"
