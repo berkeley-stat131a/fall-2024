@@ -25,11 +25,13 @@ listing:
 
 ## Announcements 📣
 
-[Lab 6](assignments.html) is due Wednesday 10/23 at midnight.
+Complete the [follow-up anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLScA0iGxbSywthqlpyDOjHMLdET66o66dAKX2xM57xq0DzZWtw/viewform?usp=sf_link).
 
 [Lab 7, Part A](assignments.html) is due Monday 10/28 at midnight.
 
-- There is no longer a Part B
+- There is no longer a Part B to Lab 7.
+
+[HW4](assignment4.html) is due Monday 11/4 at midnight.
 
 The Friday 11/1 lecture is asynchronous.
 
