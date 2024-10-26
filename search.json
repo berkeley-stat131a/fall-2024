@@ -152,7 +152,7 @@
     "href": "assignments.html#hw4",
     "title": "Due dates",
     "section": "HW4",
-    "text": "HW4\nDetails forthcoming.\nAnticipated due date: Monday, November 4, midnight PT",
+    "text": "HW4\nHW 4 details\nDue date: Monday, November 4, midnight PT",
     "crumbs": [
       "HW, Labs, Project"
     ]
@@ -245,77 +245,32 @@
     "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
-    "objectID": "assignment1.html",
-    "href": "assignment1.html",
-    "title": "📝 HW1",
+    "objectID": "assignment4.html",
+    "href": "assignment4.html",
+    "title": "📝 HW4",
     "section": "",
-    "text": "Due date: Friday, September 13 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.\nWe will use this Ed post to track errors and clarifications on HW1."
+    "text": "Due date: Monday, November 4 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
   },
   {
-    "objectID": "assignment1.html#submission",
-    "href": "assignment1.html#submission",
-    "title": "📝 HW1",
+    "objectID": "assignment4.html#submission",
+    "href": "assignment4.html#submission",
+    "title": "📝 HW4",
     "section": "📮 Submission",
-    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor coding components, you will produce both (1) a .Rmd file with your code and (2) an HTML file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and HTML files.\nYou can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your HTML to make sure all of your answers and plots are visible. If your HTML file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.\n\nFor the plot presentation, there are two submission steps.\n\nFirst, submit a public link to your screencast via Gradescope. We will dock points and/or dock slip days if the link is not publicly accessible during grading. Test your link in an incognito window to ensure it’s public.\nSecond, submit the same public link to your screencast using this Google Form. This second step prepares us for HW2, when another student will provide anonymous feedback on your screencast.\n\nFor math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.\n\nAlternatively, you can use \\(\\LaTeX\\) to typeset your answers within a .Rmd file within RStudio, or using another \\(\\LaTeX\\) editor like Overleaf.\nThe basics of \\(\\LaTeX\\) are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.\nHere’s a nice guide for getting started.\nWe can also help with \\(\\LaTeX\\) in office hours or via Ed."
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
   },
   {
-    "objectID": "assignment1.html#forms-to-complete-0-of-the-hw1-grade",
-    "href": "assignment1.html#forms-to-complete-0-of-the-hw1-grade",
-    "title": "📝 HW1",
-    "section": "Forms to complete (0% of the HW1 grade)",
-    "text": "Forms to complete (0% of the HW1 grade)\nComplete the new student survey.\nComplete the office hour survey."
+    "objectID": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
+    "href": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
+    "title": "📝 HW4",
+    "section": "📝 Forms to complete (0% of the HW2 grade)",
+    "text": "📝 Forms to complete (0% of the HW2 grade)\nIf you have not already, complete the follow-up anonymous course pulse check.\n\nTo make sure everyone’s opinion is represented in any subsequent changes to the course, is critical to get 100% participation on this survey.\nAs the saying goes, “The squeaky wheel gets the grease.”"
   },
   {
-    "objectID": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
-    "href": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
-    "title": "📝 HW1",
-    "section": "📈 Data manipulation and plotting with R (50% of the HW1 grade)",
-    "text": "📈 Data manipulation and plotting with R (50% of the HW1 grade)\nComplete the HW1 coding problems: DataHub\n\n\nThe HW1 coding problems are located in 131a-labs-fall-2024 on DataHub.\nThese problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions."
-  },
-  {
-    "objectID": "assignment1.html#plot-presentation-30",
-    "href": "assignment1.html#plot-presentation-30",
-    "title": "📝 HW1",
-    "section": "🗣️ Plot presentation (30%)",
-    "text": "🗣️ Plot presentation (30%)\nIn their 2013 research paper titled The Missing “One-Offs”: The Hidden Supply of High-Achieving, Low-Income Students, Caroline Hoxby and Chris Avery investigate the behavior of high-achieving low-income applicants to undergraduate programs in the United States.\nHere is Figure 10 of their research paper:\n\nYour task: Record a 60-90 second screencast describing the plot above.\n\nYour audience is a UC Berkeley undergraduate who has not taken a statistics or data science course, and is unfamiliar with the research paper. You do not need to read the research paper in full to understand the plot, but you might find it helpful to reference.\nIn your screencast, you must explain the minimum necessary background required to understand the plot, along with the key takeaway(s) of the plot.\nYour name and face should not be in the screencast. In other words, the plot should take up the entire window of the screencast, with your voice playing in the background. Do not introduce yourself or use any identifying information.\nYou should use your mouse pointer to indicate particular points of interest on the plot. Alternatively, you can verbally direct the viewer to points of interest (e.g., “In the top right corner, you can see that…”).\nYou should use an engaging tone that sounds as though you are presenting to a live audience.\nYou are welcome to read off a script that you have written ahead of time, but try not to make it too obvious. In fact, it can be very helpful to write a script for a presentation ahead of time, even if you do not actually read the script when presenting.\nRemember the three key guiding questions you should address before digging into the details: (1) What’s on the X axis? (2) What’s on the Y axis? (3) What does a specific point/line/feature on your plot mean in context?\nThere are lots of free tools for recording screencasts. For example, QuickTime is a useful tool for recording screencasts on a Mac. Feel free to post on Ed if you cannot identify a way to record a screencast anonymously.\nIf you need more than 60-90 seconds to record for accessibility reasons, please let the teaching staff know via Ed.\n\nAs part of HW2, you will provide anonymous feedback on another student’s submission for this problem.\n\nYour screencast, along with the quality of feedback you provide to another student, will be graded by the teaching staff. At no point will other students grade your work.\n\n💾 Upload your screencast to your UC Berkeley Google Drive account, or another place that allows you to share a public link.\n\nYou will submit a public link to your screencast in two places. See submission details at the top of this page.\nBefore submitting, make sure your screencast is publicly accessible with the link. One easy way to do this: Open the link in an incognito window in Google Chrome.\nIf your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points and/or have to use slip day(s).\n\nWhy complete this problem? Communication is a critical, but often under-appreciated, component of the data science life cycle. This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!"
-  },
-  {
-    "objectID": "assignment1.html#working-with-probability-density-functions-pdfs-20",
-    "href": "assignment1.html#working-with-probability-density-functions-pdfs-20",
-    "title": "📝 HW1",
-    "section": "🔔 Working with probability density functions (PDFs) (20%)",
-    "text": "🔔 Working with probability density functions (PDFs) (20%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the function \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{3}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for an r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\((0,1)\\)?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "🍎 Staff",
-    "section": "",
-    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
-    "crumbs": [
-      "Staff"
-    ]
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
+    "objectID": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
+    "href": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
+    "title": "📝 HW4",
+    "section": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)",
+    "text": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)\nDataHub\n\nThe HW4 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
   },
   {
     "objectID": "assignment2.html",
@@ -367,6 +322,79 @@
     "text": "🍬 Naive Bayes and M&Ms inference with R (50% of the HW2 grade)\nDataHub\n\nThe HW1 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub\n\nThe coding problems build on the concepts covered in Labs 2 and 3, so be sure to complete both labs before attempting the coding questions.\nDon’t attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above. Note: The Naive Bayes coding problem is now optional, and worth up to five points of extra credit."
   },
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "🍎 Staff",
+    "section": "",
+    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Josh Grossman Please call me “Josh”! No need for “Professor”, “Dr.”, “Sir”, etc.  jdgg at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "crumbs": [
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "📝 HW1",
+    "section": "",
+    "text": "Due date: Friday, September 13 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.\nWe will use this Ed post to track errors and clarifications on HW1."
+  },
+  {
+    "objectID": "assignment1.html#submission",
+    "href": "assignment1.html#submission",
+    "title": "📝 HW1",
+    "section": "📮 Submission",
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor coding components, you will produce both (1) a .Rmd file with your code and (2) an HTML file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and HTML files.\nYou can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your HTML to make sure all of your answers and plots are visible. If your HTML file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.\n\nFor the plot presentation, there are two submission steps.\n\nFirst, submit a public link to your screencast via Gradescope. We will dock points and/or dock slip days if the link is not publicly accessible during grading. Test your link in an incognito window to ensure it’s public.\nSecond, submit the same public link to your screencast using this Google Form. This second step prepares us for HW2, when another student will provide anonymous feedback on your screencast.\n\nFor math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.\n\nAlternatively, you can use \\(\\LaTeX\\) to typeset your answers within a .Rmd file within RStudio, or using another \\(\\LaTeX\\) editor like Overleaf.\nThe basics of \\(\\LaTeX\\) are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.\nHere’s a nice guide for getting started.\nWe can also help with \\(\\LaTeX\\) in office hours or via Ed."
+  },
+  {
+    "objectID": "assignment1.html#forms-to-complete-0-of-the-hw1-grade",
+    "href": "assignment1.html#forms-to-complete-0-of-the-hw1-grade",
+    "title": "📝 HW1",
+    "section": "Forms to complete (0% of the HW1 grade)",
+    "text": "Forms to complete (0% of the HW1 grade)\nComplete the new student survey.\nComplete the office hour survey."
+  },
+  {
+    "objectID": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
+    "href": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
+    "title": "📝 HW1",
+    "section": "📈 Data manipulation and plotting with R (50% of the HW1 grade)",
+    "text": "📈 Data manipulation and plotting with R (50% of the HW1 grade)\nComplete the HW1 coding problems: DataHub\n\n\nThe HW1 coding problems are located in 131a-labs-fall-2024 on DataHub.\nThese problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions."
+  },
+  {
+    "objectID": "assignment1.html#plot-presentation-30",
+    "href": "assignment1.html#plot-presentation-30",
+    "title": "📝 HW1",
+    "section": "🗣️ Plot presentation (30%)",
+    "text": "🗣️ Plot presentation (30%)\nIn their 2013 research paper titled The Missing “One-Offs”: The Hidden Supply of High-Achieving, Low-Income Students, Caroline Hoxby and Chris Avery investigate the behavior of high-achieving low-income applicants to undergraduate programs in the United States.\nHere is Figure 10 of their research paper:\n\nYour task: Record a 60-90 second screencast describing the plot above.\n\nYour audience is a UC Berkeley undergraduate who has not taken a statistics or data science course, and is unfamiliar with the research paper. You do not need to read the research paper in full to understand the plot, but you might find it helpful to reference.\nIn your screencast, you must explain the minimum necessary background required to understand the plot, along with the key takeaway(s) of the plot.\nYour name and face should not be in the screencast. In other words, the plot should take up the entire window of the screencast, with your voice playing in the background. Do not introduce yourself or use any identifying information.\nYou should use your mouse pointer to indicate particular points of interest on the plot. Alternatively, you can verbally direct the viewer to points of interest (e.g., “In the top right corner, you can see that…”).\nYou should use an engaging tone that sounds as though you are presenting to a live audience.\nYou are welcome to read off a script that you have written ahead of time, but try not to make it too obvious. In fact, it can be very helpful to write a script for a presentation ahead of time, even if you do not actually read the script when presenting.\nRemember the three key guiding questions you should address before digging into the details: (1) What’s on the X axis? (2) What’s on the Y axis? (3) What does a specific point/line/feature on your plot mean in context?\nThere are lots of free tools for recording screencasts. For example, QuickTime is a useful tool for recording screencasts on a Mac. Feel free to post on Ed if you cannot identify a way to record a screencast anonymously.\nIf you need more than 60-90 seconds to record for accessibility reasons, please let the teaching staff know via Ed.\n\nAs part of HW2, you will provide anonymous feedback on another student’s submission for this problem.\n\nYour screencast, along with the quality of feedback you provide to another student, will be graded by the teaching staff. At no point will other students grade your work.\n\n💾 Upload your screencast to your UC Berkeley Google Drive account, or another place that allows you to share a public link.\n\nYou will submit a public link to your screencast in two places. See submission details at the top of this page.\nBefore submitting, make sure your screencast is publicly accessible with the link. One easy way to do this: Open the link in an incognito window in Google Chrome.\nIf your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points and/or have to use slip day(s).\n\nWhy complete this problem? Communication is a critical, but often under-appreciated, component of the data science life cycle. This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!"
+  },
+  {
+    "objectID": "assignment1.html#working-with-probability-density-functions-pdfs-20",
+    "href": "assignment1.html#working-with-probability-density-functions-pdfs-20",
+    "title": "📝 HW1",
+    "section": "🔔 Working with probability density functions (PDFs) (20%)",
+    "text": "🔔 Working with probability density functions (PDFs) (20%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the function \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{3}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for an r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\((0,1)\\)?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics 131a: Statistical Methods for Data Science",
@@ -381,7 +409,7 @@
     "href": "index.html#announcements",
     "title": "Statistics 131a: Statistical Methods for Data Science",
     "section": "Announcements 📣",
-    "text": "Announcements 📣\nLab 6 is due Wednesday 10/23 at midnight.\nLab 7, Part A is due Monday 10/28 at midnight.\n\nThere is no longer a Part B\n\nThe Friday 11/1 lecture is asynchronous.\n\nJosh will record the lecture at a different time and post the recording.",
+    "text": "Announcements 📣\nComplete the follow-up anonymous course pulse check.\nLab 7, Part A is due Monday 10/28 at midnight.\n\nThere is no longer a Part B to Lab 7.\n\nHW4 is due Monday 11/4 at midnight.\nThe Friday 11/1 lecture is asynchronous.\n\nJosh will record the lecture at a different time and post the recording.",
     "crumbs": [
       "Home / Schedule"
     ]
