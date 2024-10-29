@@ -89,39 +89,51 @@ Due date: Wednesday, October 23, midnight PT
 
 Due date: Monday, October 28, midnight PT
 
+## Lab 8
+
+Link forthcoming.
+
+Due date: Friday, November 8, midnight PT
+
+**Note: This due date should have been Friday, November 1.** 
+I'm leaving the deadline as 11/8 to minimize confusion, but note
+that HW4 draws on material from Lab 8.
+
 ## HW4
 
 [HW 4 details](assignment4.html)
 
 Due date: Monday, November 4, midnight PT
 
-## Lab 8
+## Lab 9
 
 Link forthcoming.
 
-Anticipated due date: Friday, November 8, midnight PT
+Due date: Friday, November 8, midnight PT
+
+**Note: Lab 8 is also due on 11/8. See above.**
 
 ## Midterm 2
 
 Wednesday, November 13, 2-3pm in Morgan 101
 
-## Lab 9
+## Lab 10
 
 Link forthcoming.
 
-Anticipated due date: Monday, November 18, midnight PT
+Anticipated due date: Friday, November 22, midnight PT
 
 ## HW5
 
 Details forthcoming.
 
-Anticipated due date: Friday, November 22, midnight PT
+Anticipated due date: Monday, November 25, midnight PT
 
-## Lab 10
+## Lab 11
 
 Link forthcoming.
 
-Anticipated due date: Wednesday, December 4, midnight PT
+Anticipated due date: Friday, December 6, midnight PT
 
 ## HW6
 
@@ -133,7 +145,7 @@ Anticipated due date: Monday, December 9, midnight PT
 
 Details forthcoming.
 
-Anticipated due date: Friday, December 13, midnight PT
+Anticipated due date: Sunday, December 15, midnight PT
 
 ## Final exam
 
