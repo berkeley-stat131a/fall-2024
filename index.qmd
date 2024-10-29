@@ -27,15 +27,17 @@ listing:
 
 Complete the [follow-up anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLScA0iGxbSywthqlpyDOjHMLdET66o66dAKX2xM57xq0DzZWtw/viewform?usp=sf_link).
 
-[Lab 7, Part A](assignments.html) is due Monday 10/28 at midnight.
-
-- There is no longer a Part B to Lab 7.
-
-[HW4](assignment4.html) is due Monday 11/4 at midnight.
-
 The Friday 11/1 lecture is asynchronous.
 
 - Josh will record the lecture at a different time and post the recording.
+
+[HW4](assignment4.html) is due Monday 11/4 at midnight.
+
+Lab 8 should be completed by Friday 11/1 to prepare you for HW4.
+
+- But, there was a due date error on the website, so Lab 8 is not formally due until Friday 11/8.
+
+- Note that Lab 9 will also be due on Friday 11/8.
 
 ## Schedule 📅
 
