@@ -683,14 +683,14 @@
           name: Cross-validation
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1O7nz_jwzLe7OZpYn8FdKMUET8n9tSi_eLNj-xjU28xw/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1IMYqzxGygSkhOEoaTzl6xVbHyr3qcN76uWBb14cu3ks/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1uH2ZzBzjwN0ZcfU1lgBYkKDc2uqOclLWPvEWNSiFczc/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1uH2ZzBzjwN0ZcfU1lgBYkKDc2uqOclLWPvEWNSiFczc/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
