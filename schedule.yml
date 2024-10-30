@@ -724,7 +724,7 @@
       items:
         - type: "Section"
           id: "18"
-          name: Conceptual review of regression and HW4 Help
+          name: Review of regression and HW4 Help
           href: "#"
     - date: "Fri Nov 1"
       items:
