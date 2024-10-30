@@ -704,7 +704,7 @@
     - date: "Wed Oct 30"
       items:
         - type: "Lecture"
-          id: "18a"
+          id: "18"
           name: Linear probability models (LPMs) and odds
           href: "#"
           auxil:
@@ -716,10 +716,10 @@
               href: "https://docs.google.com/presentation/d/18bbc9n6BT5LenqUeHVszcfevOpstNYJ14rKJqgEuUtM/edit?usp=sharing"
             - id: "Abridged slides for live notes"
               href: "https://docs.google.com/presentation/d/1Jdo700aWufm8O2v8t5gBNduUHxdTh78w0EnPX3JjO3Q/edit?usp=sharing"
-            # - id: "Lecture code (HTML)"
-            #   href: "#"
-            # - id: "Lecture code (DataHub)"
-            #   href: "#"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"
     - date: "Thu Oct 31"
       items:
         - type: "Section"
@@ -729,8 +729,8 @@
     - date: "Fri Nov 1"
       items:
         - type: "Lecture"
-          id: "18b"
-          name: More on logistic regression
+          id: "19"
+          name: Logistic regression
           href: "#"
           auxil:
             - id: "Asynchronous recording to be posted"
