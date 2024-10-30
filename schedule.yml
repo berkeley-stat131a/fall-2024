@@ -705,17 +705,17 @@
       items:
         - type: "Lecture"
           id: "18a"
-          name: Logistic Regression
+          name: Linear probability models (LPMs) and odds
           href: "#"
           auxil:
             # - id: "Slides"
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/18bbc9n6BT5LenqUeHVszcfevOpstNYJ14rKJqgEuUtM/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1Jdo700aWufm8O2v8t5gBNduUHxdTh78w0EnPX3JjO3Q/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
