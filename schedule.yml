@@ -489,12 +489,12 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    # - date: "Thu Oct 10"
-    #   items:
-    #     - type: "Section"
-    #       id: "12"
-    #       name: Cancelled! 
-    #       href: "#"
+    - date: "Thu Oct 10"
+      items:
+        - type: "Section"
+          id: "NA"
+          name: Relax after midterm! No section.
+          href: "#"
     - date: "Fri Oct 11"
       items:
         - type: "Lecture"
@@ -701,6 +701,11 @@
           id: "17"
           name: Cross-validation
           href: "#"
+          auxil:
+            - id: "Lab 8 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 8 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
     - date: "Wed Oct 30"
       items:
         - type: "Lecture"
@@ -729,12 +734,12 @@
     - date: "Fri Nov 1"
       items:
         - type: "Lecture"
-          id: "19"
-          name: Classification error metrics
+          id: "NA"
+          name: No lecture today
           href: "#"
           auxil:
-            - id: "Asynchronous recording to be posted"
-              href: "#"
+            # - id: "Asynchronous recording to be posted"
+            #   href: "#"
             # - id: "Slides"
             #   href: "#"
             # - id: "Annotated slides"
@@ -748,149 +753,124 @@
             # - id: "Lecture code (DataHub)"
             #   href: "#"
 
-# - week: 11
-#   days:
-#     - date: "Mon Nov 4"
-#       items:
-#         - type: "Lecture"
-#           id: "30"
-#           name: Odds and logistic regression
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Tue Nov 5"
-#       items:
-#         - type: "Section"
-#           id: "19"
-#           name: TBD
-#           href: "#"
-#     - date: "Wed Nov 6"
-#       items:
-#         - type: "Lecture"
-#           id: "31"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Thu Nov 7"
-#       items:
-#         - type: "Section"
-#           id: "20"
-#           name: TBD
-#           href: "#"
-#     - date: "Fri Nov 8"
-#       items:
-#         - type: "Lecture"
-#           id: "32"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
+- week: 11
+  days:
+    - date: "Mon Nov 4"
+      items:
+        - type: "Lecture"
+          id: "19"
+          name: Odds and logistic regression
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Tue Nov 5"
+      items:
+        - type: "Section"
+          id: "19"
+          name: Linear probability models
+          href: "#"
+    - date: "Wed Nov 6"
+      items:
+        - type: "Lecture"
+          id: "20"
+          name: Classification error metrics
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Thu Nov 7"
+      items:
+        - type: "Section"
+          id: "20"
+          name: Midterm 2 Review
+          href: "#"
+    - date: "Fri Nov 8"
+      items:
+        - type: "Lecture"
+          id: "MT2P"
+          name: Midterm 2 Prep Lecture
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
 
-# - week: 12
-#   days:
-#     - date: "Mon Nov 11"
-#       items:
-#         - type: "Lecture"
-#           id: "33"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Tue Nov 12"
-#       items:
-#         - type: "Section"
-#           id: "21"
-#           name: TBD
-#           href: "#"
-#     - date: "Wed Nov 13"
-#       items:
-#         - type: "Lecture"
-#           id: "34"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Thu Nov 14"
-#       items:
-#         - type: "Section"
-#           id: "22"
-#           name: TBD
-#           href: "#"
-#     - date: "Fri Nov 15"
-#       items:
-#         - type: "Lecture"
-#           id: "35"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
+- week: 12
+  days:
+    - date: "Mon Nov 11"
+      items:
+        - type: "Holiday"
+          id: " (Veterans Day)"
+    - date: "Tue Nov 12"
+      items:
+        - type: "Section"
+          id: "21"
+          name: Midterm 2 Review
+          href: "#"
+    - date: "Wed Nov 13"
+      items:
+        - type: "Lecture"
+          id: "MT2"
+          name: Midterm 2 (in class)
+          href: "#"
+          auxil:
+            - id: "Seating map"
+              href: "https://docs.google.com/presentation/d/1CAYnNt1MAPEZxiYvfk6oqAkog1u23EqXZ52Nkqj7eMQ/edit?usp=sharing"
+    - date: "Thu Nov 14"
+      items:
+        - type: "Section"
+          id: "NA"
+          name: Relax after midterm! No section.
+          href: "#"
+    - date: "Fri Nov 15"
+      items:
+        - type: "Lecture"
+          id: "21"
+          name: Case study on regressors and classifiers
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
 
 # - week: 13
 #   days:

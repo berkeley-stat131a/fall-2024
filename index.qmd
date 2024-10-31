@@ -27,10 +27,6 @@ listing:
 
 Complete the [follow-up anonymous course pulse check](https://docs.google.com/forms/d/e/1FAIpQLScA0iGxbSywthqlpyDOjHMLdET66o66dAKX2xM57xq0DzZWtw/viewform?usp=sf_link).
 
-The Friday 11/1 lecture is asynchronous.
-
-- Josh will record the lecture at a different time and post the recording.
-
 [HW4](assignment4.html) is due Monday 11/4 at midnight.
 
 [Lab 8](assignments.html) should be completed by Friday 11/1 to prepare you for HW4.
