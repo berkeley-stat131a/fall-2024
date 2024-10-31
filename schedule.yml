@@ -705,17 +705,17 @@
       items:
         - type: "Lecture"
           id: "18"
-          name: Linear probability models (LPMs) and odds
+          name: Linear probability models (LPMs)
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
-            # - id: "Annotated slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1bSGxF-Xk92Or9tc4kGXFPsMKJzUvvU0O6i-zLj_eL94/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1EKfCZtbsZInER66UEXyKcFS_kGRkiIUU/view?usp=sharing"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/18bbc9n6BT5LenqUeHVszcfevOpstNYJ14rKJqgEuUtM/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1Jdo700aWufm8O2v8t5gBNduUHxdTh78w0EnPX3JjO3Q/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1Jdo700aWufm8O2v8t5gBNduUHxdTh78w0EnPX3JjO3Q/edit?usp=sharing"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
@@ -730,7 +730,7 @@
       items:
         - type: "Lecture"
           id: "19"
-          name: Logistic regression
+          name: Classification error metrics
           href: "#"
           auxil:
             - id: "Asynchronous recording to be posted"
@@ -754,7 +754,7 @@
 #       items:
 #         - type: "Lecture"
 #           id: "30"
-#           name: TBD
+#           name: Odds and logistic regression
 #           href: "#"
 #           auxil:
 #             # - id: "Slides"
