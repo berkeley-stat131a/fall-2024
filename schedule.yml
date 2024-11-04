@@ -758,18 +758,18 @@
     - date: "Mon Nov 4"
       items:
         - type: "Lecture"
-          id: "19"
-          name: Odds and logistic regression
+          id: "19a"
+          name: Logistic regression
           href: "#"
           auxil:
             # - id: "Slides"
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1aqlgCsA2pjelzkM5kDYMAaynkFyf8mH5_XupK58ox4o/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1BkRTECkF8cOBsXuGoEBawKYEOkEA6EYfSRpUaTYA200/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
@@ -783,8 +783,8 @@
     - date: "Wed Nov 6"
       items:
         - type: "Lecture"
-          id: "20"
-          name: Classification error metrics
+          id: "19b"
+          name: More on logistic regression
           href: "#"
           auxil:
             # - id: "Slides"
@@ -855,8 +855,8 @@
     - date: "Fri Nov 15"
       items:
         - type: "Lecture"
-          id: "21"
-          name: Case study on regressors and classifiers
+          id: "20"
+          name: Classification error metrics
           href: "#"
           auxil:
             # - id: "Slides"
