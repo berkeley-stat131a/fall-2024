@@ -780,6 +780,11 @@
           id: "19"
           name: Linear probability models
           href: "#"
+          auxil:
+          - id: "Lab 9 (DataHub)"
+            href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+          - id: "Lab 9 (GitHub)"
+            href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
     - date: "Wed Nov 6"
       items:
         - type: "Lecture"

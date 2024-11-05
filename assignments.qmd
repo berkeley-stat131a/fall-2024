@@ -109,7 +109,9 @@ Due date: Monday, November 4, midnight PT
 
 ## Lab 9
 
-Link forthcoming.
+[Lab 9 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+[Lab 9 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
 Due date: Friday, November 8, midnight PT
 
