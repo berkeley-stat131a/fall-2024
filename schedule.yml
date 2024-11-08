@@ -842,6 +842,9 @@
           id: "21"
           name: Midterm 2 Review
           href: "#"
+          auxil:
+            - id: "Worksheet"
+              href: "https://drive.google.com/file/d/1OOcewLiihzQzAl5laWgFIDaZvIa62yr4/view?usp=sharing"
     - date: "Wed Nov 13"
       items:
         - type: "Lecture"
