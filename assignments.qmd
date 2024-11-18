@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-## Lab 1 📊
+## 📊 Lab 1 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -13,13 +13,13 @@ editor:
 
 Due date: Monday, September 9, midnight PT
 
-## HW1 📊
+## 📊 HW1 
 
 [HW 1 details](assignment1.html)
 
 Due date: Friday, September 13, midnight PT
 
-## Lab 2 🔔
+## 🔔 Lab 2 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -27,7 +27,7 @@ Due date: Friday, September 13, midnight PT
 
 Due date: Wednesday, September 18, midnight PT
 
-## Lab 3 👥
+## 👨‍🚀 Lab 3 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -39,13 +39,13 @@ Your Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.
 
 Due date: Monday, September 23, midnight PT
 
-## HW2 🍬
+## 🍬 HW2 
 
 [HW 2 details](assignment2.html)
 
 Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
-## Lab 4 (Part A and Part B) 🩸
+## 🩸 Lab 4 (Part A and Part B) 
 
 [DataHub (Part A and B)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -53,11 +53,11 @@ Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
 Due date: Wednesday, October 2, midnight PT
 
-## Midterm 1 📝
+##  📝 Midterm 1
 
 Wednesday, October 9, 2-3pm in Morgan 101
 
-## Lab 5 🥾
+## 🥾 Lab 5 
 
 [Lab 5 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -65,13 +65,13 @@ Wednesday, October 9, 2-3pm in Morgan 101
 
 Due date: Friday, October 11, midnight PT
 
-## HW3 🧪
+## 🧪 HW3 
 
 [HW 3 details](assignment3.html)
 
 Due date: ~~Friday, October 18~~ Sunday, October 20, midnight PT
 
-## Lab 6
+## 🎯 Lab 6
 
 [Lab 6 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -79,7 +79,7 @@ Due date: ~~Friday, October 18~~ Sunday, October 20, midnight PT
 
 Due date: Wednesday, October 23, midnight PT
 
-## Lab 7, ~~Parts A and B~~ Part A
+## 🚘 Lab 7, ~~Parts A and B~~ Part A
 
 [Lab 7 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -89,7 +89,7 @@ Due date: Wednesday, October 23, midnight PT
 
 Due date: Monday, October 28, midnight PT
 
-## Lab 8
+## 🚘 Lab 8
 
 [Lab 8 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -101,13 +101,13 @@ Due date: Friday, November 8, midnight PT
 I'm leaving the deadline as 11/8 to minimize confusion, but note
 that HW4 draws on material from Lab 8.
 
-## HW4
+## 🎓 HW4
 
 [HW 4 details](assignment4.html)
 
 Due date: Monday, November 4, midnight PT
 
-## Lab 9
+## 📈 Lab 9
 
 [Lab 9 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -117,21 +117,21 @@ Due date: Friday, November 8, midnight PT
 
 **Note: Lab 8 is also due on 11/8. See above.**
 
-## Midterm 2
+##  📝 Midterm 2
 
 Wednesday, November 13, 2-3pm in Morgan 101
 
-## Lab 10
+## 🎯 Lab 10
 
 Link forthcoming.
 
 Anticipated due date: Friday, November 22, midnight PT
 
-## HW5
+## 🫀 HW5
 
-Details forthcoming.
+[HW 5 details](assignment5.html)
 
-Anticipated due date: Monday, November 25, midnight PT
+Due date: Monday, November 25, midnight PT
 
 ## Lab 11
 

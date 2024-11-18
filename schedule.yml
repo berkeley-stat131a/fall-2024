@@ -937,7 +937,7 @@
     - date: "Fri Nov 22"
       items:
         - type: "Lecture"
-          id: "38"
+          id: "22"
           name: Ensembles, bagging, and random forests
           href: "#"
           auxil:

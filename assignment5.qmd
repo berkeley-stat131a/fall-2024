@@ -1,0 +1,62 @@
+---
+title: "📝 HW5"
+editor: 
+  markdown: 
+    wrap: sentence
+format: 
+  html: 
+    embed-resources: true
+---
+
+Due date: Monday, November 25 at midnight.
+
+⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
+
+-   **This is not an assignment to start the night before the due date!**
+
+-   The assignment covers material all the way up to the Monday 11/18 lecture, so be sure to start working on problems as soon as you learn the requisite material.
+
+Unless otherwise stated, assignments in STAT 131A are to be done individually.
+
+-   As stated in the syllabus, the use of any LLM other than PingPong is considered cheating, unless otherwise indicated.
+
+-   See the syllabus for the full course collaboration policy.
+
+Some components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.
+
+-   If anything seems confusing or unclear, please post in the HW3 thread on Ed. We are here to support you!
+
+## 📮 Submission
+
+Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089).
+The Gradescope will be live at least a few days before the HW deadline.
+
+-   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
+
+**You must submit a PDF of any PingPong chats that include code you used in your submission.**
+
+-   This should take the form of one long PDF.
+    One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.
+
+-   You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
+
+**For the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
+
+-   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
+
+-   To generate a PDF of your code and output, do not knit to PDF.
+    Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then **print the HTML as a PDF, making sure that none of your code or output is cut off.** You can generate an HTML file in RStudio by pressing `Knit` and then `Knit to HTML`.
+
+-   The knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.
+
+-   Proofread your PDF to make sure all of your answers and plots are visible.
+    If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector.
+    Make sure to comment out any code that prints more information than each question asks you for.
+
+## 🔮 Inference and prediction with logistic regression and LPMs in `R` (100% of the HW5 grade)
+
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+
+-   The HW5 coding problems are located in `131a-labs-fall-2024` directory.
+
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
