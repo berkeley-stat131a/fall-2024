@@ -891,14 +891,14 @@
           name: More on classification error metrics
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1ybRLXIQZDDpoi-XBfXANdc9Ywm6Vosp9YUnMmaqQd08/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1XGra5cZw6fjsrlZ_E_qC11khZ1uPHvTzFHd4QxQanZg/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1cN-QXsdXcAYsnzBxDNWmHkSqgLwD8JQ6Zz3tNOOGroA/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1cN-QXsdXcAYsnzBxDNWmHkSqgLwD8JQ6Zz3tNOOGroA/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
