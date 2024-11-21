@@ -865,7 +865,7 @@
     - date: "Fri Nov 15"
       items:
         - type: "Lecture"
-          id: "20"
+          id: "20a"
           name: Classification error metrics
           href: "#"
           auxil:
