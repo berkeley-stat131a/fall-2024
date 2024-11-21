@@ -1,11 +1,11 @@
 ---
-title: "Final project"
+title: "Final project (DRAFT, SUBJECT TO CHANGE)"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## Final project options (DRAFT+SUBJECT TO CHANGE)
+## Options
 
 You have two choices for the STAT 131A final project:
 
@@ -51,29 +51,32 @@ Finally, keep in mind that the course staff is aware of past projects from 131A 
 
 ### Dataset
 
-The dataset (`cholangitis.csv`) comes from a randomized, clinical trial of the immunosuppressive drug D-penicillamine at the Mayo Clinic. 
+The dataset ([`cholangitis.csv`](assets/cholangitis.csv)) comes from a randomized, clinical trial of the immunosuppressive drug D-penicillamine at the Mayo Clinic. 
 
 - The study consisted of patients living with primary biliary cholangitis, a fatal chronic autoimmune disease of unknown cause affecting the liver. The study lasted about 12 years.
 
-- Patients were randomly given either `D-penicillamine` or a placebo (variable `drug`), and both the patient and the health care providers were unaware as to which the patient received ("double-blinded"). 
+- Patients were randomly given either `D-penicillamine` or a placebo, and both the patient and the health care providers were unaware as to which the patient received ("double-blinded"). 
 
 There are 418 observations of 20 variables, both numeric and categorical. 
 
-- The description of the variables is found in `cholangitis_dictionary.csv`.
+- The description of the variables can be found in [`cholangitis_dictionary.csv`](assets/cholangitis_dictionary.csv).
 
 ### Visualizing the data (50\% of the default project grade)
 
-Perform exploratory data analysis of the data, using any appropriate tools we have learned. Note any interesting features of the data. 
+Perform exploratory data analysis of the data, using any appropriate tools we have learned. Note any interesting features of the data.
 
 - As you work on this part, you will produce dozens of plots and tables in `RStudio`. 
 
-- However, in the final submission, you will submit 5-7 professionally-formatted visualizations that each showcase a non-trivial finding from the data.
+- However, in the final submission, you will submit 3-5 professionally-formatted visualizations that each showcase a non-trivial finding from the data.
 
 - Each visualization should be accompanied by a compelling narrative caption that describes the key takeaways.
 
 - Note that EDA is **half of the default project grade.** There is a reason for this: Many interesting findings primarily originate from careful EDA, and statistical modeling supports or adds depth to these main findings.
 
 - So, you should be spending at least half of your project time making compelling visualizations! 
+
+- Your visualizations alone (i.e, without any other part of the submission) should be able to tell a compelling story about whether
+the drug D-penicillamine appears to be effective. 
 
 ### Hypothesis testing (20\% of the default project grade)
 
@@ -95,9 +98,9 @@ Perform (1) a linear regression analysis of the response (`n_days`) on the expla
 
 - In your submission, describe whether and how you transformed your data or covariates to fit your models, or excluded any observations, and why. Tell a story.
 
-- There should be evidence that you considered interactions and polynomial terms when fitting your final models, though they do not necessarily have to be contained in the models.
+- There should be evidence that you considered interactions and polynomial terms when identifying the best model specification, though they do not necessarily have to be contained in your final models.
 
-- You should use cross-validation to select the best performing model specifications. You are free to choose any error metric to validate on. For example, you might choose RMSE, or another metric that you think is more appropriate given the dataset. 
+- You should use cross-validation to select the best performing model specifications. You are free to choose any error metric to validate on. For example, you might choose RMSE, TPR, TNR, or another metric that you think is most appropriate given the dataset and your assumptions about the scenario.
 
 - Based on your models, what conclusion can you draw about the effect of the drug D-penicillamine on patient survival? Does the effect appear to differ across groups? Be sure to draw on the tools of inference in your answer.
 

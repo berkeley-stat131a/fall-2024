@@ -15,7 +15,9 @@ website:
       - href: index.qmd
         text: Home / Schedule
       - href: assignments.qmd
-        text: HW, Labs, Project
+        text: HW and Labs
+      - href: project.qmd
+        text: Project
       - href: syllabus.qmd
         text: Syllabus
       - href: staff.qmd
