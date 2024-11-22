@@ -1,5 +1,5 @@
 ---
-title: "Final project (DRAFT, SUBJECT TO CHANGE)"
+title: "Final project"
 editor: 
   markdown: 
     wrap: sentence
