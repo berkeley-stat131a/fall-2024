@@ -959,77 +959,77 @@
             # - id: "Lecture code (DataHub)"
             #   href: "#"
 
-# - week: 14
-#   days:
-#     - date: "Mon Nov 25"
-#       items:
-#         - type: "Lecture"
-#           id: "39"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Tue Nov 26"
-#       items:
-#         - type: "Section"
-#           id: "25"
-#           name: TBD
-#           href: "#"
-#     - date: "Wed Nov 27"
-#       items:
-#         - type: "Lecture"
-#           id: "40"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
-#     - date: "Thu Nov 28"
-#       items:
-#         - type: "Section"
-#           id: "26"
-#           name: TBD
-#           href: "#"
-#     - date: "Fri Nov 29"
-#       items:
-#         - type: "Lecture"
-#           id: "41"
-#           name: TBD
-#           href: "#"
-#           auxil:
-#             # - id: "Slides"
-#             #   href: "#"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             # - id: "Worksheet"
-#             #   href: "#"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "#"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
+- week: 14
+  days:
+    - date: "Mon Nov 25"
+      items:
+        - type: "Lecture"
+          id: "23a"
+          name: Principal component analysis (PCA)
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1qPGpPVCNZxiRAGGlMRARdIT6Gkgpu2bJ8r6nkQfpz2Y/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1uTCbDyt1ZYetRM9euT5K3R7fVqcz0YLlqU0lwAZJC7g/edit?usp=sharing"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+    - date: "Tue Nov 26"
+      items:
+        - type: "Section"
+          id: "25"
+          name: TBD
+          href: "#"
+    - date: "Wed Nov 27"
+      items:
+        - type: "Lecture"
+          id: "40"
+          name: TBD
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Thu Nov 28"
+      items:
+        - type: "Section"
+          id: "26"
+          name: TBD
+          href: "#"
+    - date: "Fri Nov 29"
+      items:
+        - type: "Lecture"
+          id: "41"
+          name: TBD
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "#"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Worksheet"
+            #   href: "#"
+            # - id: "Abridged slides for live notes"
+            #   href: "#"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
 
 # - week: 15
 #   days:
