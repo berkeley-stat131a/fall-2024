@@ -25,10 +25,6 @@ listing:
 
 ## Announcements 📣
 
-Midterm 2 walkthrough video posted to bcourses.
-
-[Lab 10](assignments.html) is due Friday, 11/22 at midnight. Posted before Tuesday's lab section.
-
 [HW5](assignment5.html) is due Monday, 11/25 at midnight.
 
 ## Schedule 📅
