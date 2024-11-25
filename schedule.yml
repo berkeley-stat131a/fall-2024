@@ -983,14 +983,14 @@
     - date: "Tue Nov 26"
       items:
         - type: "Section"
-          id: "25"
-          name: TBD
+          id: "NA"
+          name: No section today!
           href: "#"
     - date: "Wed Nov 27"
       items:
         - type: "Lecture"
-          id: "40"
-          name: TBD
+          id: "NA"
+          name: No lecture today!
           href: "#"
           auxil:
             # - id: "Slides"
@@ -1008,14 +1008,14 @@
     - date: "Thu Nov 28"
       items:
         - type: "Section"
-          id: "26"
-          name: TBD
+          id: "NA"
+          name: No section today!
           href: "#"
     - date: "Fri Nov 29"
       items:
         - type: "Lecture"
-          id: "41"
-          name: TBD
+          id: "NA"
+          name: No lecture today!
           href: "#"
           auxil:
             # - id: "Slides"
