@@ -221,8 +221,8 @@
     "objectID": "assignments.html#hw6",
     "href": "assignments.html#hw6",
     "title": "Due dates",
-    "section": "HW6",
-    "text": "HW6\nDetails forthcoming.\nAnticipated due date: Monday, December 9, midnight PT",
+    "section": "🏁 HW6",
+    "text": "🏁 HW6\nHW 6 details\nAnticipated due date: Monday, December 9, midnight PT",
     "crumbs": [
       "HW and Labs"
     ]
@@ -232,7 +232,7 @@
     "href": "assignments.html#final-project",
     "title": "Due dates",
     "section": "Final project",
-    "text": "Final project\nDetails forthcoming.\nAnticipated due date: Sunday, December 15, midnight PT",
+    "text": "Final project\nProject details\nAnticipated due date: Sunday, December 15, midnight PT",
     "crumbs": [
       "HW and Labs"
     ]
@@ -353,27 +353,6 @@
     "text": "Data 2"
   },
   {
-    "objectID": "assignment5.html",
-    "href": "assignment5.html",
-    "title": "📝 HW5",
-    "section": "",
-    "text": "Due date: Monday, November 25 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
-  },
-  {
-    "objectID": "assignment5.html#submission",
-    "href": "assignment5.html#submission",
-    "title": "📝 HW5",
-    "section": "📮 Submission",
-    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
-  },
-  {
-    "objectID": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
-    "href": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
-    "title": "📝 HW5",
-    "section": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)",
-    "text": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)\nDataHub\n\nThe HW5 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
-  },
-  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Final project",
@@ -412,6 +391,55 @@
     "crumbs": [
       "Project"
     ]
+  },
+  {
+    "objectID": "assignment5.html",
+    "href": "assignment5.html",
+    "title": "📝 HW5",
+    "section": "",
+    "text": "Due date: Monday, November 25 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
+  },
+  {
+    "objectID": "assignment5.html#submission",
+    "href": "assignment5.html#submission",
+    "title": "📝 HW5",
+    "section": "📮 Submission",
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
+  },
+  {
+    "objectID": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
+    "href": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
+    "title": "📝 HW5",
+    "section": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)",
+    "text": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)\nDataHub\n\nThe HW5 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
+  },
+  {
+    "objectID": "assignment6.html",
+    "href": "assignment6.html",
+    "title": "📝 HW6",
+    "section": "",
+    "text": "Due date: Monday, December 9 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
+  },
+  {
+    "objectID": "assignment6.html#submission",
+    "href": "assignment6.html#submission",
+    "title": "📝 HW6",
+    "section": "📮 Submission",
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor multiple choice problems, submit your answers and justifications as a PDF.\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
+  },
+  {
+    "objectID": "assignment6.html#getting-started-on-final-exam-prep-25-of-the-hw6-grade",
+    "href": "assignment6.html#getting-started-on-final-exam-prep-25-of-the-hw6-grade",
+    "title": "📝 HW6",
+    "section": "💯 Getting started on final exam prep (25% of the HW6 grade)",
+    "text": "💯 Getting started on final exam prep (25% of the HW6 grade)\nAnswer the following multiple choice questions.\n\nFor each question, provide a complete justification of your answer. In other words, you should state why option A is correct/incorrect, and why option B is correct/incorrect.\n\n\n1. Linear regression is considered a parametric method because:\nA. Linear combinations can take on any value between \\(-\\infty\\) and \\(\\infty\\).\nB. The residuals in the assumed data-generating process for linear regression are normally distributed.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n2. Logistic regression is considered a classification algorithm because:\nA. Outcomes in the training data are binary.\nB. Log odds are modeled as a linear combination of coefficients and covariates.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n3. Principal component analysis (PCA) is considered an unsupervised method because:\nA. It changes the frame of reference of the data to maximimize variance across each orthogonal dimension.\nB. It predicts outcomes conditional on the inputted covariates.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n4. LOESS is considered a supervised method because:\nA. Unlike linear regression, it can model non-linear relationships.\nB. Unlike logistic regression, it requires the outcome variable to be real-valued and not binary.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n5. Bootstrap resampling of the observed data is considered a non-parametric approach because:\nA. It can be used to estimate the standard error of the sampling distribution of a sample statistic.\nB. It requires us to assume how the input data was generated.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n6. The permutation test is considered a non-parametric approach because:\nA. It cannot be implemented in a reasonable amount of time without using a computer.\nB. It assumes that the sampling distribution of the permutation test statistic is approximately normal.\nC. Both A and B are correct.\nD. Neither A nor B is correct.\n\n7. The \\(k\\)-means clustering algorithm is considered an unsupervised method because:\nA. We can compare the identified centroids to a set of true centroids.\nB. It identifies the optimal number of clusters for a given dataset, without assuming how many points should be assigned to each cluster.\nC. Both A and B are correct.\nD. Neither A nor B is correct."
+  },
+  {
+    "objectID": "assignment6.html#getting-started-on-the-course-project-75-of-the-hw6-grade",
+    "href": "assignment6.html#getting-started-on-the-course-project-75-of-the-hw6-grade",
+    "title": "📝 HW6",
+    "section": "🏗️ Getting started on the course project (75% of the HW6 grade)",
+    "text": "🏗️ Getting started on the course project (75% of the HW6 grade)\nPlease read the course project page.\n\nIf you choose to pursue the default project, you must take a first pass at the visualization component.\n\nSpecifically, you must submit 3-5 professionally-formatted visualizations that each showcase a non-trivial finding from the data.\nEach visualization should be accompanied by a compelling narrative caption that describes its key takeaway(s).\nThe course staff will provide comments on your submission so that you can improve your visualizations and captions for the final project submission.\nIf you’d like, you may also complete additional parts of the default project, and the course staff will provide feedback. But, this is not required, and no extra credit will be awarded.\n\nIf you would like to pursue a custom project, you must schedule a meeting the course staff to discuss your project, and also submit a short project proposal with the following components:\n\nA research question\nA description of the dataset(s) that you will use for your project. This must be a real dataset, not a hypothetical dataset that you have not yet identified.\nAn analysis plan\nAt least one plot that showcases a non-trivial preliminary finding from the data.\n\n\nFor structuring your proposal, you may find it helpful to read the last FAQ on the project page."
   },
   {
     "objectID": "staff.html",
