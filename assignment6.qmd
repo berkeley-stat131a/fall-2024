@@ -27,18 +27,21 @@ Some components of this assignment have not been seen by a previous cohort of ST
 ## 📮 Submission
 
 Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089).
-The Gradescope will be live at least a few days before the HW deadline.
+
+- The Gradescope should be live at least a few days before the HW deadline. Feel free to remind us on Ed if the Gradescope isn't live in time! 
 
 -   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
-
+    
 **You must submit a PDF of any PingPong chats that include code you used in your submission.**
-
+    
 -   This should take the form of one long PDF.
     One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.
 
 -   You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
 
 **For multiple choice problems, submit your answers and justifications as a PDF.**
+
+- You are free to use any text-editing software to write your answers.
 
 **For the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
 
@@ -52,6 +55,24 @@ The Gradescope will be live at least a few days before the HW deadline.
 -   Proofread your PDF to make sure all of your answers and plots are visible.
     If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector.
     Make sure to comment out any code that prints more information than each question asks you for.
+    
+## 📝 Forms to complete
+
+1. Complete a [5-minute research survey](https://docs.google.com/forms/d/e/1FAIpQLSfL9PRcRhKMPTPGrdH1jEIrNNJ768jI6NnhE6IixJJy6taDAg/viewform?usp=sf_link) on PingPong!
+
+    - You are one of the first classes **in the history of human civilization** to
+    have access to a course-customized large-language model. Your responses to this
+    survey are **very** valuable to the scientific community.
+    
+    - If you don't like PingPong, or you've rarely used it, we still want to hear from you! 
+    
+    - As a thank you for completing the survey, I will share a summary and analysis of the responses once the survey is closed.
+
+2. Take 5 minutes to complete the [STAT 131A course evaluation](https://course-evaluations.berkeley.edu/).
+
+    - Van and Josh would be **really** grateful to hear your feedback about the course. 
+    
+    - We want to make 131A as effective as possible for as many students as possible, and we want to make sure your voice is heard!
     
 ## 💯 Getting started on final exam prep (25% of the HW6 grade)
 
@@ -167,7 +188,7 @@ at the visualization component.
     and the course staff will provide feedback. But, this is not required, and 
     no extra credit will be awarded.
 
-2. If you would like to pursue a **custom project**, you must [schedule a meeting the course staff](https://docs.google.com/spreadsheets/d/1jQyyKDrdF7UDHu40CWj5WTdIBn6w3iIbJmG8MRmqZRA/edit?usp=sharing) to discuss your project, and also submit a short **project proposal** with the following components:
+2. If you would like to pursue a **custom project**, you must [schedule a meeting the course staff](https://docs.google.com/spreadsheets/d/1jQyyKDrdF7UDHu40CWj5WTdIBn6w3iIbJmG8MRmqZRA/edit?usp=sharing) to discuss your project, and also submit a 1-2 page **project proposal** with the following components:
 
     - A research question
     
@@ -178,6 +199,6 @@ at the visualization component.
     
     - At least one plot that showcases a non-trivial preliminary finding from the data.
 
-For structuring your proposal, you may find it helpful to read the [last FAQ](https://stat131a.berkeley.edu/fall-2024/project.html#is-there-a-rough-outline-of-what-youre-looking-for-in-the-memo-and-presentation) on the project page.
+    - For structuring your proposal, you may find it helpful to read the [last FAQ](https://stat131a.berkeley.edu/fall-2024/project.html#is-there-a-rough-outline-of-what-youre-looking-for-in-the-memo-and-presentation) on the project page.
 
 

@@ -25,15 +25,15 @@ listing:
 
 ## Announcements 📣
 
-Take five minutes to [fill out the 131A course evaluation](https://course-evaluations.berkeley.edu/).
-
-- Van and Josh would be **really** grateful to hear your feedback about 131A.
-
 If you are interested in completing a **custom project**, it is critical that you meet with a member of the course staff before HW6 is due (Monday 12/9 at midnight).
 
 - You can sign up for a 15-minute project meeting [here](https://docs.google.com/spreadsheets/d/1jQyyKDrdF7UDHu40CWj5WTdIBn6w3iIbJmG8MRmqZRA/edit?usp=sharing).
 
 - If you intend to complete the [default project](project.html), you do not need to sign up for a meeting.
+
+[HW6](assignment6.html) is due Monday December 9th at midnight.
+
+Lab 11 is due Friday December 6th at midnight. Posted soon.
 
 ## Schedule 📅
 

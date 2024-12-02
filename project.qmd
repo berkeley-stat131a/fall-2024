@@ -187,6 +187,18 @@ If you plan to create a survey, be sure to receive approval of your survey from 
 
 Effective survey design can take much longer than expected, so it's not a good option for a last-minute project!
 
+#### Do we have to use `R` for our analysis?
+
+In general, yes. However, if you're using a technique that goes beyond the 
+techniques taught in this course, like web scraping, you are free to use
+another language like `Python`. 
+
+#### Can I use data from another class or research project?
+
+Absolutely! Of course, don't just turn in the same project that you've turned
+in for another class. That's a recipe for disaster. But, we are fine with double-
+or triple-dipping topics across your classes. It's never bad practice to dig deeper into one dataset or topic. 
+
 #### Is there a rough outline of what you're looking for in the memo and presentation?
 
 As mentioned above, the project is intentionally open-ended and doesn't have a fixed rubric. That being said, here is a sample outline that has worked for many projects in the past. Keep in mind that your outline may differ!
