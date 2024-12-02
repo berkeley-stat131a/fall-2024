@@ -43,7 +43,9 @@ Submit your assignment via [Gradescope](https://www.gradescope.com/courses/83308
 
 - You are free to use any text-editing software to write your answers.
 
-**For the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
+**For the project component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.**
+
+-  **Make sure to clearly indicate your group members at the top of your submission.** You should each submit the same version of your project component.
 
 -   On Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.
 
