@@ -141,15 +141,15 @@ Link forthcoming.
 
 Anticipated due date: Friday, December 6, midnight PT
 
-## HW6
+## 🏁 HW6
 
-Details forthcoming.
+[HW 6 details](assignment6.html)
 
 Anticipated due date: Monday, December 9, midnight PT
 
 ## Final project
 
-Details forthcoming.
+[Project details](project.html)
 
 Anticipated due date: Sunday, December 15, midnight PT
 
