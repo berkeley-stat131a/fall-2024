@@ -1026,10 +1026,15 @@
           id: "25"
           name: k-means and PCA
           href: "#"
+          auxil:
+            - id: "Lab 11 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            - id: "Lab 11 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
     - date: "Wed Dec 4"
       items:
         - type: "Lecture"
-          id: "24"
+          id: "24a"
           name: Decision trees
           href: "#"
           auxil:
@@ -1037,10 +1042,10 @@
             #   href: "#"
             # - id: "Annotated slides"
             #   href: "#"
-            # - id: "Worksheet"
-            #   href: "#"
-            # - id: "Abridged slides for live notes"
-            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/16eeUOIbWVCe22mzl0eqOQfRob5mHUqeGllrqPdOXeNs/edit?usp=sharing"
+            - id: "Abridged slides for live notes"
+              href: "https://docs.google.com/presentation/d/1fqLoxvLDKbJc7IWb89skWlC2H7jrHE9Jjae3_fCSH44/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
@@ -1049,12 +1054,12 @@
       items:
         - type: "Section"
           id: "26"
-          name: Decision trees
+          name: Wrap up k-means and PCA. If time, decision trees.
           href: "#"
     - date: "Fri Dec 6"
       items:
         - type: "Lecture"
-          id: "25"
+          id: "24b"
           name: Random forests and closing case study
           href: "#"
           auxil:
