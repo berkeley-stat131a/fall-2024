@@ -1035,17 +1035,17 @@
       items:
         - type: "Lecture"
           id: "24a"
-          name: Decision trees
+          name: Decision trees, bagging, and random forests
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1_7oJHf85G8XBKj5XLlAZ4_vEX_d4LeHfJsrGEdXz9Lo/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/16eeUOIbWVCe22mzl0eqOQfRob5mHUqeGllrqPdOXeNs/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1fqLoxvLDKbJc7IWb89skWlC2H7jrHE9Jjae3_fCSH44/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1fqLoxvLDKbJc7IWb89skWlC2H7jrHE9Jjae3_fCSH44/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
@@ -1060,7 +1060,7 @@
       items:
         - type: "Lecture"
           id: "24b"
-          name: Random forests and closing case study
+          name: More on decision trees, bagging, and random forests
           href: "#"
           auxil:
             # - id: "Slides"
