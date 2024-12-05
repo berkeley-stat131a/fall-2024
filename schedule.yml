@@ -921,14 +921,14 @@
           name: A brief overview of statistical methods
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1wFZM1TEQJ1uY1Q2LVMqb49LNUmO9S-wwp9JfoAROb6U/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1uN-fM_pPO9ZuRywgEbTsyAPJ-Lx-MBz527y3ZQWywEc/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/16Zw7z2B6hx8FH9urkaQDRXuLrFaWy4yRpAvvOqzHCZQ/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/16Zw7z2B6hx8FH9urkaQDRXuLrFaWy4yRpAvvOqzHCZQ/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
