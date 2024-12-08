@@ -1063,14 +1063,14 @@
           name: More on decision trees, bagging, and random forests
           href: "#"
           auxil:
-            # - id: "Slides"
-            #   href: "#"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1vrtRLib3lrlaGOlMXEklPgspQ4XQaUASormQpykZq3w/edit?usp=sharing"
             # - id: "Annotated slides"
             #   href: "#"
             - id: "Worksheet"
               href: "https://docs.google.com/presentation/d/1JmlfQ-18z6EtorYBAQSsdTuoYPkZ6hJwrPhBfhmToQ0/edit?usp=sharing"
-            - id: "Abridged slides for live notes"
-              href: "https://docs.google.com/presentation/d/1BT6DJ2cZj6wcDQXz66gWkm9ok1D7x1pSVGfzfxMcKpM/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1BT6DJ2cZj6wcDQXz66gWkm9ok1D7x1pSVGfzfxMcKpM/edit?usp=sharing"
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
