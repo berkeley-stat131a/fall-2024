@@ -1076,3 +1076,45 @@
             # - id: "Lecture code (DataHub)"
             #   href: "#"
 
+- week: 16
+  days:
+    - date: "Mon Dec 9"
+      items:
+        - type: "Lecture"
+          id: "FP1"
+          name: Final prep lecture 1
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/14asmNnpJeY7XPaw1vJeQhWXMlOivoksWZXEZ_zCCXB4/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Practice problems on bcourses"
+              href: "#"
+    - date: "Wed Dec 11"
+      items:
+        - type: "Lecture"
+          id: "FP2"
+          name: Final prep lecture 2
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/14asmNnpJeY7XPaw1vJeQhWXMlOivoksWZXEZ_zCCXB4/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Practice problems on bcourses"
+              href: "#"
+    - date: "Fri Dec 13"
+      items:
+        - type: "Lecture"
+          id: "FP3"
+          name: Final prep lecture 3
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/14asmNnpJeY7XPaw1vJeQhWXMlOivoksWZXEZ_zCCXB4/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Practice problems on bcourses"
+              href: "#"
+    
