@@ -357,7 +357,7 @@
     "href": "project.html",
     "title": "Final project",
     "section": "",
-    "text": "You have two choices for the STAT 131A final project:\n\nThe default project. The default project is a lot like an open-ended homework assignment. You will use tools from the course to conduct an open-ended exploration of a cleaned dataset.\nA custom project. The custom project is an opportunity to explore a topic of your choosing. You will need to identify and clean your own dataset(s), and you will have more flexibility in the tools you use to analyze the data.\n\nThe total expected time required for a proficient grade on the default project versus a custom project is the same.\n\nHowever, a custom project may require more time devoted to formulating a research question and identifying/cleaning data, while the default project may require more time devoted to coding.\nIf you want to produce an “above and beyond” project that can be showcased on your resume or personal website, or a project that can be described in a future letter of recommendation, we recommend that you consider a custom project.\nBut, please keep in mind that you can still receive up to 100% on the final project grade by completing the default project.",
+    "text": "Due date: Sunday, December 15 at midnight.",
     "crumbs": [
       "Project"
     ]
@@ -366,8 +366,8 @@
     "objectID": "project.html#options",
     "href": "project.html#options",
     "title": "Final project",
-    "section": "",
-    "text": "You have two choices for the STAT 131A final project:\n\nThe default project. The default project is a lot like an open-ended homework assignment. You will use tools from the course to conduct an open-ended exploration of a cleaned dataset.\nA custom project. The custom project is an opportunity to explore a topic of your choosing. You will need to identify and clean your own dataset(s), and you will have more flexibility in the tools you use to analyze the data.\n\nThe total expected time required for a proficient grade on the default project versus a custom project is the same.\n\nHowever, a custom project may require more time devoted to formulating a research question and identifying/cleaning data, while the default project may require more time devoted to coding.\nIf you want to produce an “above and beyond” project that can be showcased on your resume or personal website, or a project that can be described in a future letter of recommendation, we recommend that you consider a custom project.\nBut, please keep in mind that you can still receive up to 100% on the final project grade by completing the default project.",
+    "section": "Options",
+    "text": "Options\nYou have two choices for the STAT 131A final project:\n\nThe default project. The default project is a lot like an open-ended homework assignment. You will use tools from the course to conduct an open-ended exploration of a cleaned dataset.\nA custom project. The custom project is an opportunity to explore a topic of your choosing. You will need to identify and clean your own dataset(s), and you will have more flexibility in the tools you use to analyze the data.\n\nThe total expected time required for a proficient grade on the default project versus a custom project is the same.\n\nHowever, a custom project may require more time devoted to formulating a research question and identifying/cleaning data, while the default project may require more time devoted to coding.\nIf you want to produce an “above and beyond” project that can be showcased on your resume or personal website, or a project that can be described in a future letter of recommendation, we recommend that you consider a custom project.\nBut, please keep in mind that you can still receive up to 100% on the final project grade by completing the default project.",
     "crumbs": [
       "Project"
     ]
@@ -665,7 +665,7 @@
     "href": "syllabus.html#exams",
     "title": "Syllabus",
     "section": "Exams ⌛",
-    "text": "Exams ⌛\nThe first midterm is scheduled for Wednesday October 9 and will take place during lecture in Morgan 101.\nThe second midterm is scheduled for Wednesday November 13 and will take place during lecture in Morgan 101.\nThe final exam will take place Thursday December 19, 3-6pm (scheduled by the registrar). Location TBD.\nAll exams are cumulative, with emphasis on more recent material.\n\nTo acknowledge maturation over the course of the semester, exams are increasingly weighted in your course grade.\nIf you do not perform well on the first midterm, you can still do very well in 131a!\n\nIf you cannot attend an exam due to an extenuating circumstance, please contact the course staff ASAP to determine whether your circumstance qualifies for a make-up exam.",
+    "text": "Exams ⌛\nThe first midterm is scheduled for Wednesday October 9 and will take place during lecture in Morgan 101.\nThe second midterm is scheduled for Wednesday November 13 and will take place during lecture in Morgan 101.\nThe final exam will take place Thursday December 19, 3-6pm (scheduled by the registrar). Location TBD.\n\nAll exams are cumulative, with emphasis on more recent material.\nTo acknowledge maturation over the course of the semester, exams are increasingly weighted in your course grade.\nIf you do not perform well on the first midterm, you can still do very well in 131a!\nUpdate: We will raise your midterm 1 and midterm 2 scores to up to 80% of the maximum score, based on your performance on the relevant sections of the final.\n\nIf you cannot attend an exam due to an extenuating circumstance, please contact the course staff ASAP to determine whether your circumstance qualifies for a make-up exam.",
     "crumbs": [
       "Syllabus"
     ]
