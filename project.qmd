@@ -5,6 +5,10 @@ editor:
     wrap: sentence
 ---
 
+**Due date:** Sunday, December 15 at midnight.
+
+- Slip days cannot be used on the final project.
+
 ## Options
 
 You have two choices for the STAT 131A final project:
