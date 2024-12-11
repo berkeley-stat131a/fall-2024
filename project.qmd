@@ -45,7 +45,9 @@ The default project may be completed in groups of 1-3 students.
 
 Each default project team will prepare a **8-10 page memo** summarizing their key findings.
 
-- See the custom project FAQs below for more details about the content of the memo. 
+- Your memo should not contain any code. It should contain only text and visualizations. 
+
+- See the custom project FAQs below for a sense of how you might structure your memo. You can also check out [sample project memos](https://jdgrossman.com/assets/mse-125-example-projects.zip) on other topics. 
 
 - Keep in mind that the custom project memo is only 3 pages, but custom project teams must also record a 5-7 minute lightning talk of their findings.
 
@@ -126,6 +128,8 @@ You are free to pursue any topic related to applied statistics.
 Note that these projects are from a different class and have a different format, but the spirit is the same.
 
 Each custom project team of **3 students** will prepare a **3-page memo** containing **3-5 visualizations** and text that summarizes their key findings, and **record a lightning talk of approximately 5-7 minutes** to be reviewed by a member of the teaching staff.
+
+- Your memo should not contain any code. It should contain only text and visualizations. 
 
 > **Important note**: Suppose you spend 20 total hours on your project. As it turns out, 5 of those 20 hours were spent cleaning a dataset. Even though cleaning the dataset took 25% of your time, you probably should not devote 25% of your memo and presentation to describing the data cleaning process. Your memo and presentation should highlight the key takeaways of your analysis. 
 
