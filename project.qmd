@@ -27,7 +27,7 @@ The total expected time required for a proficient grade on the default project v
 
 ## Description of the default project
 
-The primary goals of the default project:
+The four deliverables of the default project:
 
 1. Conduct extensive exploratory data analysis (EDA) of data from a clinical trial
 
@@ -66,6 +66,12 @@ The dataset ([`cholangitis.csv`](assets/cholangitis.csv)) comes from a randomize
 There are 418 observations of 20 variables, both numeric and categorical. 
 
 - The description of the variables can be found in [`cholangitis_dictionary.csv`](assets/cholangitis_dictionary.csv).
+
+### Main guiding question
+
+Does the effect of the drug D-penicillamine on patients with primary biliary cholangitis differ from the effect of a placebo?
+
+- All of your analyses should be related to this research question in some way.
 
 ### Visualizing the data (50\% of the default project grade)
 
