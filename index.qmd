@@ -25,9 +25,11 @@ listing:
 
 ## Announcements 📣
 
-Please [complete your STAT 131A course evalulation](https://course-evaluations.berkeley.edu)!
+The final exam is Thursday, December 19th at 3pm in GPBB 100.
 
-- With just a couple minutes of your time, you can provide incredibly valuable feedback to Van and Josh.
+<!-- Please [complete your STAT 131A course evalulation](https://course-evaluations.berkeley.edu)! -->
+
+<!-- - With just a couple minutes of your time, you can provide incredibly valuable feedback to Van and Josh. -->
 
 ## Schedule 📅
 
